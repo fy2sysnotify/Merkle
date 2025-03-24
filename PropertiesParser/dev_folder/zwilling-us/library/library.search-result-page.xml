@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <folder folder-id="root">
+        <online-flag>true</online-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">SiteGenesis Online Store</page-title>
+            <page-title xml:lang="fr-FR">Boutique en ligne SiteGenesis</page-title>
+            <page-title xml:lang="it-IT">Negozio online SiteGenesis</page-title>
+            <page-title xml:lang="ja-JP">SiteGenesis オンラインストア</page-title>
+            <page-title xml:lang="zh-CN">SiteGenesis 网上商店</page-title>
+            <page-description xml:lang="x-default">Online shopping with the leader in on-demand eCommerce solutions.</page-description>
+            <page-description xml:lang="fr-FR">Achat en ligne avec le leader des solutions e-commerce à la demande.</page-description>
+            <page-description xml:lang="it-IT">Shopping online con il leader delle soluzioni di e-commerce on-demand.</page-description>
+            <page-description xml:lang="ja-JP">オンデマンド eコマースソリューションの最先端プラットフォームでオンラインショッピング。</page-description>
+            <page-description xml:lang="zh-CN">通过按需电子商务 (On-Demand eCommerce) 解决方案的佼佼者来进行网上购物。</page-description>
+            <page-keywords xml:lang="x-default">new arrivals,mens,womens,electronics</page-keywords>
+            <page-keywords xml:lang="fr-FR">nouveautés,hommes,femmes,électronique</page-keywords>
+            <page-keywords xml:lang="it-IT">nuovi arrivi,uomo,donna,elettronica</page-keywords>
+            <page-keywords xml:lang="ja-JP">新着,メンズ,レディース,電子機器</page-keywords>
+            <page-keywords xml:lang="zh-CN">新品、男士、女士、电子</page-keywords>
+        </page-attributes>
+        <refinement-definitions>
+            <refinement-definition type="folder" bucket-type="none">
+                <display-name xml:lang="x-default">Folder</display-name>
+                <display-name xml:lang="fr-FR">Dossier</display-name>
+                <display-name xml:lang="it-IT">Cartella</display-name>
+                <display-name xml:lang="ja-JP">フォルダー</display-name>
+                <display-name xml:lang="zh-CN">文件夹</display-name>
+                <sort-mode>folder-position</sort-mode>
+                <cutoff-threshold>5</cutoff-threshold>
+            </refinement-definition>
+        </refinement-definitions>
+    </folder>
+
+    
+
+    <folder folder-id="articles">
+        <display-name xml:lang="x-default">Articles</display-name>
+        <description xml:lang="x-default">Articles</description>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="sub-articles">
+        <display-name xml:lang="x-default">Sub Articles</display-name>
+        <description xml:lang="x-default">Sub Articles</description>
+        <online-flag>true</online-flag>
+        <parent>articles</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    
+
+    <folder folder-id="recipes">
+        <display-name xml:lang="x-default">Recipes</display-name>
+        <description xml:lang="x-default">Recipes</description>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    
+
+    
+    <content content-id="sample-content-1">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet.</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-1.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-10">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet.</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-1.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-11">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-5.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="recipes"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-13">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-6.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-14">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-4.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-2">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-2.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="recipes"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-3">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-2.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="sub-articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-4">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-5.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="recipes"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-5">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-6.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-6">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet.</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-1.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-7">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-4.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-8">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-7.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="sub-articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="sample-content-9">
+        <display-name xml:lang="x-default">How to care for your new chef's knife</display-name>
+        <description xml:lang="x-default">Read about how best to take care of your new blade. Lorem Ipsum Dolar Sit amet</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1 class="content-header"&gt;About Us&lt;/h1&gt;&#13;
+&lt;h2&gt;It all started with a series of observations:&lt;/h2&gt;      &#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;eCommerce merchandising and marketing innovation is what generates revenue, yet most operations are spending 80% of their budgets simply maintaining current infrastructure.&lt;/li&gt;&#13;
+&lt;li&gt;The pace of eCommerce accelerates daily, yet most operations are scrambling only to stand still.&lt;/li&gt;&#13;
+&lt;li&gt;Merchandisers and marketers are supremely frustrated, spending more time chasing outsourced providers and internal IT organizations than actually merchandising and marketing their own businesses.&lt;/li&gt;&#13;
+&lt;/ul&gt; &#13;
+&lt;h2&gt;There had to be a better way...&lt;/h2&gt;          &#13;
+&lt;p&gt;So in 2004, we set out to find it. The vision&amp;mdash;then and now&amp;mdash;was clear: bring to market an enterprise-class eCommerce solution that would put more power and innovation in the hands of merchandisers and at the same time would remove the technical costs, risks and complexities of running an ecommerce operation. We took what we knew of great eCommerce merchandising (our founders have been in ecommerce since 1994) and applied to it the then-emerging advancements in Software-as-a-Service architectures and dynamic grid computing. Then we just worked hard. We stayed up late. We drank lots of coffee. And ultimately, in late 2005, we delivered the market&amp;rsquo;s first on-demand enterprise ecommerce platform.&lt;/p&gt;                &#13;
+&lt;h2&gt;Our customers could not be happier with the results.&lt;/h2&gt;       &#13;
+&lt;p&gt;With Salesforce Commerce Cloud eCommerce, they're spending more time leading with merchandising and marketing. They're in complete control of their site, making changes and launching new storefronts whenever they like. They're spending more time developing their own proprietary innovations (versus building commodity functionality). They receive new software upgrades from Salesforce Commerce Cloud continuously. And they never ever worry about site uptime, availability and security.&lt;/p&gt;&#13;
+&lt;p&gt;In short, they're free. Free to merchandise. Free to grow. Free to innovate. Free to change. Isn't that how eCommerce is supposed to be?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+For more information please browse our &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,about-us)$"&gt;About Us&lt;/a&gt; and  &lt;a title="About Us Content" href="$url(Search-ShowContent,fdid,customer-service)$"&gt;Customer Service&lt;/a&gt; pages.&#13;
+&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-article/articles/article-2.png</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <folder-link folder-id="sub-articles"/>
+        </folder-links>
+    </content>
+
+    <content content-id="search-article-no-result">
+        <display-name xml:lang="x-default">Search Article No Result</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">We're unable to locate any article that meets your refinement selections at this time. Please expand your refinement selections or try your refinement for a different content.</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="search-product-no-result">
+        <display-name xml:lang="x-default">Search Product No Result</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">We're unable to locate any merchandise that meets your refinement selections at this time. Please expand your refinement selections or try your refinement for a different category.</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    
+
+    <content content-id="search-recipe-no-result">
+        <display-name xml:lang="x-default">Search Recipe No Result</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">We're unable to locate any recipe that meets your refinement selections at this time. Please expand your refinement selections or try your refinement for a different content.</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    
+
+</library>

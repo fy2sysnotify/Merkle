@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="distance-sell-agreement">
+    <display-name xml:lang="x-default">DISTANCE SALES AGREEMENT</display-name>
+    <description xml:lang="x-default">DISTANCE SALES AGREEMENT</description>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;body tr-popup&quot;&gt;
+        &lt;h1 class=&quot;D_H2&quot;&gt;MESAFELİ SATIŞ SÖZLEŞMESİ&lt;/h1&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;1. TARAFLAR&lt;/h2&gt;
+        
+        &lt;p&gt;İşbu Sözleşme aşağıdaki taraflar arasında aşağıda belirtilen hüküm ve şartlar çerçevesinde imzalanmıştır. &lt;/p&gt;
+        
+        &lt;p&gt;A, ‘ALICI’;(sözleşmede bundan sonra &quot;ALICI&quot; olarak anılacaktır) &lt;/p&gt;
+        
+        
+        &lt;p&gt;B, ‘SATICI’;(sözleşmede bundan sonra &quot;SATICI&quot; olarak anılacaktır) &lt;/p&gt;
+        
+        &lt;p&gt;İş bu sözleşmeyi kabul etmekle ALICI, sözleşme konusu siparişi onayladığı takdirde sipariş konusu bedeli ve varsa kargo ücreti, vergi gibi belirtilen ek ücretleri ödeme yükümlülüğü altına gireceğini ve bu konuda bilgilendirildiğini peşinen kabul eder. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;2. TANIMLAR&lt;/h2&gt;
+        
+        &lt;p&gt;İşbu sözleşmenin uygulanmasında ve yorumlanmasında aşağıda yazılı terimler karşılarındaki yazılı açıklamaları ifade edeceklerdir.&lt;br/&gt;
+        BAKAN: Gümrük ve Ticaret Bakanı’nı,&lt;br/&gt;
+        BAKANLIK: Gümrük ve Ticaret Bakanlığı’nı,&lt;br/&gt;
+        KANUN: 6502 sayılı Tüketicinin Korunması Hakkında Kanun’u,&lt;br/&gt;
+        YÖNETMELİK: Mesafeli Sözleşmeler Yönetmeliği’ni (RG:27.11.2014/29188)&lt;br/&gt;
+        HİZMET: Bir ücret veya menfaat karşılığında yapılan ya da yapılması taahhüt edilen mal sağlama dışındaki her türlü tüketici işleminin konusunu,&lt;br/&gt;
+        SATICI: Ticari veya mesleki faaliyetleri kapsamında tüketiciye mal sunan veya mal sunan adına veya hesabına hareket eden şirketi,&lt;br/&gt;
+        ALICI: Bir mal veya hizmeti ticari veya mesleki olmayan amaçlarla edinen, kullanan veya yararlanan gerçek ya da tüzel kişiyi,&lt;br/&gt;
+        SİTE: SATICI’ya ait www.zwilling.com/tr internet sitesini,&lt;br/&gt;
+        SİPARİŞ VEREN: Bir mal veya hizmeti SATICI’ya ait internet sitesi üzerinden talep eden gerçek ya da tüzel kişiyi,&lt;br/&gt;
+        TARAFLAR: SATICI ve ALICI’yı,&lt;br/&gt;
+        SÖZLEŞME: SATICI ve ALICI arasında akdedilen işbu sözleşmeyi,&lt;br/&gt;
+        MAL: Alışverişe konu olan taşınır eşyayı ve elektronik ortamda kullanılmak üzere hazırlanan yazılım, ses, görüntü ve benzeri gayri maddi malları ifade eder. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;3. KONU&lt;/h2&gt;
+        
+        &lt;p&gt;İşbu Sözleşme, ALICI’nın, SATICI’ya ait internet sitesi üzerinden elektronik ortamda siparişini verdiği aşağıda nitelikleri ve satış fiyatı belirtilen ürünün satışı ve teslimi ile ilgili olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmelere Dair Yönetmelik hükümleri gereğince tarafların hak ve yükümlülüklerini düzenler. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;4. SATICI BİLGİLERİ&lt;/h2&gt;
+        
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ünvanı:&lt;/td&gt;
+        &lt;td&gt;ZWILLING JA HENCKELS MUTFAK VE GÜZELLİK ÜRÜNLERİ LTD.ŞTİ.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Adres:&lt;/td&gt;
+        &lt;td&gt;Fatih Sultan Mehmet Mahallesi, Poligon Caddesi, No:8, Buyaka 2, Blok 3, K.6, Daire:40, Ümraniye/İstanbul&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Mersis No:&lt;/td&gt;
+        &lt;td&gt;999049705600019&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Telefon:&lt;/td&gt;
+        &lt;td&gt;0216 290 3111-14&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Faks:&lt;/td&gt;
+        &lt;td&gt;0216 290 3115&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;E-posta:&lt;/td&gt;
+        &lt;td&gt;info@zwilling.com.tr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;5. ALICI BİLGİLERİ&lt;/h2&gt;
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslim Edilecek Kişi:&lt;/td&gt;
+        &lt;td&gt;{0}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslimat Adresi:&lt;/td&gt;
+        &lt;td&gt;{1}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Telefon:&lt;/td&gt;
+        &lt;td&gt;{2}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;E-posta/Kullanıcı Adı:&lt;/td&gt;
+        &lt;td&gt;{3}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;6. SİPARİŞ VEREN KİŞİ BİLGİLERİ&lt;/h2&gt;
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ad/Soyad:&lt;/td&gt;
+        &lt;td&gt;{4}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Adres:&lt;/td&gt;
+        &lt;td&gt;{5}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Telefon:&lt;/td&gt;
+        &lt;td&gt;{6}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;E-posta/Kullanıcı Adı:&lt;/td&gt;
+        &lt;td&gt;{7}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;7. SÖZLEŞME KONUSU ÜRÜN/ÜRÜNLER BİLGİLERİ&lt;/h2&gt;
+        
+        &lt;p&gt;&lt;b&gt;7.1.&lt;/b&gt; Malın /Ürün/Ürünlerin/ Hizmetin temel özelliklerini (türü, miktarı, marka/modeli, rengi, adedi) SATICI’ya ait internet sitesinde yayınlanmaktadır. Satıcı tarafından kampanya düzenlenmiş ise ilgili ürünün temel özelliklerini kampanya süresince inceleyebilirsiniz. Kampanya tarihine kadar geçerlidir. &lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;7.2.&lt;/b&gt; Listelenen ve sitede ilan edilen fiyatlar satış fiyatıdır. İlan edilen fiyatlar ve vaatler güncelleme yapılana ve değiştirilene kadar geçerlidir. Süreli olarak ilan edilen fiyatlar ise belirtilen süre sonuna kadar geçerlidir. &lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;7.3.&lt;/b&gt; Sözleşme konusu mal ya da hizmetin tüm vergiler dâhil satış fiyatı aşağıda gösterilmiştir. &lt;/p&gt;
+        &lt;p&gt;
+        {22}
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;İndirim:&lt;/td&gt;
+        &lt;td&gt;{8} TL&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Kargo Tutarı:&lt;/td&gt;
+        &lt;td&gt;{9} TL&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Toplam:&lt;/td&gt;
+        &lt;td&gt;{10} TL&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ödeme Şekli ve Planı:&lt;/td&gt;
+        &lt;td&gt;{11}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td colspn=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslimat Adresi:&lt;/td&gt;
+        &lt;td&gt;{12}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslim Edilecek Kişi:&lt;/td&gt;
+        &lt;td&gt;{13}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Fatura Adresi:&lt;/td&gt;
+        &lt;td&gt;{14}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Sipariş Tarihi:&lt;/td&gt;
+        &lt;td&gt;{15}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslim Şekli:&lt;/td&gt;
+        &lt;td&gt;Alıcıya Teslim&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        
+        &lt;p&gt;&lt;b&gt;7.4.&lt;/b&gt;  Ürün sevkiyat masrafı olan kargo ücreti ALICI tarafından ödenecektir. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;8. FATURA BİLGİLERİ&lt;/h2&gt;
+        
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ad/Soyad:&lt;/td&gt;
+        &lt;td&gt;{16}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Adres:&lt;/td&gt;
+        &lt;td&gt;{17}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Telefon:&lt;/td&gt;
+        &lt;td&gt;{18}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;E-posta/Kullanıcı Adı:&lt;/td&gt;
+        &lt;td&gt;{19}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Fatura Teslim:&lt;/td&gt;
+        &lt;td&gt;Fatura sipariş teslimatı sırasında fatura adresine sipariş ile    birlikte teslim edilecektir.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;9. ÜRÜNLERİN TESLİMATI&lt;/h2&gt;
+        
+        &lt;p&gt;&lt;b&gt; 9.1.&lt;/b&gt; Sözleşme konusu her bir ürün, 30 günlük yasal süreyi aşmamak kaydı ile ALICI' nın yerleşim yeri uzaklığına bağlı olarak internet sitesindeki ön bilgiler kısmında belirtilen süre zarfında, ALICI veya ALICI’nın gösterdiği adresteki kişi ve/veya kuruluşa teslim edilir. Bu süre içinde ürünün ALICI’ya teslim edilememesi durumunda, ALICI’nın sözleşmeyi feshetme hakkı saklıdır.
+        &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt; 9.2.&lt;/b&gt;  SATICI, Sözleşme konusu ürünü eksiksiz, siparişte belirtilen niteliklere uygun ve varsa garanti belgeleri, kullanım kılavuzları işin gereği olan bilgi ve belgeler ile teslim etmeyi, her türlü ayıptan arî olarak yasal mevzuat gereklerine göre sağlam, standartlara uygun bir şekilde işi doğruluk ve dürüstlük esasları dâhilinde ifa etmeyi, hizmet kalitesini koruyup yükseltmeyi, işin ifası sırasında gerekli dikkat ve özeni göstermeyi, ihtiyat ve öngörü ile hareket etmeyi kabul, beyan ve taahhüt eder.
+        &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt; 9.3.&lt;/b&gt;  SATICI, sözleşmeden doğan ifa yükümlülüğünün süresi dolmadan ALICI’yı bilgilendirmek ve açıkça onayını almak suretiyle eşit kalite ve fiyatta farklı bir ürün tedarik edebilir. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;9.4.&lt;/b&gt;  ALICI, Sözleşme konusu ürünün teslimatı için işbu Sözleşme’yi elektronik ortamda teyit edeceğini, herhangi bir nedenle sözleşme konusu ürün bedelinin ödenmemesi ve/veya banka kayıtlarında iptal edilmesi halinde, SATICI’nın sözleşme konusu ürünü teslim yükümlülüğünün sona ereceğini kabul, beyan ve taahhüt eder. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;9.5.&lt;/b&gt;  ÜRÜN, ALICI'dan başka bir kişi/kuruluşa teslim edilecek ise, teslim edilecek kişi/kuruluşun teslimatı kabul etmemesinden SATICI sorumlu tutulamaz&lt;/p&gt;
+        
+        &lt;p&gt; &lt;b&gt;9.6.&lt;/b&gt; ALICI, sözleşme konusu mal/hizmeti teslim almadan önce muayene edecek; ezik, kırık, ambalajı yırtılmış vb. hasarlı ve ayıplı mal/hizmeti kargo şirketinden teslim almayacaktır. ALICI, hasarlı/ayıplı ÜRÜN’ü kabul etmemekle ve KARGO firması yetkililerine tutanak tutturmakla sorumludur, aksi takdirde SATICI sorumluluk kabul etmeyecektir. Teslim alınan mal/hizmetin hasarsız ve sağlam olduğu kabul edilecektir. Teslimden sonra mal/hizmetin özenle korunması borcu, ALICI’ya aittir.
+        &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt; 9.7.&lt;/b&gt;  ÜRÜN’ün teslimatı için bedelinin ALICI'nın tercih ettiği ödeme şekli ile ödenmiş olması şarttır. Herhangi bir nedenle ÜRÜN bedeli ödenmez veya banka kayıtlarında iptal edilir ise, SATICI ÜRÜN’ün teslimi yükümlülüğünden kurtulmuş kabul edilir.
+        &lt;/p&gt;
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;10. ÖDEME ŞEKLİ&lt;/h2&gt;
+        &lt;p&gt;&lt;b&gt;10.1.&lt;/b&gt; ALICI, vadeli satışların sadece Bankalara ait kredi kartları ile yapılması nedeniyle, alıcı, ilgili faiz oranlarını ve temerrüt faizi ile ilgili bilgileri bankasından ayrıca teyit edeceğini, yürürlükte bulunan mevzuat hükümleri gereğince faiz ve temerrüt faizi ile ilgili hükümlerin Banka ve alıcı arasındaki kredi kartı sözleşmesi kapsamında uygulanacağını kabul, beyan ve taahhüt eder. Bankalar ve finansman kuruluşları gibi kredi kartı, taksit kart v.b. veren kuruluşlarca sağlanan vadeli / taksitli ödeme imkanları bir kredi ve/veya doğrudan anılan kuruluşca sağlanmış taksitli ödeme imkanıdır; bu çerçevede gerçekleşen ve SATICI'nın bedelini tamamen tahsil ettiği ÜRÜN satışları işbu Sözleşme'nin tarafları yönünden taksitli satış sayılmaz, peşin satıştır. SATICI'nın kanunen taksitle satış sayılan hallerdeki yasal hakları (taksitlerden herhangi birinin ödenmemesi halinde sözleşmeyi fesih ve/veya kalan borcun tümünün temerrüt faizi ile birlikte ödenmesini talep hakları dahil) mevcut ve saklıdır. &lt;/p&gt;
+        
+        
+        &lt;p&gt; ALICI, ödeme işlemlerini kredi kartı ile yaptığı durumda temerrüde düştüğü takdirde, kart sahibi banka ile arasındaki kredi kartı sözleşmesi çerçevesinde faiz ödeyeceğini ve bankaya karşı sorumlu olacağını kabul, beyan ve taahhüt eder. Bu durumda ilgili banka hukuki yollara başvurabilir; doğacak masrafları ve vekâlet ücretini ALICI’dan talep edebilir ve her koşulda ALICI’nın borcundan dolayı temerrüde düşmesi halinde, ALICI, borcun gecikmeli ifasından dolayı SATICI’nın uğradığı zarar ve ziyanını ödeyeceğini kabul, beyan ve taahhüt eder&lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;10.2&lt;/b&gt; ÜRÜN teslimatı sonrasında herhangi bir sebepten dolayı, işlem yapılan kredi kartının ait olduğu Banka/finansman kurumunun ÜRÜN bedelini SATICI'ya ödememesi halinde, ÜRÜN en geç 3 gün içinde ALICI tarafından tüm giderleri ALICI'ya ait olmak üzere SATICI'ya iade edilir. SATICI'nın ÜRÜN bedeli alacağını takip dahil diğer tüm akdi-kanuni hakları ayrıca ve her halükarda saklıdır. &lt;/p&gt;
+        
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;11. GENEL HÜKÜMLER&lt;/h2&gt;
+        &lt;p&gt;&lt;b&gt;11.1.&lt;/b&gt; ALICI, SATICI’ya ait internet sitesinde sözleşme konusu ürünün temel nitelikleri, satış fiyatı ve ödeme şekli ile teslimata ilişkin ön bilgileri okuyup, ön bilgiler ve cayma hakkı konusunda bilgi sahibi olduğunu, elektronik ortamda gerekli teyidi verdiğini kabul, beyan ve taahhüt eder.
+        ALICI’nın; Ön Bilgilendirmeyi elektronik ortamda teyit etmesi, mesafeli satış sözleşmesinin kurulmasından evvel, SATICI tarafından ALICI' ya verilmesi gereken adresi, siparişi verilen ürünlere ait temel özellikleri, ürünlerin vergiler dâhil fiyatını, ödeme ve teslimat bilgilerini de doğru ve eksiksiz olarak edindiğini kabul, beyan ve taahhüt eder. Site’de yer alan ön bilgilendirme ve fatura iş bu sözleşmenin ayrılmaz parçalarıdır. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.2.&lt;/b&gt; ALICI, Sözleşme konusu ürünün ALICI veya ALICI’nın gösterdiği adresteki kişi ve/veya kuruluşa tesliminden sonra ALICI'ya ait kredi kartının yetkisiz kişilerce haksız kullanılması sonucunda sözleşme konusu ürün bedelinin ilgili banka veya finans kuruluşu tarafından SATICI'ya ödenmemesi halinde, ALICI Sözleşme konusu ürünü 3 gün içerisinde nakliye gideri SATICI’ya ait olacak şekilde SATICI’ya iade edeceğini kabul, beyan ve taahhüt eder. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.3.&lt;/b&gt; SATICI, tarafların iradesi dışında gelişen, önceden öngörülemeyen ve tarafların borçlarını yerine getirmesini engelleyici ve/veya geciktirici hallerin oluşması gibi mücbir sebepler halleri nedeni ile sözleşme konusu ürünü süresi içinde teslim edemez ise, durumu ALICI'ya 3 gün içinde yazılı olarak bildireceğini kabul, beyan ve taahhüt eder. ALICI da siparişin iptal edilmesini, sözleşme konusu ürünün varsa emsali ile değiştirilmesini ve/veya teslimat süresinin engelleyici durumun ortadan kalkmasına kadar ertelenmesini SATICI’dan talep etme hakkını haizdir. ALICI tarafından siparişin iptal edilmesi halinde, ALICI’nın nakit ile yaptığı ödemelerde, ürün tutarı 14 gün içinde kendisine nakden ve defaten ödenir. ALICI’nın kredi kartı ile yaptığı ödemelerde ise, ürün tutarı, siparişin ALICI tarafından iptal edilmesinden sonra 14 gün içerisinde ilgili bankaya iade edilir. ALICI, SATICI tarafından kredi kartına iade edilen tutarın banka tarafından ALICI hesabına yansıtılmasına ilişkin ortalama sürecin 2 ile 3 haftayı bulabileceğini, bu tutarın bankaya iadesinden sonra ALICI’nın hesaplarına yansıması halinin tamamen banka işlem süreci ile ilgili olduğundan, ALICI, olası gecikmeler için SATICI’yı sorumlu tutamayacağını kabul, beyan ve taahhüt eder. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.4.&lt;/b&gt; SATICININ, ALICI tarafından siteye kayıt formunda belirtilen veya daha sonra kendisi tarafından güncellenen adresi, e-posta adresi, sabit ve mobil telefon hatları ve diğer iletişim bilgileri üzerinden mektup, e-posta, SMS, telefon görüşmesi ve diğer yollarla iletişim, pazarlama, bildirim ve diğer amaçlarla ALICI’ya ulaşma hakkı bulunmaktadır. ALICI, işbu sözleşmeyi kabul etmekle SATICI’nın kendisine yönelik yukarıda belirtilen iletişim faaliyetlerinde bulunabileceğini kabul ve beyan etmektedir. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.5.&lt;/b&gt; ALICI ile sipariş esnasında kullanılan kredi kartı hamilinin aynı kişi olmaması veya ürünün ALICI’ya tesliminden evvel, siparişte kullanılan kredi kartına ilişkin güvenlik açığı tespit edilmesi halinde, SATICI, kredi kartı hamiline ilişkin kimlik ve iletişim bilgilerini, siparişte kullanılan kredi kartının bir önceki aya ait ekstresini yahut kart hamilinin bankasından kredi kartının kendisine ait olduğuna ilişkin yazıyı ibraz etmesini ALICI’dan talep edebilir. ALICI’nın talebe konu bilgi/belgeleri temin etmesine kadar geçecek sürede sipariş dondurulacak olup, mezkur taleplerin 24 saat içerisinde karşılanmaması halinde ise SATICI, siparişi iptal etme hakkını haizdir. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.6.&lt;/b&gt; ALICI, SATICI’ya ait internet sitesine üye olurken verdiği kişisel ve diğer sair bilgilerin gerçeğe uygun olduğunu, SATICI’nın bu bilgilerin gerçeğe aykırılığı nedeniyle uğrayacağı tüm zararları, SATICI’nın ilk bildirimi üzerine derhal, nakden ve defaten tazmin edeceğini beyan ve taahhüt eder.&lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.7.&lt;/b&gt; ALICI, SATICI’ya ait internet sitesini kullanırken yasal mevzuat hükümlerine riayet etmeyi ve bunları ihlal etmemeyi baştan kabul ve taahhüt eder. Aksi takdirde, doğacak tüm hukuki ve cezai yükümlülükler tamamen ve münhasıran ALICI’yı bağlayacaktır. &lt;/p&gt;
+        &lt;p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.8&lt;/b&gt;. ALICI, SATICI’ya ait internet sitesini hiçbir şekilde kamu düzenini bozucu, genel ahlaka aykırı, başkalarını rahatsız ve taciz edici şekilde, yasalara aykırı bir amaç için, başkalarının maddi ve manevi haklarına tecavüz edecek şekilde kullanamaz. Ayrıca, üye başkalarının hizmetleri kullanmasını önleyici veya zorlaştırıcı faaliyet (spam, virus, truva atı, vb.) işlemlerde bulunamaz. &lt;/p&gt;
+        &lt;p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.9 &lt;/b&gt; SATICI’ya ait internet sitesinin üzerinden, SATICI’nın kendi kontrolünde olmayan ve/veya başkaca üçüncü kişilerin sahip olduğu ve/veya işlettiği başka web sitelerine ve/veya başka içeriklere link verilebilir. Bu linkler ALICI’ya yönlenme kolaylığı sağlamak amacıyla konmuş olup herhangi bir web sitesini veya o siteyi işleten kişiyi desteklememekte ve Link verilen web sitesinin içerdiği bilgilere yönelik herhangi bir garanti niteliği taşımamaktadır.&lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;11.10&lt;/b&gt; İşbu sözleşme içerisinde sayılan maddelerden bir ya da birkaçını ihlal eden üye işbu ihlal nedeniyle cezai ve hukuki olarak şahsen sorumlu olup, SATICI’yı bu ihlallerin hukuki ve cezai sonuçlarından ari tutacaktır. Ayrıca; işbu ihlal nedeniyle, olayın hukuk alanına intikal ettirilmesi halinde, SATICI’nın üyeye karşı üyelik sözleşmesine uyulmamasından dolayı tazminat talebinde bulunma hakkı saklıdır.
+        &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;12. CAYMA HAKKI&lt;/h2&gt;
+        &lt;p&gt;&lt;b&gt;12.1.&lt;/b&gt; ALICI; mesafeli sözleşmenin mal satışına ilişkin olması durumunda, ürünün kendisine veya gösterdiği adresteki kişi/kuruluşa teslim tarihinden itibaren 14 (on dört) gün içerisinde, SATICI’ya bildirmek şartıyla hiçbir hukuki ve cezai sorumluluk üstlenmeksizin ve hiçbir gerekçe göstermeksizin malı reddederek sözleşmeden cayma hakkını kullanabilir. Hizmet sunumuna ilişkin mesafeli sözleşmelerde ise, bu süre sözleşmenin imzalandığı tarihten itibaren başlar. Cayma hakkı süresi sona ermeden önce, tüketicinin onayı ile hizmetin ifasına başlanan hizmet sözleşmelerinde cayma hakkı kullanılamaz. Cayma hakkının kullanımından kaynaklanan masraflar SATICI’ ya aittir. ALICI, iş bu sözleşmeyi kabul etmekle, cayma hakkı konusunda bilgilendirildiğini peşinen kabul eder. &lt;/p&gt;
+        
+        &lt;p&gt;&lt;b&gt;12.2.&lt;/b&gt; Cayma hakkının kullanılması için 14 (ondört) günlük süre içinde SATICI ya iadeli taahhütlü posta, faks veya eposta ile
+        yazılı bildirimde bulunulması ve ürünün işbu sözleşmede düzenlenen &quot;Cayma Hakkı Kullanılamayacak Ürünler&quot; hükümleri çerçevesinde kullanılmamış
+        olması şarttır. SATICI veya sağlayıcı malı kendisinin geri alacağına dair bir teklifte bulunmadıkça, ALICI cayma hakkını kullandığına
+        ilişkin bildirimi yönelttiği tarihten itibaren on gün içinde malı SATICI veya sağlayıcıya ya da yetkilendirmiş olduğu kişiye geri göndermek zorundadır.
+        Bu hakkın kullanılması halinde, &lt;/p&gt;
+        
+        &lt;p&gt;
+        a) 3. kişiye veya ALICI’ ya teslim edilen ürünün faturası, (İade edilmek istenen ürünün faturası kurumsal ise, iade ederken kurumun düzenlemiş olduğu iade faturası ile birlikte gönderilmesi gerekmektedir. Faturası kurumlar adına düzenlenen sipariş iadeleri İADE FATURASI kesilmediği takdirde tamamlanamayacaktır.)&lt;/p&gt;
+        
+        &lt;p&gt;b) İade formu,&lt;/p&gt;
+        &lt;p&gt;c) İade edilecek ürünlerin kutusu, ambalajı, varsa standart aksesuarları ile birlikte eksiksiz ve hasarsız olarak teslim edilmesi gerekmektedir.&lt;/p&gt;
+        &lt;p&gt; d) SATICI, cayma bildiriminin kendisine ulaşmasından itibaren en geç 14 günlük süre içerisinde toplam bedeli ve ALICI’yı borç altına sokan belgeleri ALICI’ ya iade etmekle yükümlüdür.&lt;/p&gt;
+        &lt;p&gt;e) ALICI’ nın kusurundan kaynaklanan bir nedenle malın değerinde bir azalma olursa veya iade imkânsızlaşırsa ALICI kusuru oranında SATICI’nın zararlarını tazmin etmekle yükümlüdür. Ancak cayma hakkı süresi içinde malın veya ürünün usulüne uygun kullanılması sebebiyle meydana gelen değişiklik ve bozulmalardan ALICI sorumlu değildir.&lt;/p&gt;
+        &lt;p&gt;        f) Cayma hakkının kullanılması nedeniyle SATICI tarafından düzenlenen kampanya limit tutarının altına düşülmesi halinde kampanya kapsamında faydalanılan indirim miktarı iptal edilir.
+        &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;13. CAYMA HAKKI KULLANILAMAYACAK ÜRÜNLER&lt;/h2&gt;
+        &lt;p&gt;
+        ALICI’nın isteği veya açıkça kişisel ihtiyaçları doğrultusunda hazırlanan ve geri gönderilmeye müsait olmayan, iç giyim alt parçaları, mayo ve bikini altları, makyaj malzemeleri, tek kullanımlık ürünler, çabuk bozulma tehlikesi olan veya son kullanma tarihi geçme ihtimali olan mallar, ALICI’ya teslim edilmesinin ardından ALICI tarafından ambalaj, bant, mühür, paket gibi  koruyucu unsurları açıldığı takdirde iade edilmesi sağlık ve hijyen açısından uygun olmayan ürünler, teslim edildikten sonra başka ürünlerle karışan ve doğası gereği ayrıştırılması mümkün olmayan ürünler, Abonelik sözleşmesi kapsamında sağlananlar dışında, gazete ve dergi gibi süreli yayınlara ilişkin mallar, Elektronik ortamda anında ifa edilen hizmetler veya tüketiciye anında teslim edilen gayrimaddi mallar, ile ses veya görüntü kayıtlarının, kitap, dijital içerik, yazılım programlarının, veri kaydedebilme ve veri depolama cihazlarının,  bilgisayar sarf malzemelerinin, ambalajının ALICI tarafından açılmış olması halinde iadesi Yönetmelik gereği mümkün değildir. Ayrıca Cayma hakkı süresi sona ermeden önce, tüketicinin onayı ile ifasına başlanan hizmetlere ilişkin cayma hakkının kullanılması da Yönetmelik gereği mümkün değildir. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;14. KİŞİSEL VERİLERİN KORUNMASI &lt;/h2&gt;
+        &lt;p&gt;
+        ALICI, kişisel verilerin işlenmesi hakkında mevzuat gereğince tereddüte yer vermeyecek şekilde aydınlatılmış olup, işbu sözleşmenin ifası haricindeki işleme amaçları için ayrıca ALICI’nın açık rızası temin edilecektir. ALICI’nın www.zwilling.com/tr sitesinde yeralan Veri Sahibi Başvuru Formu’ndan yararlanarak, KVK mevzuatı kapsamında, Veri Sorumlusu’na başvurma hakkı saklıdır.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Daha fazla bilgi için www.zwilling.com/tr sitesinde yer alan politika ve formlarımızı incelemenizi rica ederiz.
+        &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;15. YETKİLİ MAHKEME&lt;/h2&gt;
+        &lt;p&gt;
+        İşbu sözleşmeden doğan uyuşmazlıklarda şikayet ve itirazlar, aşağıdaki kanunda belirtilen parasal sınırlar dâhilinde tüketicinin yerleşim yerinin bulunduğu veya tüketici işleminin yapıldığı yerdeki tüketici sorunları hakem heyetine veya tüketici mahkemesine yapılacaktır. Parasal sınıra ilişkin bilgiler aşağıdadır:
+        01/01/2018 tarihinden itibaren geçerli olmak üzere, 2018 yılı için tüketici hakem heyetlerine yapılacak başvurularda değeri:
+        &lt;p&gt; a) 4570 (dörtbinbeşyüzyetmiş) Türk Lirasının altında bulunan uyuşmazlıklarda ilçe tüketici hakem heyetleri,&lt;/p&gt;
+        &lt;p&gt; b) Büyükşehir statüsünde olan illerde 4570 (dörtbinbeşyüzyetmiş) Türk Lirası ile 6.860 (altıbinsekizyüzaltmış) Türk Lirası arasındaki uyuşmazlıklarda il tüketici hakem heyetleri,&lt;/p&gt;
+        &lt;p&gt;c) Büyükşehir statüsünde olmayan illerin merkezlerinde 6.860 (altıbinsekizyüzaltmış) Türk Lirasının altında bulunan uyuşmazlıklarda il tüketici hakem heyetleri,&lt;/p&gt;
+        &lt;p&gt;ç) Büyükşehir statüsünde olmayan illere bağlı ilçelerde 4570 (dörtbinbeşyüzyetmiş) Türk Lirası ile 6.860 (altıbinsekizyüzaltmış) Türk Lirası arasındaki uyuşmazlıklarda il tüketici hakem heyetleri görevli kılınmışlardır.&lt;/p&gt;
+        İşbu Sözleşme ticari amaçlarla yapılmaktadır. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;16. YÜRÜRLÜK&lt;/h2&gt;
+        &lt;p&gt;
+        ALICI, Site üzerinden verdiği siparişe ait ödemeyi gerçekleştirdiğinde işbu sözleşmenin tüm şartlarını kabul etmiş sayılır. SATICI, siparişin gerçekleşmesi öncesinde işbu sözleşmenin sitede ALICI tarafından okunup kabul edildiğine dair onay alacak şekilde gerekli yazılımsal düzenlemeleri yapmakla yükümlüdür.
+        &lt;br/&gt;
+        SATICI:     ZWILLING J.A Henckels Türkiye Mutfak ve Güzellik Ürünleri Ltd. Şti.
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;ALICI:&lt;/td&gt;
+        &lt;td&gt;{20}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;TARİH:&lt;/td&gt;
+        &lt;td&gt;{21}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;/div&gt;</custom-attribute>
+      </custom-attributes>
+    </content>
+  </library>

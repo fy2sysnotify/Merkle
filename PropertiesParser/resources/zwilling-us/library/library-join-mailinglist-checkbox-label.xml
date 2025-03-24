@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+    <content content-id="join-mailinglist-checkbox-label">
+        <display-name xml:lang="x-default">Join Mailing List Checkbox Label</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Join the mailing list to be first to know about sales, events &amp; new arrivals.</custom-attribute>
+        </custom-attributes>
+    </content>
+
+</library>

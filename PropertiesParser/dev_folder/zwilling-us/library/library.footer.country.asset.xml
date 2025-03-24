@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="footer-country">
+        <display-name xml:lang="x-default">Footer Country</display-name>
+        <description xml:lang="x-default">Footer Country</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="country-select section-title"&gt;&#13;
+    &lt;span class="globe-icon"&gt;&lt;img alt="" src="images/footer/ic_globe.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    Select Country&#13;
+   &lt;span class="drawer-non-mobile"&gt;&#13;
+       &lt;span class="lang-arrow-down lang-arrow"&gt;&lt;img alt="" src="images/footer/lang-arrow-down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+       &lt;span class="lang-arrow-up lang-arrow"&gt;&lt;img alt="" src="images/footer/lang-arrow-up.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+   &lt;/span&gt;&#13;
+   &lt;span class="drawer"&gt;&#13;
+       &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+       &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+   &lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;!-- Countries can be listed within the below blocks [lang-section-one/lang-section-two], 6 in one block as per design, but can be more and flexible.--&gt;&#13;
+&lt;div class="section-content"&gt;&#13;
+    &lt;div class="lang-region"&gt;&#13;
+        &lt;div class="select-text"&gt;Select Language&lt;/div&gt;&#13;
+        &lt;div class="lang-section-one"&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://www.zwilling.ca/" target="_top"&gt;Canada&lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://dk.zwilling-shop.com/" target="_top"&gt;Denmark&lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://fr.zwilling-shop.com/" target="_top"&gt;France&lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://de.zwilling-shop.com/" target="_top"&gt;Germany&lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link active " href="https://jp.zwilling-shop.com/" target="_top"&gt;Japan &lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://www.ballarini.pl/" target="_top"&gt;Poland &lt;/a&gt;&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+&#13;
+        &lt;div class="lang-section-two"&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a _top="" href="http://www.zwilling-shop.ru/ target="&gt;Russia &lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://es.zwilling-shop.com/" target="_top"&gt;Spain &lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="https://uk.zwilling-shop.com/" target="_top"&gt;United Kingdom&lt;/a&gt;&lt;/div&gt;&#13;
+            &lt;div class="lang-country"&gt;&lt;a class="country__link  " href="http://www.zwillingonline.com/" target="_top"&gt;United States&lt;/a&gt;&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+&#13;
+    &lt;/div&gt;&#13;
+    &lt;div class="select-marker"&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

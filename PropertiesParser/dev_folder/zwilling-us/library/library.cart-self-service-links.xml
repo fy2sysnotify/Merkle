@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+
+    <content content-id="cart-self-service-links">
+        <display-name xml:lang="x-default">Cart self service links</display-name>
+        <description xml:lang="x-default">Cart-self-service-links</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="contact-wrapper"&gt;&#13;
+	&lt;h2 class="contact-title"&gt;Need Help?&lt;/h2&gt;&#13;
+	&lt;div class="contact-details-wrapper"&gt;&#13;
+			&lt;span class="contact-num"&gt;Call us at (800) 777 4308&lt;/span&gt;&#13;
+			&lt;span class="contact-details"&gt;Mon–Sat: 9am–12 am ET Sun: 11am–11pm ET&lt;/span&gt;&#13;
+	&lt;/div&gt;&#13;
+	&lt;ul class="self-service-menu"&gt;&#13;
+		&lt;li&gt;&lt;a href="#" title="FAQs"&gt;FAQs&lt;/a&gt;&lt;/li&gt;&#13;
+		&lt;li&gt;&lt;a href="#" title="Returns &amp; Cancellations"&gt;Returns &amp; Cancellations&lt;/a&gt;&lt;/li&gt;&#13;
+		&lt;li&gt;&lt;a href="#" title="Shipping Information"&gt;Shipping Information&lt;/a&gt;&lt;/li&gt;&#13;
+    	&lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="Contact Us"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;/ul&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+ 
+</library>

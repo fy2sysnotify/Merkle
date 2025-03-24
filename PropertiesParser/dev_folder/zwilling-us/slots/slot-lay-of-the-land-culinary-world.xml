@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    
+
+    <slot-configuration slot-id="lay-of-the-land-culinary-world" context="folder" context-id="culinaryworld" configuration-id="New Slot Configuration - 2018-07-23 17:44:10" default="true" assigned-to-site="true">
+        <template>slots/html/culinaryworld/layoftheland.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">LAY OF THE LAND</callout-msg>
+        <content>
+            <html>
+                <body xml:lang="x-default">{
+    "locations": [
+        [1, "USA", "images/slot/culinarylanding/LA-map.png?$staticlink$", "editorial-asset-id1", "Los Angeles"],
+        [2, "JAPAN", "images/slot/culinarylanding/LA-map.png?$staticlink$", "editorial-asset-id2", "Tokyo"],
+        [3, "FRANCE", "images/slot/culinarylanding/LA-map.png?$staticlink$", "editorial-asset-id3", "Made in France"],
+        [4, "ITALY", "images/slot/culinarylanding/LA-map.png?$staticlink$", "editorial-asset-id4", "Rome"],
+        [5, "GERMANY", "images/slot/culinarylanding/LA-map.png?$staticlink$", "editorial-asset-id5", "Germany"]
+    ],
+    "location_assets": [{
+        "ref": 1,
+        "cid": "video-asset-id1"
+    }, {
+        "ref": 1,
+        "cid": "video-asset-id2"
+    }, {
+        "ref": 1,
+        "cid": "video-asset-id3"
+    }, {
+        "ref": 2,
+        "cid": "video-asset-id4"
+    } ,{
+        "ref": 2,
+        "cid": "image-asset-1"
+    }]
+}</body>
+            </html>
+        </content>
+    </slot-configuration>
+
+    
+
+</slot-configurations>

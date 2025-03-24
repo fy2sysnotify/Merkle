@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="product-social-media">
+        <display-name xml:lang="x-default">Product Social Media</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class="socialLink facebook share-icon" href="http://www.facebook.com/sharer.php?u={1}" target="_blank"&gt;&#13;
+	&lt;i class="zwg-icon-ic_social_fb"&gt;&lt;span class="empty-link-text"&gt;Social share&lt;/span&gt;&lt;/i&gt;&#13;
+&lt;/a&gt;&#13;
+&lt;a class="socialLink twitter share-icon" href="http://twitter.com/share?text={0}&amp;url={1}" target="_blank"&gt;&#13;
+	&lt;i class="zwg-icon-ic_social_twitter"&gt;&lt;span class="empty-link-text"&gt;Social share&lt;/span&gt;&lt;/i&gt;&#13;
+&lt;/a&gt;&#13;
+&lt;a class="socialLink pinterest share-icon" href="http://pinterest.com/pin/create/button/?url={1}&amp;media={3}&amp;description={2}" target="_blank"&gt;&#13;
+	&lt;i class="zwg-icon-ic_social_pinterest"&gt;&lt;span class="empty-link-text"&gt;Social share&lt;/span&gt;&lt;/i&gt;&#13;
+&lt;/a&gt;&#13;
+&lt;!--&lt;a class="socialLink plus1 share-icon" href="https://plus.google.com/share?url={1}" target="_blank"&gt;&#13;
+	&lt;i class="zwg-icon-ic_social_googleplus"&gt;&lt;span class="empty-link-text"&gt;Social share&lt;/span&gt;&lt;/i&gt;&#13;
+&lt;/a&gt;--&gt;&#13;
+&lt;a class="socialLink plus1 share-icon" href="https://api.addthis.com/oexchange/0.8/forward/email/offer?pubid=ra-42fed1e187bae420&amp;ct=1&amp;title={0}&amp;url={1}" target="_blank"&gt;&#13;
+	&lt;i class="zwg-icon-ic_email"&gt;&lt;span class="empty-link-text"&gt;Social share&lt;/span&gt;&lt;/i&gt;&#13;
+&lt;/a&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="product-content"/>
+        </folder-links>
+    </content>
+</library>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="join-mailinglist-checkbox-label">
+    <display-name xml:lang="x-default">Join Mailing List Checkbox Label</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">By checking this box and providing your email address you are signing up to receive our emails and can unsubscribe at any time. Please reference our &lt;a href=&quot;$httpsUrl(Page-Show,cid,privacy-policy)$&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt; or &lt;a href=&quot;$httpsUrl(Page-Show,cid,contact-form)$&quot; target=&quot;_blank&quot;&gt;contact us&lt;/a&gt; for further details.</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="account-cart-checkout" />
+    </folder-links>
+  </content>
+</library>

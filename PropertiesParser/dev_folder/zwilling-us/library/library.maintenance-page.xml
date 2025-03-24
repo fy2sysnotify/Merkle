@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="maintenance-page">
+    <display-name xml:lang="x-default">Maintenance Page</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;maintenance-content&quot;&gt;
+        &lt;h1&gt;Our site is temporarily offline for maintenance. &lt;/h1&gt;
+        &lt;p&gt;Thank you for your patience. &lt;/p&gt;
+        &lt;/div&gt;</custom-attribute>
+      </custom-attributes>
+    </content>
+  </library>

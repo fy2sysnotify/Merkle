@@ -1,0 +1,31 @@
+Jira -> https://jira-emea.merkle.com/browse/ASD-36573
+
+Archive files preparation - https://staging-asda-ecommera.demandware.net/on/demandware.servlet/webdav/Sites/Impex/src/instance/archive/final_archive
+==================================================================================================================================================================================================================
+
+grep "<category-assignment" catalog.xml | grep "category-id=\"D26\|category-id=\"D59" | awk -F '"' '{print $4}' | sort | uniq > 1
+
+grep -h "<product product-id\|<variant product-id\|<product-set-product product-id" ../GMCatalog/catalog.xml ../GeorgeCatalog/catalog.xml | tr -d '\n' | sed 's/<product product-id/\n<product product-id/g' > 2
+
+grep "SET\|GEM" 1 | while read i; do grep "<product product-id=\"$i\">" 2 | egrep -o "\"[^ a-z]+\"" | grep -v "SET\|GEM" | tr -d '"';  done > 1_1
+
+cat 1 1_1 | sort | uniq > 1_2
+
+===================================================================================================================================================================================================================
+
+
+Final Merge files with Price books from ASDA PROD
+===================================================================================================================================================================================================================
+
+while read i; do
+
+a=`grep -A1 "<price-table product-id=\"$i\"" list-prices_prod.xml | grep "<amount quantity" | awk -F '[<>]' '{print $3}'`;
+b=`grep -A1 "<price-table product-id=\"$i\"" sale-prices_prod.xml | grep "<amount quantity" | awk -F '[<>]' '{print $3}'`;
+
+if [ "$a" ]; then
+echo "$i,$a,$b";
+fi
+
+done < 1_2 > 1_3
+
+====================================================================================================================================================================================================================

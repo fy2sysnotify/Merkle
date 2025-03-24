@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences xmlns="http://www.demandware.com/xml/impex/preferences/2007-03-31">
+    <standard-preferences>
+        <all-instances>
+           <preference preference-id="giftCertificateAmounts">
+                <value>25</value>
+                <value>50</value>
+                <value>100</value>
+                <value>200</value>
+                <value>500</value>
+            </preference>
+        </all-instances>
+    </custom-preferences>
+</preferences>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">	
+    <content content-id="full-width-promotion-asset">
+        <display-name xml:lang="x-default">Full width Promotion asset</display-name>
+        <description xml:lang="x-default">Cutlery Cookware 20% off Shop Sale</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/promotion/zwilling-us/PromoHomeBanner/1-up-full-width-cutlery.png</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'sale_categories_cutlery')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/fullwidthpromotionalbanner</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

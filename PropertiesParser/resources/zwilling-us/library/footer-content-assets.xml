@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+
+    <content content-id="footer-about">
+        <display-name xml:lang="x-default">Footer About Links</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-title"&gt;&#13;
+    About Us&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div &gt;&#13;
+&#13;
+&lt;ul class="menu-footer menu pipe"&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Page-Show', 'fdid', 'our-story')$" title="Our Story"&gt;Our Story&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'careers')$" title="Careers"&gt;Careers&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Stores-Find')$" title="Store Locator"&gt;Store Locator&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-ShowContent', 'fdid', 'culinary-world')$"title="Culinary World"&gt;Culinary World&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&gt;À propos&lt;/h3&gt;&#13;
+                &lt;ul class="menu-footer menu pipe"&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Aller à À propos de nous"&gt;À propos de nous&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Aller à Déclaration de confidentialité"&gt;Confidentialité&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Aller à Conditions générales"&gt;Conditions générales&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Aller à Carrières"&gt;Carrières&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&gt;Informazioni su&lt;/h3&gt;&#13;
+                &lt;ul class="menu-footer menu pipe"&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Vai a Chi siamo"&gt;Chi siamo&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Vai a Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Vai a Termini"&gt;Termini&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Vai a Lavora con noi"&gt;Lavora con noi&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="footer"/>
+        </folder-links>
+    </content>
+
+    <content content-id="footer-account">
+        <display-name xml:lang="x-default">Footer Account Links</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-title"&gt;&#13;
+    My Zwilling&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div &gt;&#13;
+                &lt;ul class="menu-footer menu pipe"&gt;&#13;
+                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="My Account"&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Show')$" title="Wish List"&gt;Wish List&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Order History"&gt;Order History&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Product Registration"&gt;Product Registration&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="footer"/>
+        </folder-links>
+    </content>
+
+    <content content-id="footer-call-on-us">
+        <display-name xml:lang="x-default">Footer Call On Us</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-image"&gt;&lt;img alt="" src="images/footer/np_customer-service.png?$staticlink$" title="" /&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;div class="section-title call-on-us"&gt;&#13;
+    Call On Us&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;div class="section-content"&gt;&#13;
+&lt;div class="section-text"&gt;Have questions about your order? We're happy to help.&lt;/div&gt;&#13;
+&lt;div class="section-details"&gt;&#13;
+    &lt;div&gt;800-777-4308&lt;/div&gt;&#13;
+    &lt;div&gt;Mon-Sat: 9AM-12AM ET&lt;/div&gt;&#13;
+    &lt;div&gt;Sun: 11AM-11PM ET&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="footer-copy">
+        <display-name xml:lang="x-default">Footer Copyright</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="copyright"&gt;&amp;copy; 2018 Zwilling&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="footer"/>
+        </folder-links>
+    </content>
+
+    <content content-id="footer-get-social">
+        <display-name xml:lang="x-default">Footer Get Social</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-title get-social-title"&gt;Get Social&lt;/div&gt;&#13;
+&lt;div class="footer-get-social"&gt;&#13;
+	&lt;span class="social-images facebook"&gt;&lt;a href="https://www.facebook.com/ZWILLINGUSA/" title="Facebook"&gt;&lt;img alt="" src="images/footer/faceboook.png?$staticlink$" title="" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images twitter"&gt;&lt;a href="https://twitter.com/" title="Twitter"&gt;&lt;img alt="" src="images/footer/twitter.png?$staticlink$" title="" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images instagram"&gt;&lt;a href="https://www.instagram.com/zwilling_usa/" title="Instagram"&gt;&lt;img alt="" src="images/footer/instagram.png?$staticlink$" title="" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images youtube"&gt;&lt;a href="https://www.youtube.com/user/ZWILLINGJAHENCKELS" title="Youtube"&gt;&lt;img alt="" src="images/footer/youtube.png?$staticlink$" title="" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images pinterest"&gt;&lt;a href="https://www.pinterest.com/zwillingjah/" title="Pinterest"&gt;&lt;img alt="" src="images/footer/pinterest.png?$staticlink$" title="" /&gt;&lt;/a&gt;&lt;/span&gt;	&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="footer-newsletter-subscription">
+        <display-name xml:lang="x-default">Footer Newsletter Subscription</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="envelope section-image"&gt;&lt;img alt="" src="images/footer/np_envelope.png?$staticlink$" title="" /&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;div class="newsletter-title section-title"&gt;Newsletter Subscription&lt;/div&gt;&#13;
+&#13;
+&lt;div class="section-text"&gt;Sign up to get &lt;strong&gt;10% off&lt;/strong&gt; your first order, plus be first to know about sales, events &amp;amp; new arrivals.&lt;/div&gt;&#13;
+&#13;
+&lt;form class="newsletter-subscription" id="newsletter-subscription"&gt;&#13;
+&lt;div class="newsletter-input"&gt;&lt;input id="emailsubscription" name="emailsubscription" type="text" placeholder="Your email, please" /&gt; &lt;span id="email-subscription-message"&gt;&lt;/span&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;div class="newsletter-cta"&gt;&lt;button class="footer-email-subscribtion" type="button"&gt;&lt;img alt="" src="images/footer/cta_smallarrow_right.png?$staticlink$" title="" /&gt;&lt;/button&gt;&lt;/div&gt;&#13;
+&lt;/form&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="footer-our-brands">
+        <display-name xml:lang="x-default">Footer Order Brands</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-title"&gt;&#13;
+    Our Brands&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;ul class="menu-footer menu pipe"&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-Show', 'cgid', 'zwilling')$" title="Zwilling"&gt;Zwilling&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-Show', 'cgid', 'staub')$" title="Staub"&gt;Staub&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-Show', 'cgid', 'miyabi')$" title="Miyabi"&gt;Miyabi&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-Show', 'cgid', 'demeyere')$" title="Demeyere"&gt;Demeyere&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-Show', 'cgid', 'ballarini')$" title="Ballarini"&gt;Ballarini&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href="$url('Search-Show', 'cgid', 'henckles')$" title="Henckles"&gt;Henckles&lt;/a&gt;&lt;/li&gt;	&#13;
+&lt;/ul&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="footer-secure-payment">
+        <display-name xml:lang="x-default">Footer Secure Payment</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-image secure-lock"&gt;&lt;img alt="" src="images/footer/np_lock.png?$staticlink$" title="" /&gt;&lt;/div&gt;&#13;
+&lt;div class="section-title"&gt;&#13;
+    Secure Payments&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="section-content"&gt;&#13;
+&lt;div class="social-images"&gt;&#13;
+    &lt;span class="section-images mastercard"&gt;&lt;img alt="" src="images/footer/mastercard.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;span class="section-images visa"&gt;&lt;img alt="" src="images/footer/visa.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="social-images"&gt;&#13;
+    &lt;span class="section-images paypal"&gt;&lt;img alt="" src="images/footer/paypal.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;span class="section-images dpd"&gt;&lt;img alt="" src="images/footer/dpd.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="social-images"&gt;&#13;
+    &lt;span class="section-images secure-images"&gt;&lt;img alt="" src="images/footer/secure.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="footer-support">
+        <display-name xml:lang="x-default">Footer Support Links</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-title"&gt;&#13;
+    Here To Help&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;ul class="menu-footer menu pipe"&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsUrl('CustomerService-Show','aid','sharpening-service')$" title="Sharpening service"&gt;Sharpening service&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsURL('CustomerService-Show','aid','product-use-care')$" title="Product use &amp;amp; care"&gt;Product use &amp;amp; care&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsURL('CustomerService-Show','aid','returns-cancellation')$" title="Returns &amp;amp; Cancellation"&gt;Returns &amp;amp; Cancellation&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsURL('CustomerService-Show','aid','shipping-information')$" title="Shipping information"&gt;Shipping information&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="Gift certificates"&gt;Gift certificates&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsURL('CustomerService-Show','aid','warrenty')$" title="Warrenty"&gt;Warrenty&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsURL('CustomerService-Show','aid','faqs')$" title="Faqs"&gt;Faqs&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="Contact us"&gt;Contact us&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="footer"/>
+        </folder-links>
+    </content>
+
+    <content content-id="footer-the-real-deal">
+        <display-name xml:lang="x-default">Footer The Real Deal</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-image"&gt;&lt;img alt="" src="images/footer/np_check.png?$staticlink$" title="" /&gt;&lt;/div&gt;&#13;
+&lt;div class="section-title"&gt;&#13;
+    The Real Deal&#13;
+    &lt;span class="drawer"&gt;&#13;
+        &lt;span class="arrow-down drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_down.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+        &lt;span class="arrow-up drawer-arrow"&gt;&lt;img alt="" src="images/footer/small_arrow_top.png?$staticlink$" title="" /&gt;&lt;/span&gt;&#13;
+    &lt;/span&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div class="section-content"&gt;&#13;
+	&lt;div class="section-links"&gt;Official Zwilling J.A. Henckels Shop&lt;/div &gt;&#13;
+	&lt;div class="section-links"&gt;Free shipping on orders above $59&lt;/div &gt;&#13;
+	&lt;div class="section-links"&gt;Fast, Reliable delivery&lt;/div &gt;&#13;
+	&lt;div class="section-links"&gt;Hassel-Free returns&lt;/div &gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="footer-zwilling-links">
+        <display-name xml:lang="x-default">Footer Copy Rights</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="footer-base-links"&gt;&#13;
+	&lt;span&gt;&lt;a href="$url('SiteMap-Start')$" title="SiteMap"&gt;SiteMap&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Terms and Conditions"&gt;Terms and Conditions&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Privacy"&gt;Privacy&lt;/a&gt;&lt;/span&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+</library>

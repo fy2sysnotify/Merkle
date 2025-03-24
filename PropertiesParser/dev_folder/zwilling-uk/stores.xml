@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores xmlns="http://www.demandware.com/xml/impex/store/2007-04-30">
+    <store store-id="0QL_London">
+        <name>ZWILLING London Designer Outlet</name>
+        <address1>Unit 87, Purple Level, Wembley Park Boulevard, Wembley Park</address1>
+        <city>London</city>
+        <postal-code>HA9 0QL</postal-code>
+        <country-code>GB</country-code>
+        <email>shop.wembley@zwilling.com</email>
+        <phone>020 3744 4439</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 7pm&lt;/div&gt;</store-hours>
+        <latitude>51.55724</latitude>
+        <longitude>-0.284342</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="0SD_Ashford">
+        <name>ZWILLING Ashford Designer Outlet</name>
+        <address1>Kimberley Way</address1>
+        <city>Ashford</city>
+        <postal-code>TN24 0SD</postal-code>
+        <country-code>GB</country-code>
+        <email>shop.ashford@zwilling.co.uk</email>
+        <phone>01233 640714</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.134807</latitude>
+        <longitude>0.875959</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="0YG_Daylesford">
+        <name>Daylesford Organic</name>
+        <address1>Daylesford</address1>
+        <city>Daylesford</city>
+        <postal-code>GL56 0YG</postal-code>
+        <country-code>GB</country-code>
+        <phone>01608 731 700</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Wed&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5pm&lt;/div&gt; &lt;div class="store-days"&gt;Thu to Fri 9am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.929061</latitude>
+        <longitude>-1.642707</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1AB_London">
+        <name>Selfridges</name>
+        <address1>400 Oxford Street</address1>
+        <city>London</city>
+        <postal-code>W1A 1AB</postal-code>
+        <country-code>GB</country-code>
+        <phone>0800 123 400</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 10pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11:30am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.514224</latitude>
+        <longitude>-0.152464</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1AR_Newcastle">
+        <name>Fenwick</name>
+        <address1>39 Northumberland Street</address1>
+        <city>Newcastle Upon Tyne</city>
+        <postal-code>NE99 1AR</postal-code>
+        <country-code>GB</country-code>
+        <phone>0191 232 5100</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10:30pm -5pm&lt;/div&gt;</store-hours>
+        <latitude>54.974935</latitude>
+        <longitude>-1.613232</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1BD_Sturminster">
+        <name>Harts of Stur</name>
+        <address1>Station Road</address1>
+        <city>Sturminster Newton</city>
+        <postal-code>DT10 1BD</postal-code>
+        <country-code>GB</country-code>
+        <phone>01258 472420</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;8am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;8am - 4:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>50.927951</latitude>
+        <longitude>-2.301921</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1HD_Manningtree">
+        <name>Mistley Kitchen</name>
+        <address1>High Street</address1>
+        <city>Manningtree</city>
+        <postal-code>CO11 1HD</postal-code>
+        <country-code>GB</country-code>
+        <phone>01206 391024</phone>
+        <latitude>51.9452711</latitude>
+        <longitude>1.0784971</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1HF_London">
+        <name>House Of Fraser</name>
+        <address1>318 Oxford Street</address1>
+        <city>London</city>
+        <postal-code>W1C 1HF</postal-code>
+        <country-code>GB</country-code>
+        <phone>0343 909 2046</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;12pm - 6:30pm&lt;/div&gt;</store-hours>
+        <latitude>51.515081</latitude>
+        <longitude>-0.1462983</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1PH_London">
+        <name>L'atelier des Chefs</name>
+        <address1>19 Wigmore Street</address1>
+        <city>London</city>
+        <postal-code>W1U 1PH</postal-code>
+        <country-code>GB</country-code>
+        <phone>020 7499 6580</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.516555</latitude>
+        <longitude>-0.147208</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1PN_Colchester">
+        <name>Fenwick</name>
+        <address1>152 High Street</address1>
+        <city>Colchester</city>
+        <postal-code>CO1 1PN</postal-code>
+        <country-code>GB</country-code>
+        <phone>01206 571 212</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Tue&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Wed 9am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Thu to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11am - 5pm&lt;/div&gt;</store-hours>
+        <latitude>51.889761</latitude>
+        <longitude>0.897535</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1PP_London">
+        <name>Borough Kitchen</name>
+        <address1>186 Chiswick High Road</address1>
+        <city>London</city>
+        <postal-code>W4 1PP</postal-code>
+        <country-code>GB</country-code>
+        <phone>0203 538 9010</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.4928352</latitude>
+        <longitude>-0.2556807</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1RG_London">
+        <name>Borough Kitchen</name>
+        <address1>1B-1C Hampstead High Street</address1>
+        <city>London</city>
+        <postal-code>NW3 1RG</postal-code>
+        <country-code>GB</country-code>
+        <phone>0207 998 9970</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.5554046</latitude>
+        <longitude>-0.174386</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1TL_Salisbury">
+        <name>Dinghams</name>
+        <address1>28 Market Place</address1>
+        <city>Salisbury</city>
+        <postal-code>SP1 1TL</postal-code>
+        <country-code>GB</country-code>
+        <phone>01722 506 045</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.069371</latitude>
+        <longitude>-1.796804</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1TX_Kingston">
+        <name>Bentalls</name>
+        <address1>Wood Street</address1>
+        <city>Kingston Upon Thames</city>
+        <postal-code>KT1 1TX</postal-code>
+        <country-code>GB</country-code>
+        <phone>0208 546 1001</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11am - 5pm&lt;/div&gt;</store-hours>
+        <latitude>51.411968</latitude>
+        <longitude>-0.30482</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="1WL_London">
+        <name>Borough Kitchen</name>
+        <address1>6G Esther Anne Place, Islington Square</address1>
+        <city>London</city>
+        <postal-code>N1 1WL</postal-code>
+        <country-code>GB</country-code>
+        <phone>020 3582 4859</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.538359</latitude>
+        <longitude>-0.1025057</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="2420_Sturminster_Newton">
+        <name>Harts of Stur</name>
+        <address1>Station Road</address1>
+        <city>Station Road</city>
+        <postal-code>DT10 1BD</postal-code>
+        <country-code>GB</country-code>
+        <phone>01258 472420</phone>
+        <store-hours xml:lang="x-default">Monday 8am - 5:30pm&lt;br /&gt;Tuesday 8am - 5:30pm&lt;br /&gt;Wednesday 8am - 5:30pm&lt;br /&gt;Thursday 8am - 5:30pm&lt;br /&gt;Friday 8am - 5:30pm&lt;br /&gt;Saturday 8am - 4:30pm&lt;br /&gt;Sunday Closed</store-hours>
+        <latitude>50.927951</latitude>
+        <longitude>-2.301921</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+            <custom-attribute attribute-id="houseNo">1</custom-attribute>
+            <custom-attribute attribute-id="streetName">Station Road</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="2EP_London">
+        <name>Divertimenti</name>
+        <address1>227-229 Brompton Rd</address1>
+        <city>London</city>
+        <postal-code>SW3 2EP</postal-code>
+        <country-code>GB</country-code>
+        <phone>020 7581 8065</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;12am - 5pm&lt;/div&gt;</store-hours>
+        <latitude>51.496938</latitude>
+        <longitude>-0.168228</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="2LX_Banstead">
+        <name>Art of Living</name>
+        <address1>58-60 High Street</address1>
+        <city>Banstead</city>
+        <postal-code>SM7 2LX</postal-code>
+        <country-code>GB</country-code>
+        <phone>01737 379 870</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.322308</latitude>
+        <longitude>-0.202122</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="2NN_Oswestry">
+        <name>Upstairs Downstairs</name>
+        <address1>35-37 Leg Street</address1>
+        <city>Oswestry</city>
+        <postal-code>SY11 2NN</postal-code>
+        <country-code>GB</country-code>
+        <phone>01691 658 591</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 5pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>52.859334</latitude>
+        <longitude>-3.053157</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3AD_St Johns">
+        <name>The Mill Shop</name>
+        <address1>Tynwald Mills</address1>
+        <city>St Johns</city>
+        <postal-code>IM4 3AD</postal-code>
+        <country-code>GB</country-code>
+        <phone>01624 801 213</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;1pm - 5:30pm&lt;/div&gt;</store-hours>
+        <latitude>54.208102</latitude>
+        <longitude>-4.634961</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3AG_London">
+        <name>The Japanese Knife Company</name>
+        <address1>14 Bateman Street</address1>
+        <city>London</city>
+        <postal-code>W1D 3AG</postal-code>
+        <country-code>GB</country-code>
+        <phone>0200 011 4662</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.514572</latitude>
+        <longitude>-0.131125</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3BJ_Eckington">
+        <name>Eckington Manor Cookery School</name>
+        <address1>Hammock Road</address1>
+        <city>Eckington</city>
+        <postal-code>WR10 3BJ</postal-code>
+        <country-code>GB</country-code>
+        <phone>01386 751 600</phone>
+        <latitude>52.071199</latitude>
+        <longitude>-2.12083</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3DH_Newcastle">
+        <name>Stangers</name>
+        <address1>44 Brentwood Ave</address1>
+        <city>Newcastle Upon Tyne</city>
+        <postal-code>NE2 3DH</postal-code>
+        <country-code>GB</country-code>
+        <phone>0191 281 8563</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>54.992133</latitude>
+        <longitude>-1.609193</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3EU_London">
+        <name>The Japanese Knife Company</name>
+        <address1>36 Baker Street</address1>
+        <city>London</city>
+        <postal-code>W1U 3EU</postal-code>
+        <country-code>GB</country-code>
+        <phone>0207 487 4868</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.517987</latitude>
+        <longitude>-0.155646</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3FA_Portsmouth">
+        <name>ZWILLING Gunwharf Quays</name>
+        <address1>Unit R25A Centurion Block. Canalside</address1>
+        <city>Portsmouth</city>
+        <postal-code>PO1 3FA</postal-code>
+        <country-code>GB</country-code>
+        <email>shop.gwq@zwilling.co.uk</email>
+        <phone>02392 821 648</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>50.795099</latitude>
+        <longitude>-1.105788</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3FN_London">
+        <name>Fenwick</name>
+        <address1>Brent Cross Shopping Centre</address1>
+        <city>London</city>
+        <postal-code>NW4 3FN</postal-code>
+        <country-code>GB</country-code>
+        <phone>0208 202 8200</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;12pm - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.576567</latitude>
+        <longitude>-0.221989</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3JZ_Tamavoid">
+        <name>Nairns Cook School</name>
+        <address1>Port of Menteith</address1>
+        <city>Tamavoid</city>
+        <postal-code>FK8 3JZ</postal-code>
+        <country-code>GB</country-code>
+        <phone>01877 389 900</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 4:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 4:30pm&lt;/div&gt;</store-hours>
+        <latitude>56.168965</latitude>
+        <longitude>-4.268945</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3LY_Worcester">
+        <name>Cookmate Worcester</name>
+        <address1>62 Broad Street</address1>
+        <city>Worcester</city>
+        <postal-code>WR1 3LY</postal-code>
+        <country-code>GB</country-code>
+        <phone>01905 272 51</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11am - 4pm&lt;/div&gt;</store-hours>
+        <latitude>52.192767</latitude>
+        <longitude>-2.222085</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="3NX_Southrop">
+        <name>Thyme at Southrop</name>
+        <address1>Southrop Manor</address1>
+        <city>Southrop</city>
+        <postal-code>GL7 3NX</postal-code>
+        <country-code>GB</country-code>
+        <phone>01367 850 174</phone>
+        <latitude>51.729407</latitude>
+        <longitude>-1.708508</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="4BG_Loughton">
+        <name>Smiths of Loughton</name>
+        <address1>132-136 High Road</address1>
+        <city>Loughton</city>
+        <postal-code>IG10 4BG</postal-code>
+        <country-code>GB</country-code>
+        <phone>0208 508 2175</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.645566</latitude>
+        <longitude>0.053134</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="4DP_London">
+        <name>Elys of Wimbledon</name>
+        <address1>16 St George's Road</address1>
+        <city>London</city>
+        <postal-code>SW19 4DP</postal-code>
+        <country-code>GB</country-code>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10:30am - 5pm&lt;/div&gt;</store-hours>
+        <latitude>51.4215457</latitude>
+        <longitude>-0.2085589</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="4LB_Weedon">
+        <name>Abraxas</name>
+        <address1>Top Floor. Barn Arcade. Heart of the Shires Shopping Village</address1>
+        <city>Weedon</city>
+        <postal-code>NN7 4LB</postal-code>
+        <country-code>GB</country-code>
+        <phone>01327 341 080</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 5pm&lt;/div&gt;</store-hours>
+        <latitude>52.265726</latitude>
+        <longitude>-1.09172</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="4NB_London">
+        <name>The Japanese Knife Company</name>
+        <address1>1c Kensington Church Walk</address1>
+        <city>London</city>
+        <postal-code>W8 4NB</postal-code>
+        <country-code>GB</country-code>
+        <phone>0207 937 5057</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10:30am - 6:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.50252</latitude>
+        <longitude>-0.192842</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="4TA_York">
+        <name>ZWILLING York Designer Outlet</name>
+        <address1>Unit 106 McArthur Glen Designer Outlet Village. St Nicholas Avenue. Fulford</address1>
+        <city>York</city>
+        <postal-code>YO19 4TA</postal-code>
+        <country-code>GB</country-code>
+        <email>shop.york@zwilling.co.uk</email>
+        <phone>01904 658 180</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10:00am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>53.92142</latitude>
+        <longitude>-1.076648</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="5HS_London">
+        <name>The Conran Shop</name>
+        <address1>55-57 Marylebone High Street</address1>
+        <city>London</city>
+        <postal-code>W1U 5HS</postal-code>
+        <country-code>GB</country-code>
+        <phone>020 7723 2223</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.522372</latitude>
+        <longitude>-0.151262</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="5TE_Royal">
+        <name>Trevor Mottram</name>
+        <address1>41 The Pantiles</address1>
+        <city>Royal Tunbridge Wells</city>
+        <postal-code>TN2 5TE</postal-code>
+        <country-code>GB</country-code>
+        <phone>01892 538 915</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:30am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 4pm&lt;/div&gt;</store-hours>
+        <latitude>51.12577</latitude>
+        <longitude>0.257526</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="6BH_Tenterden">
+        <name>Webbs of Tenterden</name>
+        <address1>45 &amp; 51 High Street</address1>
+        <city>Tenterden</city>
+        <postal-code>TN30 6BH</postal-code>
+        <country-code>GB</country-code>
+        <phone>01580 762 132</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9:00am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 4pm&lt;/div&gt;</store-hours>
+        <latitude>51.0680096</latitude>
+        <longitude>0.6870359</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="6HR_London">
+        <name>L'atelier des Chefs</name>
+        <address1>10 Foster Lane</address1>
+        <city>London</city>
+        <postal-code>EC2V 6HR</postal-code>
+        <country-code>GB</country-code>
+        <phone>0207 796 0110</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.515283</latitude>
+        <longitude>-0.0962149</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="6RD_London">
+        <name>The Conran Shop</name>
+        <address1>Michelin House. 81 Fulham Road</address1>
+        <city>London</city>
+        <postal-code>SW3 6RD</postal-code>
+        <country-code>GB</country-code>
+        <phone>020 7589 7401</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Tue&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Wed to Thu 10am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Fri 10am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;12am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.493193</latitude>
+        <longitude>-0.168304</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="6WD_Bicester">
+        <name>ZWILLING Bicester Village</name>
+        <address1>Unit 62. 50 Pingle Drive</address1>
+        <city>Bicester</city>
+        <postal-code>OX26 6WD</postal-code>
+        <country-code>GB</country-code>
+        <email>shop.bicester@zwilling.co.uk</email>
+        <phone>01869 246 430</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Wed&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Thu to Fri 9am - 10pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10:00am - 7pm&lt;/div&gt;</store-hours>
+        <latitude>51.892328</latitude>
+        <longitude>-1.15613</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="7XL_London">
+        <name>Harrods</name>
+        <address1>87-135 Brompton Road</address1>
+        <city>London</city>
+        <postal-code>SW1X 7XL</postal-code>
+        <country-code>GB</country-code>
+        <phone>0207 730 1234</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11:30am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.499412</latitude>
+        <longitude>-0.16325</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="8UR_London">
+        <name>Richard Dare</name>
+        <address1>93 Regent's Park Road</address1>
+        <city>London</city>
+        <postal-code>NW1 8UR</postal-code>
+        <country-code>GB</country-code>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 4pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11:30am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>51.541837</latitude>
+        <longitude>-0.156684</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="9AP_Reigate">
+        <name>Art of Living</name>
+        <address1>72 High Street</address1>
+        <city>Reigate</city>
+        <postal-code>RH2 9AP</postal-code>
+        <country-code>GB</country-code>
+        <phone>01737 242 302</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;11am - 4pm&lt;/div&gt;</store-hours>
+        <latitude>51.23805</latitude>
+        <longitude>-0.208877</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="9ES_Winchester">
+        <name>Dinghams</name>
+        <address1>4 The Square</address1>
+        <city>Winchester</city>
+        <postal-code>SO23 9ES</postal-code>
+        <country-code>GB</country-code>
+        <phone>01962 863 333</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;Closed&lt;/div&gt;</store-hours>
+        <latitude>51.061878</latitude>
+        <longitude>-1.314557</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="9QG_London">
+        <name>Borough Kitchen</name>
+        <address1>Borough Market</address1>
+        <city>London</city>
+        <postal-code>SE1 9QG</postal-code>
+        <country-code>GB</country-code>
+        <phone>0207 998 8819</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 7pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;12am - 5pm&lt;/div&gt;</store-hours>
+        <latitude>51.505499</latitude>
+        <longitude>-0.089407</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="C3Y9_Dublin">
+        <name>Arnotts</name>
+        <address1>12 Henry Street. North City</address1>
+        <city>Dublin</city>
+        <postal-code>D01 C3Y9</postal-code>
+        <country-code>IE</country-code>
+        <phone>00353 1 805 0400</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;12am - 6pm&lt;/div&gt;</store-hours>
+        <latitude>53.34877</latitude>
+        <longitude>-6.2627</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="T2F4_Galway">
+        <name>Ryans Homestore</name>
+        <address1>7 Lombard Street</address1>
+        <city>Galway</city>
+        <postal-code>H91 T2F4</postal-code>
+        <country-code>IE</country-code>
+        <phone>00353 91 539 633</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Wed&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Thu to Fri 9am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 6pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;2pm - 6pm&lt;/div&gt;</store-hours>
+        <latitude>53.272753</latitude>
+        <longitude>-9.054544</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="2JZ_Cobham">
+        <name>Art of Living</name>
+        <address1>16 Anyards Rd</address1>
+        <city>Cobham</city>
+        <postal-code>KT11 2JZ</postal-code>
+        <country-code>GB</country-code>
+        <phone>01932 865 508</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Fri&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 5:30pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 3pm&lt;/div&gt;</store-hours>
+        <latitude>51.329529</latitude>
+        <longitude>-0.4107</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="XC79_Kildare">
+        <name>ZWILLING Kildare Village</name>
+        <address1>Unit 5c. Kildare Village. Nurney Road</address1>
+        <city>Kildare</city>
+        <postal-code>R51 XC79</postal-code>
+        <country-code>IE</country-code>
+        <email>shop.kildare@zwilling.co.uk</email>
+        <phone>00353 45 527 577</phone>
+        <store-hours xml:lang="en-GB">&lt;div class="store-days"&gt;Mon to Wed&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Thu to Fri 9am - 9pm&lt;/div&gt; &lt;div class="store-days"&gt;Sat&lt;/div&gt; &lt;div class="store-timings"&gt;9am - 8pm&lt;/div&gt; &lt;div class="store-days"&gt;Sun&lt;/div&gt; &lt;div class="store-timings"&gt;10am - 8pm&lt;/div&gt;</store-hours>
+        <latitude>53.15688</latitude>
+        <longitude>-6.917374</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="dw_zwilling_uk_test_shop">
+        <name>ZWILLING UK Test Shop</name>
+        <city>London</city>
+        <postal-code>SW1A 1AA</postal-code>
+        <country-code>GB</country-code>
+        <email>daniel.grigorov@isobar.com</email>
+        <phone>+44 (20) 7946 0584</phone>
+        <fax>0212-882471</fax>
+        <latitude>51.537167</latitude>
+        <longitude>-0.183383</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">GB</custom-attribute>
+            <custom-attribute attribute-id="houseNo">14-22</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory</custom-attribute>
+            <custom-attribute attribute-id="shopAssistentCustomers">test.agent</custom-attribute>
+            <custom-attribute attribute-id="showOrderTotalQRCode">true</custom-attribute>
+            <custom-attribute attribute-id="streetName">Abbey Road</custom-attribute>
+        </custom-attributes>
+    </store>
+
+</stores>

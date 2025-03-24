@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+    <content content-id="promo1-with-Image">
+        <display-name xml:lang="x-default">SEE THE NEW BOB KRAMER SERIES</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Landing/test products/product_camera.gif</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'womens-outfits')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/2-up-promo-image</custom-attribute>
+        </custom-attributes>
+    </content>
+	<content content-id="promo2-with-Image">
+        <display-name xml:lang="x-default">TAKE 20% OFF COOKWARE SETS</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Landing/test products/product_LCD.gif</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'womens-outfits')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/2-up-promo-image</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

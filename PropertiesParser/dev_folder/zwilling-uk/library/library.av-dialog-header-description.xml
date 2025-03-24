@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-header-description">
+    <display-name xml:lang="x-default">Age Verification Dialog Sub-Heading</display-name>
+    <description xml:lang="x-default">Informative header text in the Age Verification modal</description>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;As you have age-restricted goods in your basket, we need to confirm that you are over 18.&lt;br /&gt;&#13;&lt;br /&gt;&#13;Usually, this can be verified from your address details, but on this occasion, we have been unable to do so.&lt;br /&gt;&#13;&lt;br /&gt;&#13;You can verify your age by entering either your UK driver&amp;rsquo;s license information or your passport details. (All nationality passports are accepted).&lt;br /&gt;&#13;&lt;br /&gt;&#13;Please choose your preferred document from the drop-down menu below.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

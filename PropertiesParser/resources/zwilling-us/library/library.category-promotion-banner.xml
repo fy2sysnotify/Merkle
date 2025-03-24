@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+    
+
+    <content content-id="category-promotion-banner">
+        <display-name xml:lang="x-default">Category promotion banner</display-name>
+        <description xml:lang="x-default">&lt;h2 class="cat-banner-text"&gt;Dutch Ovens&lt;/h2&gt;&#13;
+&lt;h2 class="cat-percentage"&gt;&lt;span class="count"&gt;20% &lt;/span&gt;off&lt;/h2&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/catlanding/category-banner.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">SHOP SALE</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid','cookware')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/promotionalbanner.isml</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    
+</library>

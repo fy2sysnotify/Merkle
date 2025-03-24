@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+	<content content-id="checkout-review-content">
+		<display-name xml:lang="x-default">Checkout Review Content</display-name>
+		<description>Checkout Review Content</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>true</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;review-content-heading&quot;&gt;Take one more look&lt;/div&gt;&#13;
+&lt;div class=&quot;review-content-details&quot;&gt;Before you place your order, make sure your shipping address, payment information and items in your basket are correct. All good? Let’s go!&lt;/div&gt;</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

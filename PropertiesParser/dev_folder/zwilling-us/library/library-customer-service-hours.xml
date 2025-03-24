@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="customer-service-hours">
+        <display-name xml:lang="x-default">Customer Service Hours</display-name>
+        <display-name xml:lang="en-US">Customer Service Hours</display-name>
+        <description xml:lang="x-default">Customer Service Hours</description>
+        <description xml:lang="en-US">Customer Service Hours</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+           <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;PLEASE USE THE FORM BELOW TO CONTACT US&lt;/p&gt;&#13;
+&lt;p class="contactus-questions"&gt;Any questions? We’re here to help with queries regarding products, ordering and deliveries.&lt;/p&gt;&#13;
+&#13;
+If you would like to speak to one of our team, please call &lt;span class="contactus-number"&gt;555-1212&lt;/span&gt; (call costs will vary depending on your phone provider). Our customer services are open from 8:30AM–5PM, Monday to Friday.&#13;
+&#13;
+&lt;div class="contactus-address"&gt;&lt;span&gt;If you would like to write to us, you can reach us at:&lt;/span&gt;&#13;
+&lt;span&gt;ZEILLING J.A. HENCKELS LLC&lt;/span&gt;&#13;
+&lt;span&gt;270 Marble Ave&lt;/span&gt;&#13;
+&lt;span&gt;Pleasantville, NY, 10570&lt;/span&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+      
+</library>

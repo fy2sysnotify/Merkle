@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    
+    <slot-configuration slot-id="slot-home-bv-curations" context="global" configuration-id="New Slot Configuration - 2018-07-06 11:19:26" default="true" assigned-to-site="true">
+        <description>Content slot for BV curations section</description>
+        <template>slots/html/htmlslotcontainer.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="en-US">BV Curations</callout-msg>
+        <content>
+            <html>
+                <body xml:lang="x-default">&lt;div class="homepage-curation"&gt;
+	&lt;h3 class="homepage-heading"&gt;#MADEINSTAUB&lt;/h3&gt;
+	&lt;span class="homepage-seperator"&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div data-bv-show="curations" data-bv-display-tag="meta-homepage" data-bv-widget="bv-curations-carousel"&gt;&lt;/div&gt;</body>
+            </html>
+        </content>
+    </slot-configuration>
+
+  
+        
+
+    <slot-configuration slot-id="slot-brand-landing-bv-curations" context="category" context-id="zwilling" configuration-id="New Slot Configuration - 2018-07-23 20:16:26" assigned-to-site="true">
+        <template>slots/html/htmlslotcontainer.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <html>
+                <body xml:lang="x-default">&lt;div class="brandlanding-curation"&gt;
+	&lt;h3 class="brandlanding-heading"&gt;#MADEINSTAUB&lt;/h3&gt;
+	&lt;span class="brandlanding-seperator"&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div data-bv-show="curations" data-bv-widget="bv-curations-carousel" data-bv-display-tag="meta-standalone" data-bv-category-id="zwilling_cutlery"&gt;&lt;/div&gt;</body>
+            </html>
+        </content>
+    </slot-configuration>
+
+    
+
+</slot-configurations>

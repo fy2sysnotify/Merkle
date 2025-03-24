@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="pdp-quote">
+        <display-name xml:lang="x-default">PDP Quote</display-name>
+        <description xml:lang="x-default">PDP quotes</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="authorImage">images/author-image/chef-img1.png</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Chef Cornelia Poletto</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">slots/content/authorquotes</custom-attribute>
+            <custom-attribute attribute-id="quote">&lt;p class="quote-text"&gt;" &lt;span class="quote-brand-name"&gt;staub&lt;/span&gt; Cocottes are my colorful darlings on the dining table. First, they look beautiful and secondly, they are incredibly practical and versatile— as a cooking pot, baking pan or pretty serving vessel. "&lt;/p&gt;&#13;
+&lt;p class="chef-name"&gt;Chef Cornelia Poletto&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

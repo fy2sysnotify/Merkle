@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+    <content content-id="home-promo-overlapping">
+        <display-name xml:lang="x-default">FEATURED</display-name>
+        <description xml:lang="x-default">&lt;div&gt;30% OFF&lt;/div&gt;&#13;
+&lt;div class="promo-des"&gt;COCOTTES IN ALL COLORS&lt;/div&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/1-up-overlapping-hero/promo1.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">SHOP COLLECTION</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'womens-outfits')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/overlappingpromo</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

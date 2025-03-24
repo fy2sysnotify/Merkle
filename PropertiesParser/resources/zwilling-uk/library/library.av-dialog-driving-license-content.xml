@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-driving-license-content">
+    <display-name xml:lang="x-default">Age Verification Driving Lincese Dialog Content</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;images/Content-asset-images/images/age-verification/example-driving.jpg?$staticlink$&quot; title=&quot;&quot; /&gt;&lt;/p&gt;&#13;&lt;p&gt;Please ensure all information entered is correct as shown on your UK driver&amp;rsquo;s license. This page is secure.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="footer-secure-payment">
+    <display-name xml:lang="en-GB">
+    </display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="en-GB">&lt;div class=&quot;section-image secure-lock&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/footer/np_lock.png?$staticlink$&quot; title=&quot;&quot; /&gt;&lt;/div&gt;&#13;	&#13;	&lt;div class=&quot;section-title&quot;&gt;Secure Payments &lt;span class=&quot;drawer&quot;&gt; &lt;span class=&quot;arrow-down drawer-arrow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/footer/small_arrow_down.png?$staticlink$&quot; title=&quot;&quot; /&gt;&lt;/span&gt; &lt;span class=&quot;arrow-up drawer-arrow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/footer/small_arrow_top.png?$staticlink$&quot; title=&quot;&quot; /&gt;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;&#13;	&#13;	&lt;div class=&quot;section-content payment-icons&quot;&gt;&#13;	&lt;img src=&quot;images/payment-logo/mastercard.png?$staticlink$&quot; alt=&quot;MasterCard&quot; /&gt;&#13;	&lt;img src=&quot;images/payment-logo/visa.png?$staticlink$&quot; alt=&quot;Visa&quot; /&gt;&#13;	&lt;img src=&quot;images/payment-logo/amex.png?$staticlink$&quot; alt=&quot;American Express&quot; /&gt;&#13;	&lt;img src=&quot;images/payment-logo/paypal.png?$staticlink$&quot; alt=&quot;Paypal&quot; title=&quot;Paypal&quot; style=&quot;width:85px !important;&quot; /&gt;&#13;	&lt;/div&gt;&#13;	&#13;	&lt;style type=&quot;text/css&quot;&gt;&#13;	.section-content.payment-icons img { zoom: 75%; width: auto; }&#13;@media (min-width: 767.5px) and (max-width: 1023.5px)&#13;{.footer-row .section-content.payment-icons img { width: auto; } }&#13;&lt;/style&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

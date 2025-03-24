@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="user-consent">
+    <display-name xml:lang="x-default">User Consent</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <template>content/content/contentpagewithleftnavigation.isml</template>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;style&gt;
+        &lt;!--
+        h1 {
+        margin-top: 0;
+        }
+        h2, h3, h4 {
+        margin-top: 1.66em;
+        margin-bottom: 0.83em;
+        }
+        --&gt;
+        &lt;/style&gt;
+        &lt;div class=&quot;body&quot;&gt;
+        &lt;h1 class=&quot;D_H2&quot;&gt;KİŞİSEL VERİLERİN İŞLENMESİNE İLİŞKİN AÇIK RIZA BELGESİ&lt;/h1&gt;
+        &lt;p&gt;Unvanı &lt;strong&gt;ZWILLING J.A. Henckels Mutfak Ve Güzellik Ürünleri Ltd. Şti  (“Şirket”)&lt;/strong&gt; olan Şirket tarafından 6698 sayılı Kişisel Verilerin Korunması Kanunu (&lt;strong&gt;“KVKK/Kanun”&lt;/strong&gt;) kapsamında hazırlanmış olan “Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni”nin (&lt;strong&gt;“Aydınlatma Metni”&lt;/strong&gt;) tamamını okudum, anladım ve Şirket’in Kanun çerçevesinde kişisel verilerimi ne şekilde işlediği ve kimlere ne şekilde aktaracağı hakkında bilgi sahibi oldum.
+        Bu kapsamda, işbu Aydınlatma Metni’ne verdiğim onayım ile kişisel verilerimin ilgili mevzuatta ve/veya Aydınlatma Metni’nde belirtilen işleme amaçları ile sınırlı olmak koşuluyla, gerekli olan azami süre ve herhalde kanuni zamanaşımı süreleri kadar muhafaza edilerek işlenmesine özgür irademle onay verdiğimi, Şirket tarafından bu hususta tereddüde yer vermeyecek şekilde aydınlatılmış olarak bilgilendirildiğimi ve Kanun çerçevesinde açık rızam bulunduğunu kabul ve beyan ederim.&lt;/p&gt;
+        &lt;p&gt;Ayrıca, Aydınlatma Metni’ne elektronik olarak verdiğim onayım ile kişisel verilerimin işlendikten sonra, ilgili mevzuatta ve/veya Aydınlatma Metni’nde belirtilen işleme amaçları ile sınırlı olmak koşuluyla, gerekli olan azami süre ve herhalde kanuni zamanaşımı süreleri kadar muhafaza edilerek;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Şirket’in kanuni yükümlülüklerinin yerine getirilmesi ve Şirket’in faaliyetlerinin gerçekleştirilmesi amacıyla tâbi olduğu her türlü mevzuat hükümleri gereğince Türkiye Cumhuriyeti sınırları içerisinde Bilgi Teknolojileri ve İletişim Kurumu, Kişisel Verilerin Korunması Kurumu gibi kamu tüzel kişileri başta olmak üzere yurt içindeki ilgili kurum veya kuruluşlar ve/veya tüzel ve gerçek kişilere Kanun’un 8’inci maddesine uygun olarak aktarılmasına,&lt;/li&gt;
+        &lt;li&gt;Şirket’in yurt dışında, merkezi Almanya’da bulunan “Zwilling International Gmbh” isimli grup şirketine ve veri saklama faaliyetinin yürütülebilmesi amacıyla www.zwilling.com/tr’nin Almanya’da bulunan sunucularına (server) Kanun’un 9’uncu maddesine uygun olarak aktarılmasına,&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;özgür irademle onay verdiğimi, Şirket tarafından bu hususta tereddüde yer vermeyecek şekilde aydınlatılmış olarak bilgilendirildiğimi ve Kanun çerçevesinde açık rızam bulunduğunu kabul ve beyan ederim.&lt;/p&gt;
+        &lt;/div&gt;</custom-attribute>
+      </custom-attributes>
+    </content>
+  </library>

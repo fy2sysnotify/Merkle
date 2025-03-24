@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="culinary-featured-main-receipe">
+		<display-name xml:lang="x-default">Chef&apos;s fine mint ratatouille</display-name>
+		<description xml:lang="x-default">The classic slew incorporates all your fresh picks from the local farmer&amp;apos;s market.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>false</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryfeaturedrecipemain</custom-attribute>
+			<custom-attribute attribute-id="image">images/Content-asset-images/images/featured-area/zwilling-us/featured-content-image.png</custom-attribute>
+			<custom-attribute attribute-id="linkText">Learn more</custom-attribute>
+			<custom-attribute attribute-id="linkURL">$url(&apos;Search-ShowContent&apos;,&apos;fdid&apos;,&apos;recipes&apos;)$</custom-attribute>
+			<custom-attribute attribute-id="customType">Apetizers</custom-attribute>
+		</custom-attributes>
+	</content>
+	<content content-id="culinary-featured-supporting-receipe-1">
+		<display-name xml:lang="x-default">Tex-mex beef tacos</display-name>
+		<description xml:lang="x-default">These tacos fit the bill for a satisfying meal that&amp;apos;s sure to please the whole family.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>false</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryfeaturedrecipesupporting</custom-attribute>
+			<custom-attribute attribute-id="image">images/Content-asset-images/images/featured-area/zwilling-us/right-feature-support.png</custom-attribute>
+			<custom-attribute attribute-id="linkText">Details</custom-attribute>
+			<custom-attribute attribute-id="linkURL">$url(&apos;Page-Show&apos;,&apos;cid&apos;,&apos;article-about-us-zwilling-group&apos;)$#jump-6</custom-attribute>
+		</custom-attributes>
+	</content>
+	<content content-id="culinary-featured-supporting-receipe-2">
+		<display-name xml:lang="x-default">Tex-mex beef tacos</display-name>
+		<description xml:lang="x-default">These tacos fit the bill for a satisfying meal that&amp;apos;s sure to please the whole family.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>false</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryfeaturedrecipesupporting</custom-attribute>
+			<custom-attribute attribute-id="image">images/Content-asset-images/images/featured-area/zwilling-us/right-feature-support.png</custom-attribute>
+			<custom-attribute attribute-id="linkText">Details</custom-attribute>
+			<custom-attribute attribute-id="linkURL">$url(&apos;Page-Show&apos;,&apos;cid&apos;,&apos;article-about-us-zwilling-group&apos;)$#jump-6</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

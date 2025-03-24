@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+	<content content-id="customer-service-navigation">
+        <display-name xml:lang="x-default">Navigation Links for Customer navigation</display-name>
+        <display-name xml:lang="en-CA">Navigation Links for Customer navigation</display-name>
+        <display-name xml:lang="fr-CA">Liens de navigation pour la navigation client</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="returns-cancellation" href="$url('Page-Show','cid','returns-cancellation')$" title="Returns and Cancellations"&gt;Returns &amp;amp; Cancellations&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="shipping-information-wo-sharpening" href="$url('Page-Show','cid','shipping-information-wo-sharpening')$"&gt;Shipping Information&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="warranty" href="$url('Page-Show','cid','warranty')$"&gt;Warranty&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="faqs" href="$url('Page-Show','cid','faqs')$"&gt;FAQ's&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="contact-form" href="$url('Page-Show','cid','contact-form')$"&gt;Contact Us&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="terms" href="$url('Page-Show','cid','terms')$"&gt;Terms &amp;amp; Conditions&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="privacy-policy" href="$url('Page-Show','cid','privacy-policy')$"&gt;Privacy Policy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;!--&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="sharpening-service" href="$url('Page-Show','cid','sharpening-service')$"&gt;Sharpening Service&lt;/a&gt;&lt;/span&gt;//--&gt;&#13;
+        &lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="store-locator" href="$url('Stores-Find')$"&gt;Store Locator&lt;/a&gt;&lt;/span&gt;&#13;
+&lt;/li&gt;&#13;
+&lt;/ul&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="en-CA">&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="returns-cancellation" href="$url('Page-Show','cid','returns-cancellation')$" title="Returns and Cancellations"&gt;Returns &amp;amp; Cancellations&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="shipping-information-wo-sharpening" href="$url('Page-Show','cid','shipping-information-wo-sharpening')$"&gt;Shipping Information&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="warranty" href="$url('Page-Show','cid','warranty')$"&gt;Warranty&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="faqs" href="$url('Page-Show','cid','faqs')$"&gt;FAQ's&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="contact-form" href="$url('Page-Show','cid','contact-form')$"&gt;Contact Us&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="terms" href="$url('Page-Show','cid','terms')$"&gt;Terms &amp;amp; Conditions&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="privacy-policy" href="$url('Page-Show','cid','privacy-policy')$"&gt;Privacy Policy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;!--&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="sharpening-service" href="$url('Page-Show','cid','sharpening-service')$"&gt;Sharpening Service&lt;/a&gt;&lt;/span&gt;//--&gt;&#13;
+        &lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="store-locator" href="$url('Stores-Find')$"&gt;Store Locator&lt;/a&gt;&lt;/span&gt;&#13;
+&lt;/li&gt;&#13;
+&lt;/ul&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-CA">&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="returns-cancellation" href="$url('Page-Show','cid','returns-cancellation')$" title="Returns and Cancellations"&gt;Returns &amp;amp; Cancellations&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="shipping-information-wo-sharpening" href="$url('Page-Show','cid','shipping-information-wo-sharpening')$"&gt;Shipping Information&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="warranty" href="$url('Page-Show','cid','warranty')$"&gt;Warranty&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="faqs" href="$url('Page-Show','cid','faqs')$"&gt;FAQ's&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="contact-form" href="$url('Page-Show','cid','contact-form')$"&gt;Contact Us&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="terms" href="$url('Page-Show','cid','terms')$"&gt;Terms &amp;amp; Conditions&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="privacy-policy" href="$url('Page-Show','cid','privacy-policy')$"&gt;Privacy Policy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;!--&lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="sharpening-service" href="$url('Page-Show','cid','sharpening-service')$"&gt;Sharpening Service&lt;/a&gt;&lt;/span&gt;//--&gt;&#13;
+        &lt;li&gt;&lt;span style="font-size:16px"&gt;&lt;a data-nav-id="store-locator" href="$url('Stores-Find')$"&gt;Store Locator&lt;/a&gt;&lt;/span&gt;&#13;
+&lt;/li&gt;&#13;
+&lt;/ul&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

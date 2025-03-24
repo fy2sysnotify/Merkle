@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="home-hero-content">
+        <display-name xml:lang="x-default">Home Hero Content</display-name>
+        <display-name xml:lang="fr-CA">Home Hero Content</display-name>
+        <description xml:lang="x-default">Find all you need to slice sauté and serve with ease and expertise&#13;
+&#13;
+&lt;style&gt;&#13;
+    .hero-banner .hero-name {&#13;
+         color: #EFECEA;&#13;
+    }&#13;
+   .hero-banner  .hero-des {&#13;
+         color: #EFECEA;&#13;
+   }&#13;
+   .hero-banner  .hero-link a {&#13;
+        color: #FFFFFF;&#13;
+   }    &#13;
+&lt;/style&gt;</description>
+        <description xml:lang="fr-CA">Trouvez tout ce dont vous avez besoin pour couper le sauté et servir avec facilité et expertise</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">
+&lt;/style&gt;&#13;
+&lt;span&gt;cook&lt;/span&gt;&#13;
+&lt;span&gt;with&lt;/span&gt;&#13;
+&lt;span&gt;purpose&lt;/span&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-CA">&lt;style type="text/css"&gt;.hero-banner .hero-name { color: #EFECEA; } .hero-banner .hero-des { color: #EFECEA; } .hero-banner .hero-link a { color: #FFFFFF; }&#13;
+&lt;/style&gt;&#13;
+&lt;div&gt;cuisiner&lt;/div&gt;&#13;
+&#13;
+&lt;div&gt;dans un&lt;/div&gt;&#13;
+&#13;
+&lt;div&gt;but pr&amp;eacute;cis&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="image" xml:lang="x-default">images/hero/Zwilling-Homepage-Hero-2000x690.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText" xml:lang="x-default">DISCOVER</custom-attribute>
+            <custom-attribute attribute-id="linkURL" xml:lang="x-default">javascript:void(0);</custom-attribute>
+            <custom-attribute attribute-id="relatedAsset" xml:lang="x-default">home-promo-overlapping</custom-attribute>
+            <custom-attribute attribute-id="video" xml:lang="x-default">m77mz_uxWw4</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="hero"/>
+        </folder-links>
+    </content>
+</library>

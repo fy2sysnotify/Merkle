@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+   <content content-id="clear-consent">
+    <display-name xml:lang="x-default">Clear Consent</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;label for=&quot;clear-consent&quot;&gt;Zwilling tarafından kişisel verilerimin işlenmesine açık  &lt;a class=&quot;terms-of-use&quot; href=&quot;$httpsUrl('Page-Show', 'cid', 'user-consent')$&quot; target=&quot;_blank&quot;&gt;rızam&lt;/a&gt; vardır.&lt;/label&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

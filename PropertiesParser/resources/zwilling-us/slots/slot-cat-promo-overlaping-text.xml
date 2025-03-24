@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="cat-promo-overlaping-text" context="global" configuration-id="cat-promo-overlaping-text" default="true" assigned-to-site="false">
+        <description>Content slot for promo overlaping text section</description>
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="promo1-overlapping-text"/>
+                <content-asset content-id="promo2-overlapping-text"/>
+            </content-assets>
+        </content>        
+    </slot-configuration>
+   
+</slot-configurations>

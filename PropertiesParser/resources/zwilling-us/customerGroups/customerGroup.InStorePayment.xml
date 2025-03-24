@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer-groups xmlns="http://www.demandware.com/xml/impex/customergroup/2007-06-30">
+    <customer-group group-id="InStorePaymentAndShipping">
+        <description>Group is set when in 'inStorePayment' mode AND shipping address is the store address.</description>
+        <membership-rule>
+            <included-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>session.custom.inStorePayment</attribute-path>
+                        <operator>is-equal</operator>
+                        <string>true</string>
+                    </condition>
+                    <condition>
+                        <attribute-path>session.custom.selectedShippingAddress</attribute-path>
+                        <operator>is-equal</operator>
+                        <string>InStorePaymentStoreAddress</string>
+                    </condition>
+                </condition-group>
+            </included-customers>
+        </membership-rule>
+        <custom-attributes/>
+    </customer-group>
+
+    <customer-group group-id="EndCustomerPayment">
+        <membership-rule>
+            <included-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>session.custom.inStorePayment</attribute-path>
+                        <operator>does-not-exist</operator>
+                    </condition>
+                </condition-group>
+            </included-customers>
+        </membership-rule>
+        <custom-attributes/>
+    </customer-group>
+
+    <customer-group group-id="EndInStorePaymentAndShipping">
+        <description>Group is set when NOT in 'inStorePayment' mode OR shipping address is NOT the store address.</description>
+        <membership-rule>
+            <included-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>session.custom.inStorePayment</attribute-path>
+                        <operator>is-equal</operator>
+                        <string>true</string>
+                    </condition>
+                    <condition>
+                        <attribute-path>session.custom.selectedShippingAddress</attribute-path>
+                        <operator>is-equal</operator>
+                        <string>InStorePaymentStoreAddress</string>
+                    </condition>
+                </condition-group>
+            </included-customers>
+        </membership-rule>
+        <custom-attributes/>
+    </customer-group>
+
+    <customer-group group-id="EndCustomerPayment">
+        <membership-rule>
+            <included-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>session.custom.inStorePayment</attribute-path>
+                        <operator>does-not-exist</operator>
+                    </condition>
+                </condition-group>
+            </included-customers>
+        </membership-rule>
+        <custom-attributes/>
+    </customer-group>
+
+    <customer-group group-id="InStorePayment">
+        <description>Group dynamically set when the Cart-Shop route contains a query parameter 'instore'</description>
+        <membership-rule>
+            <included-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>session.custom.inStorePayment</attribute-path>
+                        <operator>exists</operator>
+                    </condition>
+                </condition-group>
+            </included-customers>
+        </membership-rule>
+        <custom-attributes/>
+    </customer-group>
+
+</customer-groups>

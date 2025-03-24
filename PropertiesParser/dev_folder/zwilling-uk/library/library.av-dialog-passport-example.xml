@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-passport-example">
+    <display-name xml:lang="x-default">Age Verification Passport Dialog Content</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;images/Content-asset-images/images/age-verification/example-passports.jpg?$staticlink$&quot; title=&quot;&quot; /&gt;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

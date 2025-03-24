@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+
+    <content content-id="culinaryworld-hero-banner">
+        <display-name xml:lang="x-default">Culinary world</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;style&gt;&#13;
+    .hero-banner .hero-name {&#13;
+         color: #EFECEA;&#13;
+    }&#13;
+&lt;/style&gt;&#13;
+&lt;div&gt;Culinary &lt;/div&gt;&#13;
+&lt;div&gt;world&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/culinary-world/culinary-hero-banner.jpg</custom-attribute>
+            <custom-attribute attribute-id="video">6ePqcZlfUNk</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="culinaryworld"/>
+        </folder-links>
+    </content>
+
+ </library>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+ <content content-id="library-order-confirmation-message">
+        <display-name xml:lang="x-default">Order confirmation Message</display-name>
+        <display-name xml:lang="en-US">Order confirmation message</display-name>
+        <description xml:lang="x-default">Order confirmation Message</description>
+        <description xml:lang="en-US">Order confirmation message</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Hi %%name%%&#13;
+We get your order and working on it now.Go ahead and check your email &lt;span&gt; %%email%%&lt;/span&gt;&#13;
+for your order confirmation.&#13;
+&#13;
+Can't wait to get cooking We'll send you another note once your items have shipped- co you can get a&#13;
+head start planing your next amazing meal.</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="en-US">Hi %%name%%&#13;
+We get your order and working on it now.Go ahead and check your email &lt;span&gt; %%email%%&lt;/span&gt;&#13;
+for your order confirmation.&#13;
+&#13;
+Can't wait to get cooking We'll send you another note once your items have shipped- co you can get a&#13;
+head start planing your next amazing meal.</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>	

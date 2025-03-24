@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="country-tool-tip-text">
+		<display-name xml:lang="x-default">Country Tool Tip</display-name>
+		<description>Country Tool Tip</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>false</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="body" xml:lang="x-default">Country Tool Tip Country Tool Tip Country Tool Tip</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

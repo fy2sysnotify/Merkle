@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+
+    <content content-id="billing">
+        <display-name xml:lang="x-default">Billing</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Payment</page-title>
+        </page-attributes>
+    </content>
+
+    <content content-id="cart">
+        <display-name xml:lang="x-default">Cart</display-name>
+        <display-name xml:lang="fr-FR">Panier</display-name>
+        <display-name xml:lang="it-IT">Carrello</display-name>
+        <display-name xml:lang="ja-JP">買い物カゴ</display-name>
+        <display-name xml:lang="zh-CN">购物车</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Basket</page-title>
+            <page-title xml:lang="fr-FR">Mon panier SiteGenesis</page-title>
+            <page-title xml:lang="it-IT">Il mio carrello SiteGenesis</page-title>
+            <page-title xml:lang="ja-JP">マイ SiteGenesis 買い物カゴ</page-title>
+            <page-title xml:lang="zh-CN">我的 SiteGenesis 购物车</page-title>
+        </page-attributes>
+        <folder-links>
+            <classification-link folder-id="account-cart-checkout"/>
+        </folder-links>
+    </content>
+
+    <content content-id="order-confirmation">
+        <display-name xml:lang="x-default">Order Confirmation</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Order Confirmation</page-title>
+        </page-attributes>
+    </content>
+
+</library>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="product-type-content-cookware-madura-plus-castironchef">
+		<display-name xml:lang="x-default">CAST-IRON CHEF</display-name>
+		<description xml:lang="x-default">Each Cocotte has an enameled cast iron interior that evenly distributes heat for better browning, braising and roasting. Plus it&amp;apos;s ready to use-so you can focus on seasoning your food, not your cast.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>true</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/pdpcontentimages</custom-attribute>
+			<custom-attribute attribute-id="image">/images/Content-asset-images/images/product-details/3772_rgb_120dpi.jpg</custom-attribute>
+			<custom-attribute attribute-id="video">m77mz_uxWw4</custom-attribute>
+		</custom-attributes>
+	</content>
+	<content content-id="product-type-content-cookware-madura-plus-hairloom">
+		<display-name xml:lang="x-default">MODERN HEIRLOOM</display-name>
+		<description xml:lang="x-default">Our Cocotte are the kind that get passed down for generations. While the STAUB Cocotte has French roots, its true heritage stems from your family&amp;apos;s own traditions.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>true</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/pdpcontentimages</custom-attribute>
+			<custom-attribute attribute-id="image" xml:lang="x-default">/images/Content-asset-images/images/product-details/modern_heirloom.jpg</custom-attribute>
+		</custom-attributes>
+	</content>
+	<content content-id="product-type-content-cookware-madura-plus-rain">
+		<display-name xml:lang="x-default">MAKE IT RAIN</display-name>
+		<description xml:lang="x-default">There&amp;apos;s a self-blasting system backed into every STAUB Cocotte. Spikes under the flat, weighted lid create a rainfall effect, locking in moisture and evenly incorporating juices back into your food.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>true</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/pdpcontentimages</custom-attribute>
+			<custom-attribute attribute-id="image">/images/Content-asset-images/images/product-details/make_it_rain.jpg</custom-attribute>
+			<custom-attribute attribute-id="video">m77mz_uxWw4</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

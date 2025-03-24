@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Usage Guide &#8212; Jira Project Get First Response Time 1.0 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=4f649999" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=039e1c02" />
+    <script src="_static/documentation_options.js?v=f2a433a1"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="usage-guide">
+<h1>Usage Guide<a class="headerlink" href="#usage-guide" title="Link to this heading">¶</a></h1>
+<section id="standalone-script">
+<h2>Standalone Script<a class="headerlink" href="#standalone-script" title="Link to this heading">¶</a></h2>
+<p>To use this app as a standalone script, follow these steps:</p>
+<ol class="arabic">
+<li><p>Refactoring:
+- Some refactoring is required to adapt the app to your needs. Refer to the documentation for guidance.</p></li>
+<li><p>Install Dependencies:
+- Review the <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> file and install the necessary dependencies using:</p>
+<blockquote>
+<div><div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+<li><p>Configuration:
+- Populate the <code class="docutils literal notranslate"><span class="pre">.env</span></code> file with the required data before executing the script.
+- Ensure you are logged in to the VPN, specifically for our Corporate Jira DB.</p></li>
+<li><p>Assistance:
+- If you encounter difficulties, feel free to message us on Slack for assistance.</p></li>
+<li><p>Identify Us:
+- Get to know more about the contributors by referring to the documentation.</p></li>
+</ol>
+</section>
+<section id="docker-deployment">
+<h2>Docker Deployment<a class="headerlink" href="#docker-deployment" title="Link to this heading">¶</a></h2>
+<p>To deploy this app using Docker, follow these steps:</p>
+<ol class="arabic">
+<li><p>Install Docker Engine:
+- Follow the installation guide for your operating system: <a class="reference external" href="https://docs.docker.com/engine/install/">https://docs.docker.com/engine/install/</a></p></li>
+<li><p>Install Docker Compose:
+- Refer to the official guide for standalone installation: <a class="reference external" href="https://docs.docker.com/compose/install/standalone/">https://docs.docker.com/compose/install/standalone/</a></p></li>
+<li><p>Docker Files:
+- The necessary files, including <code class="docutils literal notranslate"><span class="pre">get_first_response_time.py</span></code>, <code class="docutils literal notranslate"><span class="pre">Dockerfile</span></code>, <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code>, and <code class="docutils literal notranslate"><span class="pre">docker-compose.yml</span></code>, are finalized and require no additional work.</p></li>
+<li><p>Configuration:
+- Populate the <code class="docutils literal notranslate"><span class="pre">.env</span></code> file with the required data.</p></li>
+<li><p>Exposed Port:
+- The internal port 8501 of the Docker container will be exposed and mapped to port 8501 on the host.
+- Ensure that port 8501 is available on the host. This is the standard port for Streamlit applications, but you can substitute it with an available port in the range 8501-8599.</p></li>
+<li><p>Build the Docker Image:
+- Run the following command to build the Docker image:</p>
+<blockquote>
+<div><div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span><span class="o">-</span><span class="n">compose</span> <span class="n">build</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+<li><p>Run the Docker Container:
+- Start an instance of the Docker image as a container:</p>
+<blockquote>
+<div><div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span><span class="o">-</span><span class="n">compose</span> <span class="n">up</span> <span class="o">-</span><span class="n">d</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+</ol>
+<p>8. Access the App:
+- Ensure you are logged in to the VPN, specifically for our Corporate Jira DB.</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Open the app in your browser:
+- If running on your local machine, go to <a class="reference external" href="http://localhost:8501/">http://localhost:8501/</a>
+- If on another host, replace “localhost” with the appropriate hostname.</p></li>
+</ul>
+</div></blockquote>
+</section>
+<section id="using-the-streamlit-web-interface">
+<h2>Using the Streamlit Web Interface<a class="headerlink" href="#using-the-streamlit-web-interface" title="Link to this heading">¶</a></h2>
+<ol class="arabic simple">
+<li><p>Input Data:
+- Enter the JIRA project number and desired days interval.</p></li>
+<li><p>Retrieve Data:
+- Click the “Get First Response Time” button to fetch and export data.</p></li>
+<li><p>Download Data:
+- Use the provided button to download the exported Excel file.</p></li>
+</ol>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Jira Project Get First Response Time</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2023, Konstantin Yanev.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 7.2.2</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.13</a>
+      
+      |
+      <a href="_sources/usage_instructions.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    
+
+    <content content-id="6-feature-culinary-world-1">
+        <display-name xml:lang="x-default">THE MAKING OF THE CAST IRON COCOTTE</display-name>
+        <description xml:lang="x-default">Culinary world feature asset -1</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/culinary-world/craftsmanship.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','6-feature-culinary-world-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="customer-service"/>
+            <folder-link folder-id="about-us"/>
+        </folder-links>
+    </content>
+
+    <content content-id="6-feature-culinary-world-2">
+        <display-name xml:lang="x-default">GRILLED BEEF STEAK WITH SHALLOT BUTTER</display-name>
+        <description xml:lang="x-default">Culinary world feature asset -2</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/culinary-world/recipe.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','6-feature-culinary-world-2')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="customer-service"/>
+            <folder-link folder-id="about-us"/>
+        </folder-links>
+    </content>
+
+    <content content-id="6-feature-culinary-world-3">
+        <display-name xml:lang="x-default">CHOOSING THE RIGHT KNIFE FOR THE JOB</display-name>
+        <description xml:lang="x-default">Culinary world feature asset -3</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/culinary-world/cutlery.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','6-feature-culinary-world-3')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="My Customer Service"/>
+            <folder-link folder-id="top-nav"/>
+            <folder-link folder-id="about-us"/>
+        </folder-links>
+    </content>
+
+    <content content-id="6-feature-culinary-world-4">
+        <display-name xml:lang="x-default">WINE PAIRINGS FOR EVERY PALATE</display-name>
+        <description xml:lang="x-default">Culinary world feature asset -4</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/culinary-world/expert-tips.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','6-feature-culinary-world-4')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="customer-service"/>
+        </folder-links>
+    </content>
+
+    <content content-id="6-feature-culinary-world-5">
+        <display-name xml:lang="x-default">TRADITIONAL CUBANO SANDWICH</display-name>
+        <description xml:lang="x-default">Culinary world feature asset -5</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/culinary-world/recipe-2.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','6-feature-culinary-world-5')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="6-feature-culinary-world-6">
+        <display-name xml:lang="x-default">NONSTICK OR STAINLESS? HERE’S HOW TO CHOOSE</display-name>
+        <description xml:lang="x-default">Culinary world feature asset -6</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/culinary-world/cookware.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','6-feature-culinary-world-6')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+    </content>
+
+   
+
+</library>

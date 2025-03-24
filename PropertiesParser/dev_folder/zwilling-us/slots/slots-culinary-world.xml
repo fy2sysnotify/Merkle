@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="culinary-world-folder" context="folder" context-id="culinaryworld" configuration-id="New Slot Configuration - 2018-07-10 14:06:50" default="true" assigned-to-site="true">
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="library-culinary-world-hero-space"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+	
+    <slot-configuration slot-id="slot-culinary-world-content" context="folder" context-id="culinaryworld" configuration-id="New Slot Configuration - 2018-07-11 16:54:12" default="true" assigned-to-site="true">
+        <template>slots/content/culinaryworldrendertemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">Culinary World</callout-msg>
+        <content>
+            <content-assets>
+                <content-asset content-id="culinary-content-tile-1"/>
+                <content-asset content-id="culinary-content-tile-2"/>
+                <content-asset content-id="culinary-content-tile-3"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+	  <slot-configuration slot-id="global-icons-culinary-world" context="folder" context-id="culinaryworld" configuration-id="New Slot Configuration - 2018-07-20 14:37:49" default="true" assigned-to-site="true">
+        <template>slots/product/product_1x5.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">GLOBAL ICONS</callout-msg>
+        <content>
+            <products>
+                <product product-id="008884304016"/>
+                <product product-id="008884304023"/>
+                <product product-id="701644388454"/>
+                <product product-id="701644033668"/>
+                <product product-id="008885535501"/>
+                <product product-id="008885535495"/>
+            </products>
+        </content>
+        <custom-attributes>
+            <custom-attribute attribute-id="linkURL">&lt;div class="top-seller-cta"&gt;
+&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="shop the world"&gt;
+&lt;span&gt;Shop the world&lt;/span&gt;
+&lt;i class="zwg-icon-ic_cta_bigarrow arrow-CTA"&gt;&lt;/i&gt;
+&lt;/a&gt;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </slot-configuration>
+ 
+</slot-configurations>

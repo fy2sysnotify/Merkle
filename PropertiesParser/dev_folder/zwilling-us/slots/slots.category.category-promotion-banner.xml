@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+
+
+    <slot-configuration slot-id="category-promotion-banner" context="category" context-id="womens-clothing-tops" configuration-id="New Slot Configuration - 2018-05-29 14:46:32" assigned-to-site="true">
+        <template>slots/content/categorypromotionbanner.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">Category promotional banner</callout-msg>
+        <content>
+            <content-assets>
+                <content-asset content-id="category-promotion-banner"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+
+    <slot-configuration slot-id="sub-category-carousel" context="category" context-id="womens-clothing-tops" configuration-id="New Slot Configuration - 2018-05-29 17:10:01" default="true" assigned-to-site="true">
+        <template>slots/category/horizontalcarousel.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <categories>
+                <category category-id="cookware"/>
+                <category category-id="womens-outfits"/>
+                <category category-id="womens-clothing-tops"/>
+                <category category-id="womens-clothing-dresses"/>
+                <category category-id="womens-clothing-bottoms"/>
+                <category category-id="womens-clothing-tops"/>
+            </categories>
+        </content>
+    </slot-configuration>
+
+    
+</slot-configurations>

@@ -1,0 +1,44 @@
+{
+  "realm": "aaay",
+  "ttl": 1,
+  "settings": {
+    "ocapi": [
+      {
+        "client_id": "b4836c9b-d346-43b8-8800-edbf811035c2",
+        "resources": [
+          {
+            "resource_id": "/**",
+            "methods": [
+              "get",
+              "post",
+              "put",
+              "patch",
+              "delete"
+            ],
+            "read_attributes": "(**)",
+            "write_attributes": ""
+          }
+        ]
+      }
+    ],
+    "webdav": [
+      {
+        "client_id": "b4836c9b-d346-43b8-8800-edbf811035c2",
+        "permissions": [
+          {
+            "path": "/cartridges",
+            "operations": [
+              "read_write"
+            ]
+          },
+          {
+            "path": "/impex",
+            "operations": [
+              "read_write"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

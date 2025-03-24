@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payment-settings xmlns="http://www.demandware.com/xml/impex/paymentsettings/2009-09-15">
+    <payment-method method-id="InStorePayment">
+        <name xml:lang="x-default">InStorePayment</name>
+        <description xml:lang="x-default">Payment method for customer directly paying in a physical store.</description>
+        <image>InStore.png</image>
+        <enabled-flag>true</enabled-flag>
+        <processor-id>IN_STORE_PAYMENT</processor-id>
+        <customer-groups>
+            <customer-group group-id="InStorePayment"/>
+        </customer-groups>
+    </payment-method>
+</payment-settings>

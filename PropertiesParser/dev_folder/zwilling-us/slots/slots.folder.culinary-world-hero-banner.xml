@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="culinary-world-hero-banner" context="folder" context-id="culinaryworld" configuration-id="culinary-world-hero-banner" assigned-to-site="true">
+        <template>slots/content/homepage/hero-banner.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="culinaryworld-hero-banner"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+</slot-configurations>

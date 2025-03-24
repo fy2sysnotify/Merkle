@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-check-product">
+    <display-name xml:lang="x-default">
+    </display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div style=&quot;background-color: #EFECEA; padding: 10px; display: flex; align-items: center&quot;&gt;&#13; &lt;img src=&quot;images/age-verification/av-icon.png?$staticlink$&quot; style=&quot;margin-right: 9px;&quot;&gt;&#13; &lt;div class=&quot;display: flex; align-items: center; flex-wrap: wrap;&quot;&gt;&#13;  &lt;span style=&quot;margin-right: 3px; white-space: nowrap; margin-top: 0;&quot;&gt;&#13;   This is an age-restricted item.&#13;  &lt;/span&gt;&#13;  &lt;a style=&quot;color: #ED1C26; white-space: nowrap;&quot; href=&quot;javascript:void(0)&quot; class=&quot;av-notification-modal-trigger&quot; data-flyout-url=&quot;$url('Page-Show', 'cid', 'av-check-product-flyout')$s&quot;&gt;&#13;   Find out more&#13;  &lt;/a&gt;&#13; &lt;/div&gt;&#13;&lt;/div&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

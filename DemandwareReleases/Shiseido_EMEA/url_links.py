@@ -1,0 +1,6 @@
+SHISEIDO_DEV = 'https://development-emea02-shiseido.demandware.net/on/demandware.store/Sites-Site/default/ViewLogin-StartAM'
+SHISEIDO_STAGING = 'https://staging-emea02-shiseido.demandware.net/on/demandware.store/Sites-Site/default/ViewLogin-StartAM'
+SHISEIDO_DEV_BASE_URL = 'https://development-emea02-shiseido.demandware.net'
+SHISEIDO_STAGING_BASE_URL = 'https://staging-emea02-shiseido.demandware.net'
+EXPORT_DIRECTORY = '/on/demandware.servlet/webdav/Sites/Impex/src/instance'
+SANDBOX_URL = 'https://admin.us01.dx.commercecloud.salesforce.com/api/v1/sandboxes'

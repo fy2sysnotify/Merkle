@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">    
+	<content content-id="pdp_specific_content">
+        <display-name xml:lang="x-default">PDP Product Specific Content</display-name>
+        <description xml:lang="x-default">Home is  where the cocotte is</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p class="pdp-type-body-1"&gt;Our cast iron Cocottes bring a taste of home to every meal. Handcrafted in Alsace, France—a region known for its craftsmanship and cuisine —each STAUB Cocotte is shaped by 25 pairs of hands, making each item truly one of a kind.&lt;/p&gt;&#13;
+&#13;
+&lt;p class="pdp-type-body-2"&gt; It’s no wonder home cooks and professional chefs alike choose STAUB Cocottes to roast, sear, caramelize, stew and stir up the perfect meal. &lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/story-featured/pdp-type-content.png</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/productspecificcontent</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

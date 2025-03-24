@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">	
+    <slot-configuration slot-id="full-width-promotion" context="category" context-id="cutlery" configuration-id="full-width-promotion-slot" assigned-to-site="true">
+        <description>full width promotion at category level</description>
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="full-width-promotion-asset"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+</slot-configurations>

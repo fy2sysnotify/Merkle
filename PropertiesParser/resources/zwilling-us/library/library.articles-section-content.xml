@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+  <content content-id="article-section-1">
+        <display-name xml:lang="x-default">Craftsmanship</display-name>
+        <description xml:lang="x-default">The making of the cast iron cocotte</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">content goes here</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/articles/article-section-1.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','article-section-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="article-section-2">
+        <display-name xml:lang="x-default">Recipe</display-name>
+        <description xml:lang="x-default">Grilled beef steak with shallot butter</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Body content</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/articles/article-section-2.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','article-section-2')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="article-section-3">
+        <display-name xml:lang="x-default">Cutlery</display-name>
+        <description xml:lang="x-default">Choosing the right knife for the right job</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">body content goes here</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/articles/article-section-3.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','article-section-3')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="article-section-4">
+        <display-name xml:lang="x-default">Expert tips</display-name>
+        <description xml:lang="x-default">Wine pairing for every palette</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">Article/images/articles/article-section-4.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','article-section-4')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="article-section-5">
+        <display-name xml:lang="x-default">Recipe</display-name>
+        <description xml:lang="x-default">Traditional cubano sandwich</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">Article/images/articles/article-section-5.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','article-section-5')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="article-section-6">
+        <display-name xml:lang="x-default">Cookwarey</display-name>
+        <description xml:lang="x-default">Non-stick or stainless? here's how to choose</description>
+        <online-flag>false</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">Article/images/articles/article-section-6.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','article-section-6')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+
+   
+</library>

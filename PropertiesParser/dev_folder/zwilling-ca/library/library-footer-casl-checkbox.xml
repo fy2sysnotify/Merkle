@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+	<content content-id="footer-casl-checkbox">
+		<display-name xml:lang="x-default">Footer CASL Checkbox</display-name>
+		<online-flag>true</online-flag>
+		<searchable-flag>true</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;form-row label-inline agree-casl-ckeckbox&quot;&gt;&#13;
+&lt;div class=&quot;field-wrapper&quot;&gt;&#13;
+&lt;input id=&quot;agree-casl&quot; class=&quot;agree-casl&quot; name=&quot;subscribe&quot; type=&quot;checkbox&quot; value=&quot;newsletter&quot;/&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;label for=&quot;agree-casl&quot;&gt;I agree the CASL and the &lt;a href=&quot;$url(Page-Show,cid,privacy-policy)$&quot;&gt;Privacy Policy&lt;/a&gt;.&lt;/label&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

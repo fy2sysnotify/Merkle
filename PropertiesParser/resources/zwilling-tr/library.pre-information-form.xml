@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="pre-information-form">
+    <display-name xml:lang="x-default">PRE-INFORMATION FORM</display-name>
+    <description xml:lang="x-default">PRE-INFORMATION FORM</description>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;body tr-popup&quot;&gt;
+        &lt;h1 class=&quot;D_H2&quot;&gt;ÖN BİLGİLENDİRME FORMU&lt;/h1&gt;
+        &lt;h2 class=&quot;D_H3&quot;&gt;1. TARAFLARA İLİŞKİN BİLGİLER&lt;/h2&gt;
+        &lt;h3 class=&quot;D_H4_3&quot;&gt;1.1.  SATICIYA İLİŞKİN BİLGİLER&lt;/h3&gt;
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ünvanı:&lt;/td&gt;
+        &lt;td&gt;Zwilling J.A. Henckels Mutfak ve Güzellik Ürünleri Ltd. Şti. (&quot;SATICI&quot;) (Mersis No: 999049705600019)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Adres:&lt;/td&gt;
+        &lt;td&gt;Fatih Sultan Mehmet Mahallesi, Poligon Caddesi, No:8, Buyaka 2, Blok 3, K.6, Daire:40, Ümraniye/İstanbul&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Telefon:&lt;/td&gt;
+        &lt;td&gt;0216 290 3111-14&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Faks:&lt;/td&gt;
+        &lt;td&gt;0216 290 3115&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Eposta:&lt;/td&gt;
+        &lt;td&gt;info@zwilling.com.tr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        &lt;h3 class=&quot;D_H4_3&quot;&gt;1.2. TÜKETİCİYE İLİŞKİN BİLGİLER&lt;/h3&gt;
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ad Soyad:&lt;/td&gt;
+        &lt;td&gt;{0}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;E-posta:&lt;/td&gt;
+        &lt;td&gt;{1}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;2. SÖZLEŞME KONUSU ÜRÜN BİLGİLERİ&lt;/h2&gt;
+        &lt;p&gt;İşbu kısımda sözleşme konusu ürün ya da ürünlerin temel özellikleri açıklanmaktadır.
+        {11}
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;İndirim:&lt;/td&gt;
+        &lt;td&gt;{2} TL&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Kargo Tutarı:&lt;/td&gt;
+        &lt;td&gt;{3} TL&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Toplam:&lt;/td&gt;
+        &lt;td&gt;{4} TL&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Ödeme Şekli ve Planı:&lt;/td&gt;
+        &lt;td&gt;{5}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslimat Adresi:&lt;/td&gt;
+        &lt;td&gt;{6}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslim Edilecek Kişi:&lt;/td&gt;
+        &lt;td&gt;{7}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Fatura Adresi:&lt;/td&gt;
+        &lt;td&gt;{8}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Sipariş Tarihi:&lt;/td&gt;
+        &lt;td&gt;{9}&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Teslim Şekli:&lt;/td&gt;
+        &lt;td&gt;Alıcıya Teslim&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
+        
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;3. ÜRÜNÜN TESLİMATI &lt;/h2&gt;
+        &lt;p&gt;a)   Sözleşme konusu her bir ürün, 30 günlük yasal süreyi aşmamak kaydı ile ALICI' nın yerleşim yeri uzaklığına bağlı olarak internet sitesindeki ön bilgiler kısmında belirtilen süre zarfında, ALICI veya ALICI’nın gösterdiği adresteki kişi ve/veya kuruluşa teslim edilir. Bu süre içinde ürünün ALICI’ya teslim edilememesi durumunda, ALICI’nın sözleşmeyi feshetme hakkı saklıdır.&lt;/p&gt;
+        &lt;p&gt;b)   SATICI, Sözleşme konusu ürünü eksiksiz, siparişte belirtilen niteliklere uygun ve varsa garanti belgeleri, kullanım kılavuzları işin gereği olan bilgi ve belgeler ile teslim etmeyi, her türlü ayıptan arî olarak yasal mevzuat gereklerine göre sağlam, standartlara uygun bir şekilde işi doğruluk ve dürüstlük esasları dâhilinde ifa etmeyi, hizmet kalitesini koruyup yükseltmeyi, işin ifası sırasında gerekli dikkat ve özeni göstermeyi, ihtiyat ve öngörü ile hareket etmeyi kabul, beyan ve taahhüt eder.&lt;/p&gt;
+        &lt;p&gt;c)   SATICI, sözleşmeden doğan ifa yükümlülüğünün süresi dolmadan ALICI’yı bilgilendirmek ve açıkça onayını almak suretiyle eşit kalite ve fiyatta farklı bir ürün tedarik edebilir.&lt;/p&gt;
+        &lt;p&gt;d)   ALICI, Sözleşme konusu ürünün teslimatı için işbu Sözleşme’yi elektronik ortamda teyit edeceğini, herhangi bir nedenle sözleşme konusu ürün bedelinin ödenmemesi ve/veya banka kayıtlarında iptal edilmesi halinde, SATICI’nın sözleşme konusu ürünü teslim yükümlülüğünün sona ereceğini kabul, beyan ve taahhüt eder. &lt;/p&gt;
+        &lt;p&gt;e)   ÜRÜN, ALICI'dan başka bir kişi/kuruluşa teslim edilecek ise, teslim edilecek kişi/kuruluşun teslimatı kabul etmemesinden SATICI sorumlu tutulamaz&lt;/p&gt;
+        &lt;p&gt;f)   ALICI, sözleşme konusu mal/hizmeti teslim almadan önce muayene edecek; ezik, kırık, ambalajı yırtılmış vb. hasarlı ve ayıplı mal/hizmeti kargo şirketinden teslim almayacaktır. ALICI, hasarlı/ayıplı ÜRÜN’ü kabul etmemekle ve KARGO firması yetkililerine tutanak tutturmakla sorumludur, aksi takdirde SATICI sorumluluk kabul etmeyecektir. Teslim alınan mal/hizmetin hasarsız ve sağlam olduğu kabul edilecektir. Teslimden sonra mal/hizmetin özenle korunması borcu, ALICI’ya aittir. &lt;/p&gt;
+        &lt;p&gt;g)   ÜRÜN’ün teslimatı için bedelinin ALICI'nın tercih ettiği ödeme şekli ile ödenmiş olması şarttır. Herhangi bir nedenle ÜRÜN bedeli ödenmez veya banka kayıtlarında iptal edilir ise, SATICI ÜRÜN’ün teslimi yükümlülüğünden kurtulmuş kabul edilir. &lt;/p&gt;
+        &lt;p&gt;h)   ALICI tüketici sıfatıyla talep ve şikayetlerini yukarıda yer alan SATICI iletişim bilgilerini kullanarak ve/veya websitesi’nde yer alan https://www.zwilling.com/tr/iletisim-formu.html linki üzerinden ulaştırabilir. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;4. CAYMA HAKKI&lt;/h2&gt;
+        &lt;p&gt;TÜKETİCİ; mal satışına ilişkin mesafeli sözleşmelerde, malı teslim aldığı veya TÜKETİCİ tarafından gösterilen üçüncü kişinin malı teslim aldığı tarihten itibaren 14 (on dört) gün içerisinde hiçbir hukuki ve cezai sorumluluk üstlenmeksizin ve hiçbir gerekçe göstermeksizin malı reddederek sözleşmeden cayma hakkına sahiptir. Hizmet sunumuna ilişkin mesafeli sözleşmelerde ise, bu süre sözleşmenin imzalandığı tarihte başlar. Ancak TÜKETİCİ, sözleşmenin kurulmasından malın teslimine kadar olan süre içinde de cayma hakkını kullanabilir. &lt;/p&gt;
+        &lt;p&gt;Cayma hakkının kullanılması için 14 (on dört) günlük süre içinde SATICI’ya yukarıda bildirilen faks, telefon veya e-posta adresine bildirimde bulunulması ve ürünün 27/11/2014 tarihinde Resmi Gazete’de yayımlanan Mesafeli Sözleşmeler Yönetmeliği'nin “Cayma Hakkının İstisnaları” başlıklı 15. madde hükümleri ve taraflar arasında elektronik ortamda imzalanan mesafeli satış sözleşmesinin 8. madde hükümleri çerçevesinde kullanılmamış olması şarttır. Cayma hakkı kapsamında yer alan iade usulleri ayrıntılı olarak ayrıca mesafeli satış sözleşmesinde de yer almaktadır. &lt;/p&gt;
+        &lt;p&gt;TÜKETİCİ’nin cayma hakkını kullanması halinde satın almış olduğu ürünü SATICI’nın anlaşmalı olduğu Yurtiçi Kargo firması yolu ile yukarıda anılan bildirimin yöneltildiği tarihten itibaren 10 (on) gün içerisinde SATICI’ya veya sağlayıcıya veya yetkilendirmiş olduğu kişiye geri gönderilmesi gerekmektedir. TÜKETİCİ cayma hakkını kullandığına ilişkin bildirimi ilettiği tarihten itibaren 10 (on) gün içinde malı SATICI’ya veya sağlayıcıya veya yetkilendirmiş olduğu kişiye geri göndermediği durumda, cayma hakkı talebi geçersiz sayılacaktır. &lt;/p&gt;
+        &lt;p&gt;İade ürünün anlaşmalı kargo firması ile gönderilmesi halinde cayma hakkının kullanımından kaynaklanan masraflar SATICI’ya ait olacaktır. Cayma hakkının kullanımında SATICI’nın anlaşmalı olduğu kargo firması dışında ürün iade gönderimi olması halinde iade gönderi kargo masrafları TÜKETİCİ tarafından karşılanacaktır. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;5. CAYMA HAKKININ İSTİSNALARI&lt;/h2&gt;
+        &lt;p&gt;Taraflarca aksi kararlaştırılmadıkça, TÜKETİCİ aşağıdaki sözleşmelerde cayma hakkını kullanamaz,
+        &lt;p&gt;a) Fiyatı finansal piyasalardaki dalgalanmalara bağlı olarak değişen ve SATICI veya sağlayıcının kontrolünde olmayan mal veya hizmetlere ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;b) TÜKETİCİ'nin istekleri veya kişisel ihtiyaçları doğrultusunda hazırlanan mallara ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;c) Çabuk bozulabilen veya son kullanma tarihi geçebilecek malların teslimine ilişkin sözleşmeler, niteliği itibarıyla; tek kullanımlık ürünler, kopyalanabilir yazılım ve programlar,
+        &lt;/p&gt;
+        &lt;p&gt;ç) Tesliminden sonra ambalaj, bant, mühür, paket gibi koruyucu unsurları açılmış olan mallardan; iadesi sağlık ve hijyen açısından uygun olmayanların teslimine ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;d) Tesliminden sonra başka ürünlerle karışan ve doğası gereği ayrıştırılması mümkün olmayan mallara ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;e) Malın tesliminden sonra ambalaj, bant, mühür, paket gibi koruyucu unsurları açılmış olması halinde maddi ortamda sunulan kitap, dijital içerik ve bilgisayar sarf malzemelerine ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;f) Abonelik sözleşmesi kapsamında sağlananlar dışında, gazete ve dergi gibi süreli yayınların teslimine ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;g) Belirli bir tarihte veya dönemde yapılması gereken, konaklama, eşya taşıma, araba kiralama, yiyecek-içecek tedariki ve eğlence veya dinlenme amacıyla yapılan boş zamanın değerlendirilmesine ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;h) Elektronik ortamda anında ifa edilen hizmetler veya TÜKETİCİ'ye anında teslim edilen gayri maddi mallara ilişkin sözleşmeler,&lt;/p&gt;
+        &lt;p&gt;i) Cayma hakkı süresi sona ermeden önce, TÜKETİCİ'nin onayı ile ifasına başlanan hizmetlere ilişkin sözleşmeler.&lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;6. GEÇERLİLİK&lt;/h2&gt;
+        &lt;p&gt;İşbu ön bilgilendirme formu, elektronik ortamda TÜKETİCİ tarafından okunarak kabul edildiğinde geçerlilik ve yürürlük kazanır. İşbu ön bilgilendirme formu, ancak TÜKETİCİ tarafından okunarak kabul edildikten sonra mesafeli satış sözleşmesi kurulması aşamasına geçilecektir. &lt;/p&gt;
+        
+        &lt;h2 class=&quot;D_H3&quot;&gt;7. YETKİLİ MAHKEME&lt;/h2&gt;
+        &lt;p&gt;TÜKETİCİ; şikâyet ve itirazları konusunda başvurularını, T.C Gümrük ve Ticaret Bakanlığı tarafından ve ilgili mevzuat gereğince ilan edilen parasal sınırlar dâhilinde yetkili Tüketici Hakem Heyetlerine, bu değerleri aşan durumlarda Tüketici Mahkemeleri ve İcra Müdürlükleri'ne yapabilir. &lt;/p&gt;
+        
+        &lt;b&gt;Tarih:&lt;/b&gt; {10}
+        &lt;/div&gt;</custom-attribute>
+      </custom-attributes>
+    </content>
+  </library>

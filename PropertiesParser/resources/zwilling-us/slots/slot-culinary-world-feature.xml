@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="culinary-world-landing-6up" context="folder" context-id="culinary-world" configuration-id="6-culinary-world-feature" assigned-to-site="true">
+        <description>6 up culinary feature</description>
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">Local Highlights</callout-msg>
+        <content>
+            <content-assets>
+                <content-asset content-id="6-up-culinary-world-1"/>
+                <content-asset content-id="6-up-culinary-world-2"/>
+                <content-asset content-id="6-up-culinary-world-3"/>
+                <content-asset content-id="6-up-culinary-world-4"/>
+                <content-asset content-id="6-up-culinary-world-5"/>
+				<content-asset content-id="6-up-culinary-world-6"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+</slot-configurations>

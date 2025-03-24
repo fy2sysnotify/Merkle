@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    
+
+    <slot-configuration slot-id="order-confirmation-product-1x4-recomm" context="global" configuration-id="order-confirmation-product-1x4-recomm" assigned-to-site="true">
+        <description>order onfirmation product recommendation</description>
+        <template>slots/product/producttilecarousel.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">More To Explore</callout-msg>
+        <content>
+            <products>
+                <product product-id="1101006"/>
+                <product product-id="1101018"/>
+                <product product-id="1101025"/>
+                <product product-id="11010806"/>
+                <product product-id="1101085"/>
+            </products>
+        </content>
+    </slot-configuration>
+
+
+</slot-configurations>

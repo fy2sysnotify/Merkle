@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+    <content content-id="consent-cookie-text">
+        <display-name xml:lang="fr-FR">consent-cookie-text</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+           <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div class=&quot;cookie-notification hide&quot;&gt;
+        &lt;div class=&quot;container cookie-container&quot;&gt;
+        &lt;div class=&quot;text-section&quot;&gt;
+        This site uses cookies to provide you with a better browsing experience. By using this site, you agree to our use of cookies. For details, please see our
+        &lt;a href=&quot;$httpsUrl('Page-Show','cid','privacy-policy')$&quot; class=&quot;privacy-link privacy-policy&quot;&gt;Privacy Policy&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;btn-section&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;ok-link&quot;&gt;OK&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+
+</library>

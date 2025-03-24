@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+
+    <folder folder-id="culinary-world">
+        <display-name xml:lang="x-default">Culinary World</display-name>
+        <description xml:lang="x-default">Culinary World</description>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="expert-tips">
+        <display-name xml:lang="x-default">Expert Tips</display-name>
+        <description xml:lang="x-default">Expert Tips</description>
+        <online-flag>true</online-flag>
+        <parent>culinary-world</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="misc-content">
+        <display-name xml:lang="x-default">Misc content</display-name>
+        <description xml:lang="x-default">Misc content</description>
+        <online-flag>true</online-flag>
+        <parent>expert-tips</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+	 <content content-id="sample-article-content">
+        <display-name xml:lang="x-default">Essential knife care tips</display-name>
+        <description xml:lang="x-default">Usage, cleaning and storage tips to get great, lasting performance from your knife.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <template>content/content/articleasset</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="assetstitle1">Recipes</custom-attribute>
+            <custom-attribute attribute-id="assetstitle2">Articles</custom-attribute>
+            <custom-attribute attribute-id="body2">&lt;div class="article-max-container"&gt;&#13;
+	&lt;div class="article-container"&gt;&#13;
+		&lt;div class="article-row "&gt;&#13;
+			&lt;div data-aos="fade-up" class="article-bodycontent aos-init aos-animate"&gt;&#13;
+				&lt;div class="article-content-inner"&gt;&#13;
+					&lt;div id="article-body-2" &gt;&#13;
+						&lt;h3  class="article-body"&gt;Cutting boards&lt;/h3&gt;&#13;
+					&#13;
+					&lt;/div&gt;&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area01" src="Article/images/bodysection/second_bodycontent_area01.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Plastic cutting boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;&#13;
+					&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area02" src="Article/images/bodysection/second_bodycontent_area02.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Wood Fiber Cutting Boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;	&#13;
+					&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area03" src="Article/images/bodysection/second_bodycontent_area03.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Bamboo cutting boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;&#13;
+					&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area04" src="Article/images/bodysection/second_bodycontent_area04.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Beech cutting boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;	&#13;
+				&lt;/div&gt;&#13;
+			&lt;/div&gt;	&#13;
+		&lt;/div&gt;&#13;
+	&lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="body3">&lt;div class="article-max-container"&gt;&#13;
+	&lt;div class="article-container"&gt;&#13;
+		&lt;div class="article-row "&gt;&#13;
+			&lt;div data-aos="fade-up" class="article-bodycontent-3 aos-init aos-animate"&gt;&#13;
+				&lt;div class="article-bodycontent-image-3"&gt;&#13;
+					&lt;img alt="third_bodycontent_area01" src="Article/images/bodysection/Third_bodycontent_area01.jpg?$staticlink$" title="" /&gt;&#13;
+				&lt;/div&gt;&#13;
+				&lt;div class="article-bodycontent-info-3"&gt;&#13;
+					&lt;div class="article-bodycontent-info-inner"&gt;&#13;
+						&lt;div id="article-body-3" &gt;&#13;
+							&lt;h3 class="article-body"&gt; Cleaning your Knife&lt;/h3&gt;&#13;
+							&#13;
+						&#13;
+						&lt;/div&gt;&#13;
+&#13;
+						&lt;h2 class="article-content-info-label"&gt;Cleaning your knife&lt;/h2&gt;&#13;
+						&lt;p&gt; Always clean your knife by hand as it's more gentle on the steel than the high humidity and detergents of a dishwasher&lt;/p&gt;&#13;
+						&#13;
+						&lt;h2 class="article-content-info-label"&gt;Washing &amp; drying&lt;/h2&gt;&#13;
+						&lt;p&gt; Use a soft cloth or sponge and a little washing up liquid to clean your knife under the hot tap. Never use a scourer or wire wool. Hold the handle and clean from the back of the knife - never face the cutting edge toward your hand. Rinse and dry the knife and store away safely. Never leave a knife in a sink full of water and other utensils as you may cut yourself when reaching into the bowl.&lt;/p&gt;&#13;
+					&lt;/div&gt;&#13;
+				&lt;/div&gt;&#13;
+			&lt;/div&gt;&#13;
+		&lt;/div&gt;&#13;
+&#13;
+	&lt;/div&gt;&#13;
+&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="body4">&lt;div class="article-max-container article-bodycontent-4"&gt;&#13;
+	&lt;div class="article-container"&gt;&#13;
+		&lt;div class="article-row "&gt;&#13;
+			&lt;div data-aos="fade-up" class="article-bodycontent aos-init aos-animate"&gt;&#13;
+				&lt;div class="article-content-inner"&gt;&#13;
+					&lt;div id="article-body-4" &gt;&#13;
+						&lt;h3  class="article-body"&gt;Cut on the right surface&lt;/h3&gt;&#13;
+					&#13;
+					&lt;/div&gt;&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area01" src="Article/images/bodysection/second_bodycontent_area01.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Plastic cutting boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;&#13;
+					&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area02" src="Article/images/bodysection/second_bodycontent_area02.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Wood Fiber Cutting Boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;	&#13;
+					&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area03" src="Article/images/bodysection/second_bodycontent_area03.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Bamboo cutting boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;&#13;
+					&#13;
+					&lt;div class="article-info-block"&gt;&#13;
+						&lt;div class="article-image-content"&gt;&#13;
+							&lt;img alt="second_bodycontent_area04" src="Article/images/bodysection/second_bodycontent_area04.jpg?$staticlink$" title="" /&gt;&#13;
+						&lt;/div&gt;&#13;
+						&lt;div class="article-content-info"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Beech cutting boards&lt;/h2&gt;&#13;
+							&lt;p&gt;&#13;
+								Always use a wooden or plastic cutting board. Wooden and plastic boards help to protect the cutting edge of the blade, meaning the knife will keep its sharpness longer. Never cut on a glass or granite board. These extremely hard surfaces will dull the cutting edge of your knife more quickly than a wooden or plastic board.&#13;
+							&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;	&#13;
+				&lt;/div&gt;&#13;
+			&lt;/div&gt;	&#13;
+		&lt;/div&gt;&#13;
+	&lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="body5">&lt;div class="article-max-container"&gt;&#13;
+	&lt;div class="article-container"&gt;&#13;
+		&lt;div class="article-row "&gt;&#13;
+			&lt;div data-aos="fade-up" class="article-bodycontent-3 aos-init aos-animate"&gt;&#13;
+				&lt;div class="article-bodycontent-image-3"&gt;&#13;
+					&lt;img alt="fift_bodycontent_area01" src="Article/images/bodysection/fift_bodycontent_area01.jpg?$staticlink$" title="" /&gt;&#13;
+				&lt;/div&gt;&#13;
+				&lt;div class="article-bodycontent-info-3"&gt;&#13;
+					&lt;div class="article-bodycontent-info-inner"&gt;&#13;
+						&lt;div id="article-body-5" &gt;&#13;
+							&lt;h3 class="article-body"&gt;Safe knife storage&lt;/h3&gt;&#13;
+							&#13;
+						&#13;
+						&lt;/div&gt;&#13;
+&#13;
+						&lt;p&gt; There are a number of ways to safely store knives which will also protect the cutting edge.&lt;/p&gt;&#13;
+						&lt;div class="article-content-info-5"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Knife block&lt;/h2&gt;&#13;
+							&lt;p&gt; You can use a knife block that sits on the counter top. This is a popular way to safely keep your knives within easy reach. Many blocks can also house a honing steel &#13;
+							and scissors.&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+&#13;
+						&lt;div class="article-content-info-5"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Magnetic bar&lt;/h2&gt;&#13;
+							&lt;p&gt; A magnetic bar fixed to a wall is a great way to visibly store knives whilst keeping your kitchen counter top clear. Always place the knives handle down and tip up so it's safe and easy to reach for the handle of the knife &#13;
+							you want.&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+&#13;
+						&lt;div class="article-content-info-5"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Knife case&lt;/h2&gt;&#13;
+							&lt;p&gt;These tend to be used by professional chefs. A knife case is a safe way to transport your knives and should be used with knife sheaths which protect the cutting edge of &#13;
+							the blade.&lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+&#13;
+						&lt;div class="article-content-info-5"&gt;&#13;
+							&lt;h2 class="article-content-info-label"&gt;Knife seath&lt;/h2&gt;&#13;
+							&lt;p&gt;If you keep your knives in a drawer, then you should use a knife sheath to protect the blade, and your hands. The cutting edge can chip or dent when clashing against other utensils in the drawer, so sheaths are a great value way to keep your knives in pristine condition. Never keep knives loose in a drawer without covering the blade with a sheath. &lt;/p&gt;&#13;
+						&lt;/div&gt;&#13;
+					&lt;/div&gt;&#13;
+				&lt;/div&gt;&#13;
+			&lt;/div&gt;&#13;
+		&lt;/div&gt;&#13;
+&#13;
+	&lt;/div&gt;&#13;
+&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="customCSSFile">Article/images/article-hero-image.png</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/article-hero-image.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkedAssets1">editorial-content-1,editorial-content-2,editorial-content-3,editorial-content-4</custom-attribute>
+            <custom-attribute attribute-id="linkedAssets2">article-section-1,article-section-2,article-section-3,article-section-4,article-section-5,article-section-6</custom-attribute>
+            <custom-attribute attribute-id="type">
+                <value>Knife Care</value>
+                <value>Safety</value>
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="misc-content"/>
+        </folder-links>
+    </content>
+
+
+</library>	

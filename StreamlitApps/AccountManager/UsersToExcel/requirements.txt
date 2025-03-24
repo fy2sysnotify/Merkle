@@ -1,0 +1,6 @@
+pandas
+streamlit
+python-decouple
+openpyxl
+requests
+urllib3

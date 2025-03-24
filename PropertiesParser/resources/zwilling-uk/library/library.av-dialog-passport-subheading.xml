@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-passport-subheading">
+    <display-name xml:lang="x-default">Age Verification Passport Dialog Sub-Heading</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Passport&lt;/strong&gt;&lt;/h3&gt;&#13;&lt;p style=&quot;text-align: center;&quot;&gt;Please enter your passport&amp;rsquo;s MRZ number, expiry date, and country of issue. The MRZ number is the long string of numbers, letters, and characters (including the &amp;lt; symbol) as shown in the red box in the example below.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

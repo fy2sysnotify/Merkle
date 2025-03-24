@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    
+    
+
+    <content content-id="privacy-policy-terms-of-use-check-box-label">
+        <display-name xml:lang="x-default">privacy-policy-terms-of-use-check-box-label</display-name>
+        <display-name xml:lang="en-US">privacy-policy-terms-of-use-check-box-label</display-name>
+        <description xml:lang="x-default">privacy-policy-terms-of-use-check-box-label</description>
+        <description xml:lang="en-US">privacy-policy-terms-of-use-check-box-label</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">By checking the box you are agreeing to the &lt;a href="#" &gt;privacy policy&lt;/a&gt; and &lt;a href="#" &gt;terms of use&lt;/a&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="en-US">By checking the box you are agreeing to the &lt;a href="#" &gt;privacy policy&lt;/a&gt; and &lt;a href="#" &gt;terms of use&lt;/a&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="account-cart-checkout"/>
+        </folder-links>
+    </content>
+
+    
+
+</library>

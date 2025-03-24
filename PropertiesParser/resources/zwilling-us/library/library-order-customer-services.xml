@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="order-customer-services">
+        <display-name xml:lang="x-default">order customer services</display-name>
+        <description xml:lang="x-default">Customer Services for Order</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="x-default">Customer Sservices</page-title>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="customer-service-row"&gt;&#13;
+&lt;div class="customer-service-info"&gt;&#13;
+&lt;h3&gt;Have Questions About Your Order ?&lt;/h3&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;div class="customer-service-phone-number"&gt;&#13;
+&lt;div class="customer-phone-icon"&gt;&lt;span class="phone-svg-icon"&gt;&lt;svg version="1.1" id="Layer_0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"&#13;
+     viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve"&gt;&#13;
+&lt;path d="M15.9,12.2l-2.5,2.5l-4.1-4.1l2.5-2.5L5.5,1.9L3.1,4.3C1,6.4,1,9.8,3.1,11.9l9,9c1.1,1.1,2.4,1.6,3.8,1.6&#13;
+    c1.4,0,2.8-0.5,3.8-1.6l2.4-2.4L15.9,12.2z M19,20.2c-1.7,1.7-4.5,1.7-6.2,0l-9-9C2.1,9.5,2.1,6.7,3.8,5l1.7-1.7l4.8,4.8l-2.5,2.5&#13;
+    l5.6,5.6l2.5-2.5l4.8,4.8L19,20.2z"/&gt;&lt;/svg&gt;&lt;/span&gt;&#13;
+&lt;div class="phn-time-details"&gt;&lt;span class="phone-num"&gt; (800) 777 4308&lt;/span&gt; &lt;span class="timing"&gt; Mon-Thu:9AM-5PM ET&lt;/span&gt; &lt;span class="timing"&gt; Fri:9AM-2:30PM ET&lt;/span&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;div class="customer-service-self-service"&gt;&lt;a href=""&gt;Shipping Information &lt;/a&gt; &lt;a href=""&gt; Contact US &lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="account-cart-checkout"/>
+        </folder-links>
+    </content>
+</library>

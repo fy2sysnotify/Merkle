@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="accepted-payment-methods">
+    <display-name xml:lang="x-default">Accepted payment methods</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;accepted-payment-method-list&quot;&gt;
+        &lt;h3&gt;Accepted Payments&lt;/h3&gt;
+        &lt;img src=&quot;images/payment-logo/mastercard.png?$staticlink$&quot; alt=&quot;MasterCard&quot; /&gt;
+        &lt;img src=&quot;images/payment-logo/visa.png?$staticlink$&quot; alt=&quot;Visa&quot; /&gt;
+        &lt;img src=&quot;images/payment-logo/discover.png?$staticlink$&quot; alt=&quot;Discover&quot; /&gt;
+        &lt;img src=&quot;images/payment-logo/amex.png?$staticlink$&quot; alt=&quot;American Express&quot; /&gt;
+        &lt;img src=&quot;images/payment-logo/paypal.png?$staticlink$&quot; alt=&quot;Paypal&quot; /&gt;
+        &lt;/div&gt;
+        &lt;style&gt;
+        .accepted-payment-method-list &gt; img { zoom: 75%; }
+        &lt;/style&gt;</custom-attribute>
+      </custom-attributes>
+      <folder-links>
+        <classification-link folder-id="account-cart-checkout" />
+      </folder-links>
+    </content>
+  </library>

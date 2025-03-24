@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="empty-cart-content-asset">
+		<display-name xml:lang="x-default">Empty Cart Content Asset</display-name>
+		<description>Empty Cart Content Asset</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>true</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="body" xml:lang="x-default">&lt;h1&gt;Your Shopping Cart is Empty&lt;/h1&gt;</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

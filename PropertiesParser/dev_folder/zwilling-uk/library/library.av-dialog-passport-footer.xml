@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-passport-footer">
+    <display-name xml:lang="x-default">
+    </display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;Please ensure all information entered is correct as shown on&amp;nbsp;your passport. This page is secure.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

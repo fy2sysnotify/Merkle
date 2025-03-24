@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-contactus-content">
+    <display-name xml:lang="x-default">Age Verification Dialog Contact Us Content</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;Unfortunately, we have been unable to verify your age.&lt;br /&gt;&#13;&lt;br /&gt;&#13;Please complete and send the contact form to us so we may assist further.&lt;br /&gt;&#13;&lt;br /&gt;&#13;Alternatively, you can call us on 0845 262 1731, 8.30 am &amp;ndash; 5 pm Monday to Friday (call costs will vary depending on your provider).&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

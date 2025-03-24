@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">	
+  <content content-id="product-tile-promo">
+        <display-name xml:lang="x-default">Product Tile Promo</display-name>
+        <description xml:lang="x-default">&lt;span&gt;Spring 2018 &lt;/span&gt;&#13;
+&lt;span class="kitchen-event"&gt;KITCHEN&lt;/span&gt;&#13;
+&lt;span class="kitchen-event"&gt;EVENT&lt;/span&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/promotion/zwilling-us/PromoHomeBanner/2-up-image1-Cookware-Event.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">SHOP SALE</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'sale_categories_cutlery')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/producttilepromotion</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

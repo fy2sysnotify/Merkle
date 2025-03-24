@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+    <content content-id="account-nav-registered">
+        <display-name xml:lang="x-default">My Account Registered User Left Nav</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;ul class="nav-list"&gt;&#13;
+	&lt;li&gt;&lt;a title="Show your account page" href="$httpsUrl(Account-Show)$" data-nav-id="My Account" class=""&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;
+        &lt;li&gt;&lt;a title="Show or update your personal information" href="$httpsUrl(Account-EditProfile)$" data-nav-id="My Profile"&gt;MY PROFILE&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a title="Manage your billing and shipping addresses" href="$httpsUrl(Address-List)$" data-nav-id="Addresses"&gt;ADDRESSES&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a title="Manage credit cards" href="$httpsUrl(PaymentInstruments-List)$" data-nav-id="Payment Info"&gt;PAYMENT INFO&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a title="Order History" href="$httpsUrl(Order-History)$" data-nav-id="Order History"&gt;ORDER HISTORY&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a title="Modify your wish list" href="$httpsUrl(Wishlist-Show)$" data-nav-id="My Wishlist"&gt;MY WISHLIST&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

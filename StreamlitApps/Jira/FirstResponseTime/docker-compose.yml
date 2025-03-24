@@ -1,0 +1,13 @@
+version: "3"  # Specify the Docker Compose version being used
+
+services:
+  streamlit-app:  # Define a service named "streamlit-app"
+    build:  # Specify how to build the container
+      context: .  # Build context is the current directory
+      dockerfile: Dockerfile  # Use the Dockerfile in the current directory
+    ports:
+      - "8501:8501"  # Map port 8501 from the host to port 8501 in the container
+    volumes:
+      - ./.env:/app/.env
+    restart: always  # Always restart the container if it stops
+    tty: true  # Allocate a pseudo-TTY for the container (used for interactive mode)

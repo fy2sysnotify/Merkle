@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+     <content content-id="brand-hero-content">
+        <display-name xml:lang="x-default">Brand Hero Content</display-name>
+        <description xml:lang="x-default">We’re just really passionate about cooking. With authentic cast iron and ceramic cookware from STAUB, you’ll soon share the sentiment.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;style&gt;&#13;
+    .hero-banner .hero-name {&#13;
+         color: #FFFFFF;&#13;
+    }&#13;
+   .hero-banner.brand-banner .hero-des {&#13;
+         color: #FFFFFF;&#13;
+   }&#13;
+   .hero-banner  .hero-link a {&#13;
+        color: #FFFFFF;&#13;
+   }    &#13;
+&lt;/style&gt;&#13;
+&#13;
+&lt;div&gt;PARDON &lt;/div&gt;&#13;
+&lt;div&gt;OUR FRENCH&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/brandlanding/Brandpage-hero-banner.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">our story</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid','cookware')$</custom-attribute>
+            <custom-attribute attribute-id="relatedAsset">promo-bar</custom-attribute>
+        </custom-attributes>
+    </content>
+<content content-id="promo-bar">
+        <display-name xml:lang="x-default">20% OFF SPRING EVENT</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/brandlanding/recipe.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">SHOP THE SALE</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'womens-outfits')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/promobar</custom-attribute>
+        </custom-attributes>
+    </content>
+   
+</library>

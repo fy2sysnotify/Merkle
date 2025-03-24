@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <folder folder-id="culinary-world">
+        <display-name xml:lang="x-default">Culinary World</display-name>
+        <description xml:lang="x-default">Culinary World</description>
+        <online-flag>true</online-flag>
+        <template>rendering/folder/culinaryfoldermainlanding</template>
+        <parent>root</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="Categories">
+        <display-name xml:lang="x-default">Categories</display-name>
+        <description xml:lang="x-default">Categories</description>
+        <online-flag>true</online-flag>
+        <parent>culinary-world</parent>
+        <position>1.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="cookware101">
+        <display-name xml:lang="x-default">Cookware 101</display-name>
+        <description xml:lang="x-default">Cookware 101</description>
+        <online-flag>false</online-flag>
+        <parent>culinary-world</parent>
+        <position>3.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="experttips">
+        <display-name xml:lang="x-default">Expert Tips</display-name>
+        <description xml:lang="x-default">Expert Tips</description>
+        <online-flag>true</online-flag>
+        <parent>culinary-world</parent>
+        <position>5.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="misc-content">
+        <display-name xml:lang="x-default">Misc content</display-name>
+        <description xml:lang="x-default">Misc content</description>
+        <online-flag>true</online-flag>
+        <parent>experttips</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="howit'smade">
+        <display-name xml:lang="x-default">How it's made</display-name>
+        <description xml:lang="x-default">How it's made</description>
+        <online-flag>false</online-flag>
+        <parent>culinary-world</parent>
+        <position>7.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="knifeskills">
+        <display-name xml:lang="x-default">Knife Skills</display-name>
+        <description xml:lang="x-default">Knife Skills</description>
+        <online-flag>false</online-flag>
+        <parent>culinary-world</parent>
+        <position>4.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="newarrivals">
+        <display-name xml:lang="x-default">New Arrivals</display-name>
+        <description xml:lang="x-default">New Arrivals</description>
+        <online-flag>false</online-flag>
+        <parent>culinary-world</parent>
+        <position>8.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="ourstory">
+        <display-name xml:lang="x-default">Our Story</display-name>
+        <description xml:lang="x-default">Our Story</description>
+        <online-flag>false</online-flag>
+        <parent>culinary-world</parent>
+        <position>6.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="recipes">
+        <display-name xml:lang="x-default">Chef Tested Recipes</display-name>
+        <description xml:lang="x-default">Chef Tested Recipes</description>
+        <online-flag>true</online-flag>
+        <parent>culinary-world</parent>
+        <position>2.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="useandcare">
+        <display-name xml:lang="x-default">Use &amp; Care</display-name>
+        <description xml:lang="x-default">Use &amp; Care</description>
+        <online-flag>false</online-flag>
+        <parent>culinary-world</parent>
+        <position>9.0</position>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <content content-id="culinary-content-tile-1">
+        <display-name xml:lang="en-US">CHEF TESTED RECIPES</display-name>
+        <description xml:lang="en-US">BLACK BEAN AND AVOCADO CROSTINI</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="en-US">CHEF TESTED RECIPES</custom-attribute>
+            <custom-attribute attribute-id="image">images/3upconfimationBanner/Culinary-world-01.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','3-up-content-card-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="culinary-content-tile-2">
+        <display-name xml:lang="x-default">EXPERT TIPS</display-name>
+        <display-name xml:lang="en-US">EXPERT TIPS</display-name>
+        <description xml:lang="x-default">HOW TO CARE FOR YOUR NEW CHEF'S KNIFE</description>
+        <description xml:lang="en-US">HOW TO CARE FOR YOUR NEW CHEF'S KNIFE</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">EXPERT TIPS</custom-attribute>
+            <custom-attribute attribute-id="image">images/3upconfimationBanner/Culinary-world-02.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','3-up-content-card-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="culinary-content-tile-3">
+       <display-name xml:lang="x-default">Our story</display-name>
+        <display-name xml:lang="en-US">OUR STORY</display-name>
+        <description xml:lang="x-default">A modern company with a long tradition</description>
+        <description xml:lang="en-US">A MODERN COMPANY WITH A LONG TRADITION</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="en-US">OUR STORY</custom-attribute>
+            <custom-attribute attribute-id="image">images/3upconfimationBanner/Culinary-world-03.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','3-up-content-card-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/contenttile</custom-attribute>
+        </custom-attributes>
+    </content>
+
+</library>

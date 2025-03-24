@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">    
+    <slot-configuration slot-id="more-to-explore" context="global" configuration-id="more-to-explore-configuration" assigned-to-site="true">
+        <template>slots/product/product_1x4.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <products>
+                <product product-id="008884303989"/>
+                <product product-id="008885004519"/>
+                <product product-id="008885535488"/>
+                <product product-id="013742000153"/>
+                <product product-id="013742003314"/>
+            </products>
+        </content>
+    </slot-configuration>
+</slot-configurations>

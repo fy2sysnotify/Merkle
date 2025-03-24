@@ -1,0 +1,18 @@
+{
+    "login": {
+        "bearer": "eyJ0eXAiOiJKV1QiLCJraWQiOiJEMWhPUDdEODN4TjBqZWlqaTI3WWFvZFRjL0E9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJrb25zdGFudGluLnlhbmV2QGlzb2Jhci5jb20iLCJjdHMiOiJPQVVUSDJfU1RBVEVMRVNTX0dSQU5UIiwiYXV0aF9sZXZlbCI6MCwiYXVkaXRUcmFja2luZ0lkIjoiOTUxODZjODYtYTM4OC00MjQ1LTllOTQtMzBiMjkzZjYzZDRhLTM4MDg0MDk4IiwiaXNzIjoiaHR0cHM6Ly9hY2NvdW50LmRlbWFuZHdhcmUuY29tOjQ0My9kd3Nzby9vYXV0aDIiLCJ0b2tlbk5hbWUiOiJhY2Nlc3NfdG9rZW4iLCJ0b2tlbl90eXBlIjoiQmVhcmVyIiwiYXV0aEdyYW50SWQiOiJweEx1YTd0RjdVN05JWVNLaUhRSFNJT3FxbGsiLCJhdWQiOiJiNDgzNmM5Yi1kMzQ2LTQzYjgtODgwMC1lZGJmODExMDM1YzIiLCJuYmYiOjE2MTIxOTMyNDMsImdyYW50X3R5cGUiOiJ0b2tlbiIsInNjb3BlIjpbIm1haWwiLCJ0ZW5hbnRGaWx0ZXIiLCJwcm9maWxlIiwicm9sZXMiXSwiYXV0aF90aW1lIjoxNjEyMTkzMjQzLCJyZWFsbSI6Ii8iLCJleHAiOjE2MTIxOTUwNDMsImlhdCI6MTYxMjE5MzI0MywiZXhwaXJlc19pbiI6MTgwMCwianRpIjoiQ1VEX1VncmJDNG1waW1vc2dURkxqbTk2R0NRIiwiY2xpZW50X2lkIjoiYjQ4MzZjOWItZDM0Ni00M2I4LTg4MDAtZWRiZjgxMTAzNWMyIiwidGVuYW50RmlsdGVyIjoiQ0NEWF9TQlhfVVNFUjphYWF5X3NieCxhYWtyX3NieCxhYW16X3NieCxiZm10X3NieDtFQ09NX0FETUlOOmFhY2RfZGV2LGFhY2RfcHJkLGFhY2Rfc3RnO0xPR0NFTlRFUl9VU0VSOmFhY2RfZGV2LGFhY2RfcHJkLGFhY2Rfc3RnIiwicm9sZXMiOlsiUk5EX1VTRVIiLCJET0NfVVNFUiIsIlJORF9DVVNUT01FUl9BRE1JTiIsIkNDX1VTRVIiLCJYQ0hBTkdFX1VTRVIiLCJDQ0RYX1NCWF9VU0VSIiwiRUNPTV9BRE1JTiIsIkxPR0NFTlRFUl9VU0VSIl19.BGAKtH18aoe2dlMaj8mXNn4dZmMWFkLrIHZwiHuNs6jbXmm7-BPMqjbOh077DNoEqaKmNanwcsopwVDKZwtZR0AgmW7-8be41Q548wzUrqoBGIIKepsKuTxpvxSUZ-3h5qxu0v2_lnbTarn7OGWbRQ-BLxHoc12m27dR4h2_Q6msOGgWTZMYm79P2Uk0hBja1DCWABtlR6lBNG1mY_rCOHupCXQp7oerH7VgYhigBLKJF0KFly0iZxmMFROm87JnK3G9VSg9uyMjfeKZn8D7lypZi1VkvhuVr52iKyXVD92FHOd-ywFVmcgDl7BGqh5fluq5LFJ5qg6rM-0XoIpR6g",
+        "username": "odsmonitoring@isobarsystems.com",
+        "password": "0d$m0n1t0r",
+        "client_id": "b4836c9b-d346-43b8-8800-edbf811035c2",
+        "client_secret": "Isob@r2020",
+        "security_token": "",
+        "sandbox_list_url": "https://admin.us01.dx.commercecloud.salesforce.com/api/v1/sandboxes?include_deleted=false",
+        "callback_url": "https://admin.us01.dx.commercecloud.salesforce.com/oauth2-redirect.html",
+        "auth_url": "https://account.demandware.com:443/dwsso/oauth2/authorize",
+        "access_token_url": "https://account.demandware.com:443/dwsso/oauth2/access_token",
+        "realm1": "aamz",
+        "realm2": "aaay",
+        "realm3": "bfmt",
+        "realm4": "aakr"
+    }
+}

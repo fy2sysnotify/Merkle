@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    
+    <folder folder-id="product-content">
+        <display-name xml:lang="x-default">Product Details Content</display-name>
+        <description xml:lang="x-default">Product Details Page - Product Specific Details</description>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <position>3.0</position>
+        <page-attributes>
+            <page-title xml:lang="x-default">Product Details</page-title>
+        </page-attributes>
+    </folder>
+
+    <folder folder-id="glassware">
+        <display-name xml:lang="x-default">Glassware</display-name>
+        <online-flag>true</online-flag>
+        <parent>product-content</parent>
+        <page-attributes>
+            <page-title xml:lang="x-default">Glassware</page-title>
+        </page-attributes>
+    </folder>
+	
+    <content content-id="cocotte-with-description">
+        <display-name xml:lang="x-default">THIS IS A COCOTTE With Description</display-name>
+        <description xml:lang="x-default">And this is a cool Text to describe something more about a very nice product.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/11966_rgb_72dpi.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">LINK: READ MORE ABOUT THIS</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','sample-article-content')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_outer-content</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>11.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="cocotte-without-description">
+        <display-name xml:lang="x-default">THIS IS A COCOTTE</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/3715_rgb_300dpi.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">LINK: READ MORE ABOUT THIS</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','sample-article-content')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_outer-content</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>12.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="creative-benefits">
+        <display-name xml:lang="x-default">CREATIVE BENEFITS</display-name>
+        <description xml:lang="x-default">With a little bit of creativity, you can discover new and unexpected abilities and applications of our dust products. Our cookware is flexible and just as creative as your recipes.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/big-staub.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Explore Recipes</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','sample-article-content')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_full-width</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>3.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="making-cocotte">
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="linkText">MAKING OF COCOTTE</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_inner-content</custom-attribute>
+            <custom-attribute attribute-id="video">m77mz_uxWw4</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>5.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="more-about-la-mer">
+        <display-name xml:lang="x-default">LA MER</display-name>
+        <description xml:lang="x-default">This is our new trendy color for sea lovers.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/16075_rgb_72dpi.jpg</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_outer-content</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>7.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="more-recipes-static-content">
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/16078_rgb_72dpi.jpg</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_inner-content</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>8.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="recipe-video-asset">
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="linkText">THE RECIPE</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_inner-content</custom-attribute>
+            <custom-attribute attribute-id="video">6ePqcZlfUNk</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>4.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="recipes-mansory-link-with-name">
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/12065_rgb_72dpi.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">RECIPE COCOTTE</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','sample-article-content')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_inner-content</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>9.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+    <content content-id="recipes-mansory-without-link">
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/Content-asset-images/images/product-details/zwilling-us/16056_rgb_72dpi.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">RECIPE COCOTTE Without Link</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/product_inner-content</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="glassware">
+                <position>10.0</position>
+            </classification-link>
+        </folder-links>
+    </content>
+
+</library>

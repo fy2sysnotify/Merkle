@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="recipe-culinary-world-staub-bocuse-pepper-steak">
+        <display-name xml:lang="x-default">Pepper Steak</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <template>content/content/articleasset</template>
+        <page-attributes>
+            <page-title xml:lang="x-default">Pepper Steak Recipe | ZWILLING</page-title>
+            <page-description xml:lang="x-default">Delicious Pepper Steak recipe. Discover your favorite recipe and get more great recipe ideas.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="assetstitle1">Discover More Recipes</custom-attribute>
+            <custom-attribute attribute-id="body">&lt;style type="text/css"&gt;&#13;
+    &lt;!--&#13;
+        .text-left {&#13;
+    text-align: left;&#13;
+        }&#13;
+&#13;
+        .text-center {&#13;
+    text-align: center;&#13;
+        }&#13;
+&#13;
+        .text-right {&#13;
+    text-align: right;&#13;
+        }&#13;
+&#13;
+        body ol li {&#13;
+            margin-bottom: 10px;&#13;
+        }&#13;
+    --&gt;&#13;
+&lt;/style&gt;&#13;
+&#13;
+&lt;div class="article-max-container"&gt;&#13;
+    &lt;div class="article-container"&gt;&#13;
+        &lt;div class="article-row"&gt;&#13;
+            &lt;div data-aos="fade-up" class="article-wrapper aos-init aos-animate"&gt;&#13;
+                &lt;div class="article-inner"&gt;&#13;
+                    &lt;div class="container-fluid"&gt;&lt;br /&gt;&lt;br /&gt;&#13;
+                        &lt;div class="row"&gt;&#13;
+&#13;
+                            &#13;
+                            &lt;div class="col-lg-2 hidden-xs"&gt;&lt;/div&gt;&#13;
+                            &lt;div class="col-md-4 col-lg-3 text-center"&gt;&#13;
+                                                                    &lt;img alt="second_bodycontent_area01" style="width: auto; height: auto" src="images/content-recipe/servings.gif?$staticlink$" title="Servings" /&gt;&#13;
+                                    &lt;br/&gt;&#13;
+                                    &lt;h2 class="text-center D_H4_3"&gt;SERVINGS&lt;br /&gt;&lt;span class="D_H4_2"&gt;4&lt;/span&gt;&lt;/h2&gt;&#13;
+                                                            &lt;/div&gt;&#13;
+                            &lt;div class="col-md-4 col-lg-2 text-center"&gt;&#13;
+                                                                    &lt;img alt="second_bodycontent_area01" style="width: auto; height: auto" src="images/content-recipe/prep.gif?$staticlink$" title="Prep in" /&gt;&#13;
+                                    &lt;br/&gt;&#13;
+                                    &lt;h2 class="text-center D_H4_3"&gt;PREP IN&lt;br /&gt;&lt;span class="D_H4_2"&gt;7 MIN.&lt;/span&gt;&lt;/h2&gt;&#13;
+                                                            &lt;/div&gt;&#13;
+                            &lt;div class="col-md-4 col-lg-3 text-center"&gt;&#13;
+                                                                    &lt;img alt="second_bodycontent_area01" style="width: auto; height: auto" src="images/content-recipe/cooktime.gif?$staticlink$" title="Cooktime" /&gt;&#13;
+                                    &lt;br/&gt;&#13;
+                                    &lt;h2 class="text-center D_H4_3"&gt;COOK FOR&lt;br /&gt;&lt;span class="D_H4_2"&gt;15 MIN.&lt;/span&gt;&lt;/h2&gt;&#13;
+                                                            &lt;/div&gt;&#13;
+                        &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&#13;
+                        &lt;div class="row"&gt;&#13;
+                            &lt;div class="col-md-4 body text-left"&gt;&#13;
+                                &lt;h3&gt;INGREDIENTS&lt;/h3&gt;&#13;
+                                2 slices of beef fillet (300 g each)&lt;br /&gt;2 tbsp. peppercorns&lt;br /&gt;30 g butter&lt;br /&gt;100 ml crème fraîche&lt;br /&gt;1 tsp. sharp mustard&lt;br /&gt;Salt&lt;br /&gt;                            &lt;/div&gt;&#13;
+                            &lt;div class="col-md-8 body text-left"&gt;&#13;
+                                &lt;h3&gt;HOW TO MAKE IT&lt;/h3&gt;&#13;
+                                &lt;ol&gt;&#13;
+&lt;li&gt;The meat should be removed from the refrigerator one hour before starting the preparation. Salt the meat. Lay the pepper on a board and crush with a rolling pin. Roll the fillets in the crushed pepper pressing firmly. Let them stand for 15 minutes.&lt;/li&gt;&#13;
+&lt;li&gt;Keep the serving plate warm.&lt;/li&gt;&#13;
+&lt;li&gt;Melt the butter in a grill pan. As soon as it is golden brown add the fillets to the frying pan and sear quickly on each side according to taste for 5-6 minutes. Then arrange the fillets on the serving dish and keep warm. Remove the pan from the stovetop, add the crème fraîche and mustard to the roast juice and stir in well. If the heat is low, reheat and if necessary, add salt.&lt;/li&gt;&#13;
+&lt;li&gt;Pour the hot sauce over the steaks. Serve with fried potatoes.&lt;/li&gt;&#13;
+&lt;/ol&gt;                            &lt;/div&gt;&#13;
+                        &lt;/div&gt;&#13;
+                    &lt;/div&gt;&#13;
+                &lt;/div&gt;&#13;
+            &lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+    &lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="bvCategoryID">zwilling_cutlery</custom-attribute>
+            <custom-attribute attribute-id="bvHeadline" xml:lang="x-default">#Culinary World</custom-attribute>
+            <custom-attribute attribute-id="image">images/content-recipe/recipes/staub-bocuse/pepper-steak.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Pepper Steak</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','recipe-culinary-world-staub-bocuse-pepper-steak')$</custom-attribute>
+            <custom-attribute attribute-id="linkedAssets1">recipe-culinary-world-ballarini-main-dishes-pork-chops-with-bacon-caper-sauce,recipe-culinary-world-france-roast-veal-de-larrivaux,recipe-culinary-world-italy-beef-cheek-with-vegetables-and-sweet-potato,recipe-culinary-world-italy-bistecca-alla-fiorentina</custom-attribute>
+            <custom-attribute attribute-id="seeAllLink">$url('Search-ShowContent','fdid','recipes')$</custom-attribute>
+            <custom-attribute attribute-id="type">
+                <value>Main Dish</value>
+                <value>Staub</value>
+                <value>Steak</value>
+                <value>Grill Pan</value>
+                <value>Bocuse</value>
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="recipes"/>
+            <folder-link folder-id="bocuse"/>
+            <folder-link folder-id="recipeassets"/>
+        </folder-links>
+    </content>
+</library>

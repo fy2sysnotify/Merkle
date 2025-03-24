@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="pdp-shipping-time">
+        <display-name xml:lang="x-default">pdp-shipping-time</display-name>
+        <description xml:lang="x-default">pdp-shipping-time</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Ships within 1-2 days</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

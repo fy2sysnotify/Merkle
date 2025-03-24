@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="av-dialog-footer-description">
+    <display-name xml:lang="x-default">Age Verification Dialog Footer Description</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;All information submitted is handled securely by our age verification partner&amp;nbsp;&lt;a href=&quot;https://www.gbgplc.com/&quot; target=&quot;_blank&quot; title=&quot;GB Group&quot;&gt;GB Group&lt;/a&gt;. The details provided are used solely to verify your age in order to complete your purchase with ZWILLING.&lt;br /&gt;&#13;&lt;br /&gt;&#13;GB Group are PCI-DSS and GDPR compliant. Your data is secure.&lt;br /&gt;&#13;&lt;br /&gt;&#13;For more information on our age verification process, please see section 2.5 of our&amp;nbsp;&lt;a href=&quot;https://uk.zwilling-shop.com/Terms-Conditions/&quot; target=&quot;_blank&quot; title=&quot;CUSTOMER TERMS AND CONDITIONS&quot;&gt;terms and conditions&lt;/a&gt;. (&amp;nbsp;&lt;s&gt;&lt;a href=&quot;$httpsUrl('Page-Show', 'cid', 'terms')$&quot; target=&quot;_blank&quot;&gt;terms of use&lt;/a&gt;&lt;/s&gt;&amp;nbsp;)&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payment-settings xmlns="http://www.demandware.com/xml/impex/paymentsettings/2009-09-15">
+    <payment-method method-id="CASH_ON_DELIVERY">
+        <name xml:lang="x-default">Cash On Delivery</name>
+        <image>images/account-cart-checkout/payment-logo/Icon Cash.svg</image>
+        <enabled-flag>true</enabled-flag>
+        <processor-id>CASH_ON_DELIVERY</processor-id>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableInstallments">false</custom-attribute>
+            <custom-attribute attribute-id="fee">330.0</custom-attribute>
+        </custom-attributes>
+    </payment-method>
+</payment-settings>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    
+    <slot-configuration slot-id="slots-editorial-content" context="global" configuration-id="Global Editorial Content Configuration" assigned-to-site="true">
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="content-tile-1"/>
+                <content-asset content-id="content-tile-2"/>
+                <content-asset content-id="content-tile-3"/>
+            </content-assets>
+        </content>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableAddToCart">false</custom-attribute>
+            <custom-attribute attribute-id="lazyLoadEnableSlot">false</custom-attribute>
+        </custom-attributes>
+    </slot-configuration>
+
+ 
+</slot-configurations>

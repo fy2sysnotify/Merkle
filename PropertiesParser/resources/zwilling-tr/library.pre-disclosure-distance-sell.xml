@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="pre-disclosure-distance-sell">
+    <display-name xml:lang="x-default">Preliminary Information Forum and the Distance Sales Agreement.</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class=&quot;pre-information-form&quot; href=&quot;$httpsUrl('COSummary-UpdatePreInfoContent', 'cid', 'pre-information-form')$&quot; target=&quot;_blank&quot;&gt;Ön Bilgilendirme Forumunu &lt;/a&gt; ve  &lt;a class=&quot;distance-sell-agreement&quot; href=&quot;$httpsUrl('COSummary-UpdateDistanceSellContent', 'cid', 'distance-sell-agreement')$&quot; target=&quot;_blank&quot;&gt; Mesafeli Satış Sözleşmesini &lt;/a&gt; okudum ve kabul ediyorum.</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

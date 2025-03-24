@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">	
+	<slot-configuration slot-id="pdp_category_specific_content" context="category" context-id="our-brands_zwilling_cutlery_pro" configuration-id="pdp_category_specific_content_config" assigned-to-site="true">
+        <description>Product Specific Content</description>
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="pdp_specific_content"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+</slot-configurations>

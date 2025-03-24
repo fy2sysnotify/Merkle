@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+	<content content-id="category-hits-alternate-banner">
+		<display-name xml:lang="x-default">Look under the lid</display-name>
+		<description>There’s a self-basting system baked into every STAUB Cocotte. Spikes under the lid create a rainfall effect, evenly incorporating juices back into your food.</description>
+		<online-flag>true</online-flag>
+		<searchable-flag>false</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/categoryalternatebanner.isml</custom-attribute>
+			<custom-attribute attribute-id="image">images/catlanding/cat-banner-type2.png</custom-attribute>
+			<custom-attribute attribute-id="linkText">see more</custom-attribute>
+			<custom-attribute attribute-id="linkURL">$url(&apos;Page-Show&apos;, cid,&apos;category-hits-alternate-banner&apos;)</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

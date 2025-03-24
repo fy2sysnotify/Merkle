@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">	
+	<content content-id="brand-full-width-promotion-asset">
+        <display-name xml:lang="x-default">Brand Full width Promotion asset</display-name>
+        <description xml:lang="x-default">Spring 2018 sale : upto 40% off select items SHOP SALE</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'sale_categories_cutlery')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/brandfullwidthpromo</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+	<content content-id="editorial-content-1">
+        <display-name xml:lang="x-default">Knifeskills</display-name>
+        <description xml:lang="x-default">THE ART OF PRECISION CUTTING</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">knifeskills&#13;
+knifeskills&#13;
+knifeskills&#13;
+knifeskills&#13;
+knifeskills&#13;
+knifeskills&#13;
+knifeskills</custom-attribute>
+            <custom-attribute attribute-id="image">images/brandlanding/craftsman-ship.png</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','editorial-content-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

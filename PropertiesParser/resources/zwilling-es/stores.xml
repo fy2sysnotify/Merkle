@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores xmlns="http://www.demandware.com/xml/impex/store/2007-04-30">
+    <store store-id="07141_Marratxi">
+        <name>ZWILLING Shop Mallorca</name>
+        <address1>Autopista Palma-Inca km 7.1</address1>
+        <city>Marratxi</city>
+        <postal-code>07141</postal-code>
+        <country-code>ES</country-code>
+        <email>shop.mallorca@zwilling.com</email>
+        <phone>34 971605224</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-S &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 22:00 &lt;/div&gt;&lt;div class="store-days"&gt; D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>39.633831</latitude>
+        <longitude>2.732105</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="08008_Barcelona">
+        <name>ZWILLING Shop Diagonal</name>
+        <address1>Avda. Diagonal 407</address1>
+        <city>Barcelona</city>
+        <postal-code>08008</postal-code>
+        <country-code>ES</country-code>
+        <email>shop.barcelona@zwilling.com</email>
+        <phone>34 934 815 109</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-S &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 20:30 &lt;/div&gt;</store-hours>
+        <latitude>41.395198</latitude>
+        <longitude>2.15573</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="08430_Santa">
+        <name>ZWILLING Shop La Roca</name>
+        <address1>La Roca Village Local 119</address1>
+        <city>Santa Agnes de Malanyanes</city>
+        <postal-code>08430</postal-code>
+        <country-code>ES</country-code>
+        <email>shop.laroca@zwilling.com</email>
+        <phone>34 937 445 524</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>41.609963</latitude>
+        <longitude>2.343767</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="28001_Madrid">
+        <name>ZWILLING Shop Madrid</name>
+        <address1>Calle de Ayala 13</address1>
+        <city>Madrid</city>
+        <postal-code>28001</postal-code>
+        <country-code>ES</country-code>
+        <email>shop.madrid@zwilling.com</email>
+        <phone>34 910 646 036</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-S &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;&lt;div class="store-days"&gt; D &lt;/div&gt; &lt;div class="store-timings"&gt; 11:00 a 19:00 &lt;/div&gt;</store-hours>
+        <latitude>40.4280426</latitude>
+        <longitude>-3.6866561</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="28232_Las">
+        <name>ZWILLING Shop Las Rozas</name>
+        <address1>Juan Ramon Jimenez 3</address1>
+        <city>Las Rozas</city>
+        <postal-code>28232</postal-code>
+        <country-code>ES</country-code>
+        <email>shop.lasrozas@zwilling.com</email>
+        <phone>34 916 365 235</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>40.5175355</latitude>
+        <longitude>-3.8996227</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="2890_Lisboa">
+        <name>ZWILLING Shop Lisboa</name>
+        <address1>Avenida Euro 2004</address1>
+        <city>Lisboa</city>
+        <postal-code>2890-154</postal-code>
+        <country-code>PT</country-code>
+        <email>shop.lisboa@zwilling.com</email>
+        <phone>351 212 343 008</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>38.75224</latitude>
+        <longitude>-8.940366</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="29004_Malaga">
+        <name>ZWILLING Shop Málaga</name>
+        <address1>Alfonso Ponce de Leon 3 local 32</address1>
+        <city>Málaga</city>
+        <postal-code>29004</postal-code>
+        <country-code>ES</country-code>
+        <email>shop.malaga@zwilling.com</email>
+        <phone>34 952 718 205</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>36.6579816</latitude>
+        <longitude>-4.4803541</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">ES</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="4485_Vila">
+        <name>ZWILLING Shop Porto</name>
+        <address1>Avenida Fonte Cova 400</address1>
+        <city>Vila Do conde</city>
+        <postal-code>4485-592</postal-code>
+        <country-code>PT</country-code>
+        <email>shop.porto@zwilling.com</email>
+        <phone>351 229 370 759</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>41.4764852</latitude>
+        <longitude>-8.5335789</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">PT</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="8135_Faro">
+        <name>ZWILLING Shop Algarve</name>
+        <address1>Avenida algarve</address1>
+        <city>Faro</city>
+        <postal-code>8135-182</postal-code>
+        <country-code>PT</country-code>
+        <email>shop.algarve@zwilling.com</email>
+        <phone>351 289 994 341</phone>
+        <store-hours xml:lang="x-default">&lt;div class="store-days"&gt; L-D &lt;/div&gt; &lt;div class="store-timings"&gt; 10:00 a 21:00 &lt;/div&gt;</store-hours>
+        <latitude>37.0974097</latitude>
+        <longitude>-7.9988388</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">PT</custom-attribute>
+        </custom-attributes>
+    </store>
+
+</stores>

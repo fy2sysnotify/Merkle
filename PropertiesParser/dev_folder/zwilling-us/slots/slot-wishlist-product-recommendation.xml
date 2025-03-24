@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="wishlist-product-recommendation" context="global" configuration-id="New Slot Configuration - 2018-07-17 19:50:13" default="true" assigned-to-site="true">
+        <description>Wishlist Product Recommendation</description>
+        <template>slots/product/producttilecarousel.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">More To Explore</callout-msg>
+        <callout-msg xml:lang="en-US">More To Explore</callout-msg>
+        <content>
+            <products>
+                <product product-id="008884303989"/>
+                <product product-id="008884303996"/>
+                <product product-id="008884304009"/>
+                <product product-id="008884304016"/>
+                <product product-id="008884304016"/>
+            </products>
+        </content>
+    </slot-configuration>
+</slot-configurations>

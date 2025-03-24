@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    
+
+    <content content-id="editorial-asset-id1">
+        <display-name xml:lang="x-default">ZWILLING</display-name>
+        <description xml:lang="x-default">Seeding Change at&lt;br/&gt;Farm lot 59&lt;br/&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;Urban farmer Sasha Kanno knows the importance of getting enough greens. What’s more, she insists on sharing her homegrown knowledge with budding chefs in her community—young kids. Through cooking and gardening classes Sasha introduces children to farm life, the power of produce and the feel-good qualities of unprocessed foods. Try her take on an organic tomato salad and see if you can taste the difference, too.&lt;/div&gt;&#13;
+&#13;
+&lt;div class="cta-links"&gt;&#13;
+&lt;a href="$url('Page-Show', 'cid', 'editorial-asset-id1')$" title="Get the recipe"&gt;Get the recipe&lt;i class="zwg-icon-ic_cta_mediumarrow_right"&gt;&lt;/i&gt;&lt;/a&gt;&#13;
+&lt;a href="$url('Page-Show', 'cid', 'editorial-asset-id1')$" title="More destinations"&gt;More destinations&lt;i class="zwg-icon-ic_cta_mediumarrow_right"&gt;&lt;/i&gt;&lt;/a&gt;&#13;
+&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/brandcopymodule</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="editorial-content"/>
+        </folder-links>
+    </content>
+
+    <content content-id="editorial-asset-id2">
+        <display-name xml:lang="x-default">ZWILLING</display-name>
+        <description xml:lang="x-default">ZWILLING&lt;br/&gt;IN FRANCE.&lt;br/&gt;LOVED AROUND &lt;br/&gt;THE WORLD.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">There’s a story behind every piece from ZWILLING. Made in Alsace, France, a region known for its craftsmanship and cuisine, our cast iron and ceramic cookware brings a taste of authenticity to every meal. Just look for the ZWILLING seal on every product. Our name is our promise to you that you’re cooking with the best of France—wherever your kitchen may be.</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/brandcopymodule</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="editorial-content"/>
+        </folder-links>
+    </content>
+
+    <content content-id="editorial-asset-id3">
+        <display-name xml:lang="x-default">ZWILLING</display-name>
+        <description xml:lang="x-default">ZWILLING&lt;br/&gt;IN FRANCE.&lt;br/&gt;LOVED AROUND &lt;br/&gt;THE WORLD.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">There’s a story behind every piece from ZWILLING. Made in Alsace, France, a region known for its craftsmanship and cuisine, our cast iron and ceramic cookware brings a taste of authenticity to every meal. Just look for the ZWILLING seal on every product. Our name is our promise to you that you’re cooking with the best of France—wherever your kitchen may be.</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/brandcopymodule</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="editorial-content"/>
+        </folder-links>
+    </content>
+
+    <content content-id="editorial-asset-id4">
+        <display-name xml:lang="x-default">ZWILLING</display-name>
+        <description xml:lang="x-default">ZWILLING&lt;br/&gt;IN FRANCE.&lt;br/&gt;LOVED AROUND &lt;br/&gt;THE WORLD.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">There’s a story behind every piece from ZWILLING. Made in Alsace, France, a region known for its craftsmanship and cuisine, our cast iron and ceramic cookware brings a taste of authenticity to every meal. Just look for the ZWILLING seal on every product. Our name is our promise to you that you’re cooking with the best of France—wherever your kitchen may be.</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/brandcopymodule</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="editorial-content"/>
+        </folder-links>
+    </content>
+
+    <content content-id="editorial-asset-id5">
+        <display-name xml:lang="x-default">ZWILLING</display-name>
+        <description xml:lang="x-default">ZWILLING&lt;br/&gt;IN FRANCE.&lt;br/&gt;LOVED AROUND &lt;br/&gt;THE WORLD.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">There’s a story behind every piece from ZWILLING. Made in Alsace, France, a region known for its craftsmanship and cuisine, our cast iron and ceramic cookware brings a taste of authenticity to every meal. Just look for the ZWILLING seal on every product. Our name is our promise to you that you’re cooking with the best of France—wherever your kitchen may be.</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/brandcopymodule</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="editorial-content"/>
+        </folder-links>
+    </content>
+
+    
+    <content content-id="image-asset-1">
+        <description xml:lang="x-default">Image asset for culinary world</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/brand-product/brandlanding-carousel-img1.png</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryworldcarouseltemplate</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    
+
+    <content content-id="video-asset-id1">
+        <display-name xml:lang="x-default">Farm lot 59 / Los Angeles</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryworldcarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video">9lDPssOAXdI</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="video-asset-id2">
+        <display-name xml:lang="x-default">Farm lot 59 / Los Angeles</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryworldcarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video">6ePqcZlfUNk</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="video-asset-id3">
+        <display-name xml:lang="x-default">Farm lot 59 / Los Angeles</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryworldcarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video">Ub_qYml85NE</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="video-asset-id4">
+        <display-name xml:lang="x-default">Farm lot 59 / Los Angeles</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/culinaryworldcarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video">FaCvOvY9bVs</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    
+
+</library>

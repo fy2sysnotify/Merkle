@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="brand-landing_staub_story-carousel-7">
+        <display-name xml:lang="x-default">Staub Story Carousel Image 7</display-name>
+        <display-name xml:lang="fr-CA">Staub Story Carousel Image 7</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/storycarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video" xml:lang="x-default">wEEzzXx7NOo?rel=0&amp;autoplay=0&amp;mute=0</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="story-carousel"/>
+        </folder-links>
+    </content>
+
+    <content content-id="brand-landing_staub_story-carousel-8">
+        <display-name xml:lang="x-default">Staub Story Carousel Image 8</display-name>
+        <display-name xml:lang="fr-CA">Staub Story Carousel Image 8</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/storycarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video" xml:lang="x-default">QiNOUqd84nc?rel=0&amp;autoplay=0&amp;mute=0</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="story-carousel"/>
+        </folder-links>
+    </content>
+
+  
+    <content content-id="brand-landing_zwilling_story-carousel-7">
+        <display-name xml:lang="x-default">Zwilling Story Carousel Image 7</display-name>
+        <display-name xml:lang="fr-CA">Zwilling Story Carousel Image 7</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image" xml:lang="x-default">images/story-carousel/zwilling-heritage_06.jpg</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/storycarouseltemplate</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="story-carousel"/>
+        </folder-links>
+    </content>
+
+
+    <content content-id="brand-landing_zwilling_story-carousel-9">
+        <display-name xml:lang="x-default">Zwilling Story Carousel Video 2</display-name>
+        <display-name xml:lang="fr-CA">Zwilling Story Carousel Video 2</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="moduleTemplate">content/content/storycarouseltemplate</custom-attribute>
+            <custom-attribute attribute-id="video" xml:lang="x-default">nBFzP7r0nto?rel=0&amp;autoplay=0&amp;mute=0</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="story-carousel"/>
+        </folder-links>
+    </content>
+</library>

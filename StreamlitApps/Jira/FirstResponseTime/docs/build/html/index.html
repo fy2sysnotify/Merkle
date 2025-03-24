@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Welcome to Jira Project Get First Response Time’s documentation! &#8212; Jira Project Get First Response Time 1.0 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=4f649999" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=039e1c02" />
+    <script src="_static/documentation_options.js?v=f2a433a1"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="welcome-to-jira-project-get-first-response-time-s-documentation">
+<h1>Welcome to Jira Project Get First Response Time’s documentation!<a class="headerlink" href="#welcome-to-jira-project-get-first-response-time-s-documentation" title="Link to this heading">¶</a></h1>
+<div class="toctree-wrapper compound">
+</div>
+</section>
+<section id="overview">
+<h1>Overview<a class="headerlink" href="#overview" title="Link to this heading">¶</a></h1>
+<section id="code-overview">
+<h2>Code Overview<a class="headerlink" href="#code-overview" title="Link to this heading">¶</a></h2>
+<p>The provided Python script is composed of three main classes, each serving a distinct purpose:</p>
+<section id="jiradata-class">
+<h3>JiraData Class:<a class="headerlink" href="#jiradata-class" title="Link to this heading">¶</a></h3>
+<p>The <cite>JiraData</cite> class is responsible for retrieving data from JIRA. It facilitates data collection, filtering,
+and transformation, making it the foundation for subsequent analysis.</p>
+</section>
+<section id="excelexporter-class">
+<h3>ExcelExporter Class:<a class="headerlink" href="#excelexporter-class" title="Link to this heading">¶</a></h3>
+<p>The <cite>ExcelExporter</cite> class takes the processed data from the <cite>JiraData</cite> class and creates an Excel file with
+the relevant information. This class enhances data usability by allowing users to conveniently export
+and share the analyzed data.</p>
+</section>
+<section id="streamlitapp-class">
+<h3>StreamlitApp Class:<a class="headerlink" href="#streamlitapp-class" title="Link to this heading">¶</a></h3>
+<p>The <cite>StreamlitApp</cite> class integrates the processed data with a user-friendly Streamlit interface. It provides
+the user with an interactive environment to input parameters, trigger data analysis, and view results.
+This class bridges the gap between data processing and user interaction.</p>
+</section>
+<section id="main-function">
+<h3>Main Function:<a class="headerlink" href="#main-function" title="Link to this heading">¶</a></h3>
+<p>The script includes a main function that orchestrates the interaction of the three main classes. It initializes
+and coordinates the workflow, ensuring that data retrieval, processing, and user interaction are seamlessly
+integrated.</p>
+<p>By leveraging these classes and their interactions, the script offers a solution for retrieving,
+analyzing, and presenting JIRA data.</p>
+</section>
+</section>
+</section>
+<section id="class-details">
+<h1>Class Details<a class="headerlink" href="#class-details" title="Link to this heading">¶</a></h1>
+<p>The <cite>JiraData</cite> class is responsible for retrieving JIRA data from a MySQL database using the <cite>MySQLdb</cite> library and processing it with <cite>pandas</cite>.</p>
+<p>Attributes:</p>
+<ul class="simple">
+<li><p><cite>host</cite>: MySQL database host</p></li>
+<li><p><cite>user</cite>: MySQL database user</p></li>
+<li><p><cite>password</cite>: MySQL database password</p></li>
+<li><p><cite>database</cite>: JIRA database name</p></li>
+<li><p><cite>db</cite>: MySQL database connection object</p></li>
+</ul>
+<p>Methods:</p>
+<ul class="simple">
+<li><p><cite>connect()</cite>: Establishes a connection to the MySQL database.</p></li>
+<li><p><cite>close_connection()</cite>: Closes the connection to the MySQL database.</p></li>
+<li><p><cite>get_first_response_time(project_number, days_interval)</cite>: Retrieves First Response Time (FRT) data from the JIRA database.</p></li>
+</ul>
+<p>The <cite>ExcelExporter</cite> class facilitates exporting a <cite>pandas</cite> DataFrame to an Excel file.</p>
+<p>Attributes:</p>
+<ul class="simple">
+<li><p><cite>filename</cite>: Name of the Excel file to be created.</p></li>
+</ul>
+<p>Methods:</p>
+<ul class="simple">
+<li><p><cite>export_to_excel(dataframe)</cite>: Exports a DataFrame to an Excel file.</p></li>
+</ul>
+<p>The <cite>StreamlitApp</cite> class represents the Streamlit application for user interaction and displaying results.</p>
+<p>Attributes:</p>
+<ul class="simple">
+<li><p><cite>host</cite>, <cite>user</cite>, <cite>password</cite>, <cite>database</cite>: JIRA database configurations</p></li>
+<li><p><cite>project_number</cite>, <cite>days_interval</cite>: User inputs</p></li>
+<li><p><cite>first_response_time</cite>: Instance of <cite>JiraData</cite> for data retrieval</p></li>
+<li><p><cite>excel_exporter</cite>: Instance of <cite>ExcelExporter</cite> for exporting data</p></li>
+</ul>
+<p>Methods:</p>
+<ul class="simple">
+<li><p><cite>run()</cite>: Runs the Streamlit application.</p></li>
+<li><p><cite>display_download_button()</cite>: Displays the download button for the exported Excel file.</p></li>
+</ul>
+</section>
+<section id="usage-instructions">
+<h1>Usage Instructions<a class="headerlink" href="#usage-instructions" title="Link to this heading">¶</a></h1>
+<section id="usage-guide">
+<h2>Usage Guide<a class="headerlink" href="#usage-guide" title="Link to this heading">¶</a></h2>
+<section id="standalone-script">
+<h3>Standalone Script<a class="headerlink" href="#standalone-script" title="Link to this heading">¶</a></h3>
+<p>To use this app as a standalone script, follow these steps:</p>
+<ol class="arabic">
+<li><p>Refactoring:
+- Some refactoring is required to adapt the app to your needs. Refer to the documentation for guidance.</p></li>
+<li><p>Install Dependencies:
+- Review the <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> file and install the necessary dependencies using:</p>
+<blockquote>
+<div><div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+<li><p>Configuration:
+- Populate the <code class="docutils literal notranslate"><span class="pre">.env</span></code> file with the required data before executing the script.
+- Ensure you are logged in to the VPN, specifically for our Corporate Jira DB.</p></li>
+<li><p>Assistance:
+- If you encounter difficulties, feel free to message us on Slack for assistance.</p></li>
+<li><p>Identify Us:
+- Get to know more about the contributors by referring to the documentation.</p></li>
+</ol>
+</section>
+<section id="docker-deployment">
+<h3>Docker Deployment<a class="headerlink" href="#docker-deployment" title="Link to this heading">¶</a></h3>
+<p>To deploy this app using Docker, follow these steps:</p>
+<ol class="arabic">
+<li><p>Install Docker Engine:
+- Follow the installation guide for your operating system: <a class="reference external" href="https://docs.docker.com/engine/install/">https://docs.docker.com/engine/install/</a></p></li>
+<li><p>Install Docker Compose:
+- Refer to the official guide for standalone installation: <a class="reference external" href="https://docs.docker.com/compose/install/standalone/">https://docs.docker.com/compose/install/standalone/</a></p></li>
+<li><p>Docker Files:
+- The necessary files, including <code class="docutils literal notranslate"><span class="pre">get_first_response_time.py</span></code>, <code class="docutils literal notranslate"><span class="pre">Dockerfile</span></code>, <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code>, and <code class="docutils literal notranslate"><span class="pre">docker-compose.yml</span></code>, are finalized and require no additional work.</p></li>
+<li><p>Configuration:
+- Populate the <code class="docutils literal notranslate"><span class="pre">.env</span></code> file with the required data.</p></li>
+<li><p>Exposed Port:
+- The internal port 8501 of the Docker container will be exposed and mapped to port 8501 on the host.
+- Ensure that port 8501 is available on the host. This is the standard port for Streamlit applications, but you can substitute it with an available port in the range 8501-8599.</p></li>
+<li><p>Build the Docker Image:
+- Run the following command to build the Docker image:</p>
+<blockquote>
+<div><div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span><span class="o">-</span><span class="n">compose</span> <span class="n">build</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+<li><p>Run the Docker Container:
+- Start an instance of the Docker image as a container:</p>
+<blockquote>
+<div><div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span><span class="o">-</span><span class="n">compose</span> <span class="n">up</span> <span class="o">-</span><span class="n">d</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+</ol>
+<p>8. Access the App:
+- Ensure you are logged in to the VPN, specifically for our Corporate Jira DB.</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Open the app in your browser:
+- If running on your local machine, go to <a class="reference external" href="http://localhost:8501/">http://localhost:8501/</a>
+- If on another host, replace “localhost” with the appropriate hostname.</p></li>
+</ul>
+</div></blockquote>
+</section>
+<section id="using-the-streamlit-web-interface">
+<h3>Using the Streamlit Web Interface<a class="headerlink" href="#using-the-streamlit-web-interface" title="Link to this heading">¶</a></h3>
+<ol class="arabic simple">
+<li><p>Input Data:
+- Enter the JIRA project number and desired days interval.</p></li>
+<li><p>Retrieve Data:
+- Click the “Get First Response Time” button to fetch and export data.</p></li>
+<li><p>Download Data:
+- Use the provided button to download the exported Excel file.</p></li>
+</ol>
+</section>
+</section>
+</section>
+<section id="conclusion">
+<h1>Conclusion<a class="headerlink" href="#conclusion" title="Link to this heading">¶</a></h1>
+<p>The <strong>JIRA Data Analysis Streamlit Application</strong> streamlines the process of retrieving and analyzing first response time data from a JIRA database. By utilizing the classes provided in the script along with the intuitive Streamlit interface, users gain the ability to extract valuable insights from JIRA data and seamlessly export them to an Excel file for in-depth analysis.</p>
+<p>This documentation serves as a starting point for your exploration of the application’s capabilities. To make the most out of this tool, consider the following steps:</p>
+<ul class="simple">
+<li><p><strong>Customization</strong>: Tailor the provided code to suit your specific use case and requirements. Familiarize yourself with the provided classes and their methods to ensure that you can adapt the application to your unique needs.</p></li>
+<li><p><strong>Documentation Enhancement</strong>: Expand this documentation by providing in-depth explanations, practical examples, and comprehensive usage instructions. Clear and detailed documentation empowers readers and users to navigate the application efficiently.</p></li>
+<li><p><strong>Real-World Scenarios</strong>: Apply the knowledge gained from this documentation to real-world scenarios. Experiment with different inputs, datasets, and use cases to explore the full potential of the application.</p></li>
+<li><p><strong>User Feedback</strong>: Welcome user feedback and questions. This feedback can help identify areas for improvement, potential issues, and feature requests. Enhancing the application based on user feedback can lead to a more user-friendly and effective tool.</p></li>
+</ul>
+<p>Remember that well-organized and thorough documentation not only benefits the current users but also ensures the longevity and accessibility of your code for future developers and collaborators.</p>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="#">Jira Project Get First Response Time</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2023, Konstantin Yanev.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 7.2.2</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.13</a>
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

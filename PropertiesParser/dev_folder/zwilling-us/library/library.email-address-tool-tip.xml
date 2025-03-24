@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+    
+      <content content-id="email-address-tool-tip">
+        <display-name xml:lang="en-US">Email Address Tool Tip</display-name>
+        <description xml:lang="en-US">Email Address Tool Tip</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="en-US">Email Address Tool Tip Email Address Tool Tip</custom-attribute>
+        </custom-attributes>
+    </content>
+
+</library>

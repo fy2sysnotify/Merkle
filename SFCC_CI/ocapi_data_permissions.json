@@ -1,0 +1,84 @@
+    {
+      "_v": "19.5",
+      "clients":
+      [
+        {
+          "client_id": "226a0086-fc44-4ddb-bede-3a25c1e826ef",
+          "resources":
+          [
+            {
+              "resource_id": "/code_versions",
+              "methods": ["get"],
+              "read_attributes": "(**)",
+              "write_attributes": "(**)"
+            },
+            {
+              "resource_id": "/code_versions/*",
+              "methods": ["patch", "delete"],
+              "read_attributes": "(**)",
+              "write_attributes": "(**)"
+            },
+            {
+              "resource_id": "/jobs/*/executions",
+              "methods": ["post"],
+              "read_attributes": "(**)",
+              "write_attributes": "(**)"
+            },
+            {
+              "resource_id": "/jobs/*/executions/*",
+              "methods": ["get"],
+              "read_attributes": "(**)",
+              "write_attributes": "(**)"
+            },
+            {
+              "resource_id": "/sites/*/cartridges",
+              "methods": ["post"],
+              "read_attributes": "(**)",
+              "write_attributes": "(**)"
+            },
+            {
+              "resource_id":"/role_search",
+              "methods":["post"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            },
+            {
+              "resource_id":"/roles/*",
+              "methods":["get"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            },
+            {
+              "resource_id":"/roles/*/user_search",
+              "methods":["post"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            },
+            {
+              "resource_id":"/roles/*/users/*",
+              "methods":["put","delete"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            },
+            {
+              "resource_id":"/user_search",
+              "methods":["post"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            },
+            {
+              "resource_id":"/users",
+              "methods":["get"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            },
+            {
+              "resource_id":"/users/*",
+              "methods":["put","get","patch","delete"],
+              "read_attributes":"(**)",
+              "write_attributes":"(**)"
+            }
+          ]
+        }
+      ]
+    }

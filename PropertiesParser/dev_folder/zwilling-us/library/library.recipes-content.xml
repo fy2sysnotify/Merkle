@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="editorial-content-1">
+        <description xml:lang="x-default">Oven-baked salmon</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Oven-baked salmon content goes here</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/recipes/Oven-Baked-salmon.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','editorial-content-1')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+	
+	<content content-id="editorial-content-2">
+        <description xml:lang="x-default">Angel-hair pasta with shrimp and green</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Angel-hair pasta with shrimp and green content goes here</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/recipes/Angel-Hair-Pasta-with-Shrimp-and-green.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','editorial-content-2')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+	
+	<content content-id="editorial-content-3">
+        <description xml:lang="x-default">No. 3: Guacamole</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Guacamole content goes here</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/recipes/Guacamole.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','editorial-content-3')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+	
+	<content content-id="editorial-content-4">
+        <description xml:lang="x-default">Beef bourguignon</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">Beef bourguignon content goes here</custom-attribute>
+            <custom-attribute attribute-id="image">Article/images/recipes/Beef-Bourguignon.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">Details</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Page-Show','cid','editorial-content-4')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/threeupcontenttiles</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

@@ -1,0 +1,4 @@
+typing
+pandas
+openpyxl
+streamlit

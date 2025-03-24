@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="google-recaptcha-privacy-policy">
+    <display-name xml:lang="x-default">google-recaptcha-privacy-policy</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;google-privacy-policy-terms&quot;&gt;
+        &lt;label for=&quot;agree-google-privacy-terms&quot;&gt;This site is protected by reCaptcha and the Google &lt;a href=&quot;https://policies.google.com/privacy&quot; target=&quot;_blank&quot;
+        class=&quot;google-privacy-policy&quot;&gt;Privacy Policy&lt;/a&gt; and &lt;a href=&quot;https://policies.google.com/terms&quot; target=&quot;_blank&quot; class=&quot;google-privacy-policy&quot;&gt;Terms of Service &lt;/a&gt; apply.
+        &lt;/label&gt;
+        &lt;/div&gt;</custom-attribute>
+      </custom-attributes>
+    </content>
+  </library>

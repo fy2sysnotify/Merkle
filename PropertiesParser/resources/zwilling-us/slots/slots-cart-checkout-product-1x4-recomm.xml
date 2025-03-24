@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+
+    <slot-configuration slot-id="cart-checkout-product-1x4-recomm" context="global" configuration-id="cart-checkout-product-1x4-recomm" assigned-to-site="true">
+        <description>Cart check out product recommendation</description>
+        <template>slots/product/producttilecarousel.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="en">More To Explorer</callout-msg>
+        <callout-msg xml:lang="en-US">More To Explore</callout-msg>
+        <content>
+            <products>
+                <product product-id="1100006"/>
+                <product product-id="10821"/>
+                <product product-id="10699-001"/>
+                <product product-id="10698-001"/>
+            </products>
+        </content>
+    </slot-configuration>
+
+</slot-configurations>

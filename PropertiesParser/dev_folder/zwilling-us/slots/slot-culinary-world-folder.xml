@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="culinary-world-folder" context="folder" context-id="culinary-world" configuration-id="New Slot Configuration - 2018-07-10 14:06:50" default="true" assigned-to-site="true">
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="library-culinary-world-hero-space"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+</slot-configurations>

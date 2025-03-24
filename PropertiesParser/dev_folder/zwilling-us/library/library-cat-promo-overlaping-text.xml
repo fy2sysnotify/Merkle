@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+   <content content-id="promo1-overlapping-text">
+        <display-name xml:lang="x-default">ZWILLING COOKWARE 20 % off</display-name>
+        <description xml:lang="x-default">&lt;span class="brandname"&gt;ZWILLING&lt;/span&gt;&#13;
+&lt;span&gt;COOKWARE&lt;/span&gt;&#13;
+&lt;span class="discount"&gt;20% OFF&lt;/span&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/PromoHomeBanner/2-up-image1.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">SHOP NOW</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'womens-outfits')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/promooverlaping2up</custom-attribute>
+        </custom-attributes>
+    </content>
+	<content content-id="promo2-overlapping-text">
+        <display-name xml:lang="x-default">2018 SPRING</display-name>
+        <description xml:lang="x-default">&lt;span&gt;2018 SPRING&lt;/span&gt;&#13;
+&lt;span class="kitchen-event"&gt;KITCHEN&lt;/span&gt;&#13;
+&lt;span class="kitchen-event"&gt;EVENT&lt;/span&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="image">images/PromoHomeBanner/2-up-image2.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText">SHOP SALE</custom-attribute>
+            <custom-attribute attribute-id="linkURL">$url('Search-Show','cgid', 'womens-outfits')$</custom-attribute>
+            <custom-attribute attribute-id="moduleTemplate">content/content/moduletemplate/promooverlaping2up</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

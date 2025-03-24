@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="culinary-world-point-of-interest" context="folder" context-id="culinaryworld" configuration-id="New Slot Configuration - 2018-07-20 18:44:30" default="true" assigned-to-site="true">
+        <description>Culinary World Points of Interest</description>
+        <template>slots/html/folder-tiles.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <callout-msg xml:lang="x-default">Points of Interest</callout-msg>
+        <content>
+            <html>
+                <body xml:lang="x-default">["recipes","cookware101","knifeskills","experttips","ourstory","howit'smade","newarrivals","useandcare"]</body>
+            </html>
+        </content>
+    </slot-configuration>
+</slot-configurations>

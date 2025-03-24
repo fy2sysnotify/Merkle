@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="footer-newsletter-subscription">
+    <display-name xml:lang="x-default">Footer Newsletter Subscription</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;envelope section-image&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/footer/np_envelope.png?$staticlink$&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
+        &lt;div class=&quot;section-title&quot;&gt;Newsletter Subscription&lt;/div&gt;
+        &lt;div class=&quot;section-text&quot;&gt;Sign up to&amp;nbsp;be first to know about sales, events &amp;amp; new arrivals.&lt;/div&gt;
+        &lt;form class=&quot;newsletter-subscription&quot; id=&quot;newsletter-subscription&quot;&gt;
+        &lt;div class=&quot;newsletter-input&quot;&gt;
+        &lt;label class=&quot;empty-link-text&quot; for=&quot;emailsubscription&quot;&gt;Email  subscription&lt;/label&gt;
+        &lt;input id=&quot;emailsubscription&quot; class=&quot;required&quot; name=&quot;emailsubscription&quot; placeholder=&quot;Your email, please&quot; type=&quot;email&quot; /&gt; &lt;span id=&quot;email-subscription-message&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;newsletter-cta&quot;&gt;&lt;button class=&quot;footer-email-subscribtion&quot; type=&quot;button&quot;&gt;&lt;img alt=&quot;Submit&quot; src=&quot;images/footer/cta_smallarrow_right.png?$staticlink$&quot; /&gt;&lt;/button&gt;&lt;/div&gt;
+        &lt;/form&gt;</custom-attribute>
+      </custom-attributes>
+    </content>
+  </library>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer-groups xmlns="http://www.demandware.com/xml/impex/customergroup/2007-06-30">
+    <customer-group group-id="CODExclusion">
+        <description>Exclusion group for COD payment method by shipping postal codes</description>
+        <membership-rule>
+            <included-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>customer.customerGroups</attribute-path>
+                        <operator>is-equal</operator>
+                        <string>Everyone</string>
+                    </condition>
+                </condition-group>
+            </included-customers>
+            <excluded-customers>
+                <condition-group match-mode="all">
+                    <condition>
+                        <attribute-path>session.custom.shippingAddressPostalCode</attribute-path>
+                        <operator>starts-with</operator>
+                        <string>35</string>
+                        <string>38</string>
+                    </condition>
+                </condition-group>
+            </excluded-customers>
+        </membership-rule>
+        <custom-attributes/>
+    </customer-group>
+
+</customer-groups>

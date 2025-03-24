@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="accepted-payment-instore">
+    <display-name xml:lang="x-default">Accepted payment methods</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class=&quot;accepted-payment-method-list&quot;&gt;&#13;        &lt;h3&gt;Accepted Payments&lt;/h3&gt;&#13;        &lt;img src=&quot;images/account-cart-checkout/payment-logo/InStore.png?$staticlink$&quot; alt=&quot;Pay In Store&quot; /&gt;&#13;        &lt;/div&gt;&#13;        &lt;style&gt;&#13;        .accepted-payment-method-list &gt; img { zoom: 100%; }&#13;        &lt;/style&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+
+    <folder folder-id="culinary-world">
+        <display-name xml:lang="x-default">Culinary World</display-name>
+        <description xml:lang="x-default">Culinary World</description>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="expert-tips">
+        <display-name xml:lang="x-default">Expert Tips</display-name>
+        <description xml:lang="x-default">Expert Tips</description>
+        <online-flag>true</online-flag>
+        <parent>culinary-world</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <folder folder-id="misc-content">
+        <display-name xml:lang="x-default">Misc content</display-name>
+        <description xml:lang="x-default">Misc content</description>
+        <online-flag>true</online-flag>
+        <parent>expert-tips</parent>
+        <page-attributes/>
+        <sitemap-included-flag>true</sitemap-included-flag>
+    </folder>
+
+    <content content-id="sample-article-content">
+        <display-name xml:lang="x-default">Article Content</display-name>
+        <description xml:lang="x-default">Article Description</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <template>content/content/articleasset</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&gt; This is Body&lt;/h3&gt;&#13;
+&#13;
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,&#13;
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, &#13;
+but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, &#13;
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</custom-attribute>
+            <custom-attribute attribute-id="body2">&lt;div id="article-body-2" data-attribute="Cutting Board"&gt;&#13;
+&lt;h3&gt; This is Body 2&lt;/h3&gt;&#13;
+&#13;
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,&#13;
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, &#13;
+but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, &#13;
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="body3">&lt;div id="article-body-3" data-attribute="Storage"&gt;&#13;
+&lt;h3&gt; This is Body 3&lt;/h3&gt;&#13;
+&#13;
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,&#13;
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, &#13;
+but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, &#13;
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="body4">&lt;div id="article-body-4" data-attribute="Cleaning"&gt;&#13;
+&lt;h3&gt; This is Body 4&lt;/h3&gt;&#13;
+&#13;
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,&#13;
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, &#13;
+but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, &#13;
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="body5">&lt;div id="article-body-5" &gt;&#13;
+&lt;h3&gt; This is Body 5&lt;/h3&gt;&#13;
+&#13;
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,&#13;
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, &#13;
+but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, &#13;
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&#13;
+&lt;/div&gt;</custom-attribute>
+            <custom-attribute attribute-id="image">images/homepage/background.png</custom-attribute>
+            <custom-attribute attribute-id="type">
+                <value>Knife Care</value>
+                <value>Safety</value>
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="misc-content"/>
+        </folder-links>
+    </content>
+  
+</library>

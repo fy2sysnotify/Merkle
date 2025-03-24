@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="footer-get-social">
+        <display-name xml:lang="x-default">Footer Get Social</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="section-title get-social-title"&gt;Get Social&lt;/div&gt;&#13;
+&lt;div class="footer-get-social"&gt;&#13;
+	&lt;span class="social-images facebook"&gt;&lt;a href="https://www.facebook.com/ZWILLINGUSA/" title="Facebook" target="_blank"&gt;&lt;img alt="Facebook" src="images/footer/faceboook.png?$staticlink$" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images instagram"&gt;&lt;a href="https://www.instagram.com/zwilling_usa/" title="Instagram" target="_blank"&gt;&lt;img alt="Instagram" src="images/footer/instagram.png?$staticlink$" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images youtube"&gt;&lt;a href="https://www.youtube.com/user/ZWILLINGJAHENCKELS" title="Youtube" target="_blank"&gt;&lt;img alt="Youtube" src="images/footer/youtube.png?$staticlink$" /&gt;&lt;/a&gt;&lt;/span&gt;&#13;
+	&lt;span class="social-images pinterest"&gt;&lt;a href="https://www.pinterest.com/zwillingjah/" title="Pinterest" target="_blank"&gt;&lt;img alt="Pinterest" src="images/footer/pinterest.png?$staticlink$" /&gt;&lt;/a&gt;&lt;/span&gt;	&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

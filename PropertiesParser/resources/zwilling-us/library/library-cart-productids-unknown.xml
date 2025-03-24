@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="cart-productids-unknown">
+		<display-name xml:lang="x-default">Error Message for Unknown Product IDs on Cart page</display-name>
+		<online-flag>true</online-flag>
+		<searchable-flag>false</searchable-flag>
+		<custom-attributes>
+			<custom-attribute attribute-id="body" xml:lang="x-default">&lt;i class=&quot;fa fa-exclamation-triangle fa-2x pull-left&quot;&gt;&lt;/i&gt; Some of the products are not found or doesn&apos;t have inventory available such as</custom-attribute>
+		</custom-attributes>
+	</content>
+</library>

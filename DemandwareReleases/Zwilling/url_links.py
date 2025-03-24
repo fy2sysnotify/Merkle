@@ -1,0 +1,5 @@
+zwilling_dev = 'https://development-eu01-zwilling.demandware.net/on/demandware.store/Sites-Site/default/ViewLogin-StartAM'
+zwilling_staging = 'https://staging-eu01-zwilling.demandware.net/on/demandware.store/Sites-Site/default/ViewLogin-StartAM'
+zwilling_dev_base_url = 'https://development-eu01-zwilling.demandware.net'
+zwilling_staging_base_url = 'https://staging-eu01-zwilling.demandware.net'
+export_directory = '/on/demandware.servlet/webdav/Sites/Impex/src/instance'

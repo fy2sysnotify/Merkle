@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="join-mailinglist-checkbox-label">
+    <display-name xml:lang="x-default">Join Mailing List Checkbox Label</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">Zwilling'den kişiye özel ticari elektronik iletilerini (sms ve e-posta) almak için açık onay veriyorum.</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="account-cart-checkout" />
+    </folder-links>
+  </content>
+</library>

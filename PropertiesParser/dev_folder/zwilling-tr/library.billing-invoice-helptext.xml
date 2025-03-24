@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+    <content content-id="personalId-tool-tip-text">
+        <display-name xml:lang="x-default">Personal ID</display-name>
+        <description xml:lang="x-default">Personal ID</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;strong&gt;Personal ID&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Please enter personal ID for personal invoice&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+    <content content-id="taxid-tool-tip-text">
+        <display-name xml:lang="x-default">Tax ID</display-name>
+        <display-name xml:lang="en-US">Country Tool Tip</display-name>
+        <description xml:lang="x-default">Tax ID</description>
+        <description xml:lang="en-US">Country Tool Tip</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;strong&gt;Tax ID&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Please enter tax id for commercial invoice&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="account-cart-checkout"/>
+        </folder-links>
+    </content>
+
+    <content content-id="taxoffice-tool-tip-text">
+        <display-name xml:lang="x-default">Tax Office</display-name>
+        <display-name xml:lang="en-US">Country Tool Tip</display-name>
+        <description xml:lang="x-default">Tax Office</description>
+        <description xml:lang="en-US">Country Tool Tip</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;strong&gt;Tax Office&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Please enter tax office for commercial invoice&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="account-cart-checkout"/>
+        </folder-links>
+    </content>
+    <content content-id="companyname-tool-tip-text">
+        <display-name xml:lang="x-default">Company Name</display-name>
+        <display-name xml:lang="en-US">Country Tool Tip</display-name>
+        <description xml:lang="x-default">Company Name</description>
+        <description xml:lang="en-US">Country Tool Tip</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;strong&gt;Company Name&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Please enter company name for commercial invoice&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="account-cart-checkout"/>
+        </folder-links>
+    </content>
+</library>

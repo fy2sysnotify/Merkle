@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+	<content content-id="hero-cinemagraph-asset">
+        <display-name xml:lang="x-default">Hero Cinemagraph asset</display-name>
+        <description xml:lang="x-default">Find all you need to slice sauté and serve with ease and expertise&#13;
+&#13;
+&lt;style&gt;&#13;
+    .hero-banner .hero-name {&#13;
+         color: #EFECEA;&#13;
+    }&#13;
+   .hero-banner  .hero-des {&#13;
+         color: #EFECEA;&#13;
+   }&#13;
+   .hero-banner  .hero-link a {&#13;
+        color: #FFFFFF;&#13;
+   }    &#13;
+&lt;/style&gt;</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;span&gt;Culinary&lt;/span&gt;&#13;
+&lt;span&gt;World&lt;/span&gt;</custom-attribute>
+            <custom-attribute attribute-id="image" xml:lang="x-default">images/hero/zwilling-culinary-world-italy-2-2000-690.jpg</custom-attribute>
+            <custom-attribute attribute-id="linkText" xml:lang="x-default">DISCOVER</custom-attribute>
+            <custom-attribute attribute-id="linkURL" xml:lang="x-default">javascript:void(0);</custom-attribute>
+            <custom-attribute attribute-id="mobileVideo" xml:lang="x-default">https://d1j2b0p0oara1s.cloudfront.net/zwilling/Italy2_compressed.mp4</custom-attribute>
+            <custom-attribute attribute-id="video" xml:lang="x-default">https://d1j2b0p0oara1s.cloudfront.net/zwilling/Italy2_compressed.mp4</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>

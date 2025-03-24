@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slot-configurations xmlns="http://www.demandware.com/xml/impex/slot/2008-09-08">
+    <slot-configuration slot-id="2-up-promo-image" context="global" configuration-id="2-up-promo-image" default="true" assigned-to-site="true">
+        <description>Content slot for 2-up promo with image section</description>
+        <template>slots/content/rendermoduletemplate.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="promo1-with-Image"/>
+                <content-asset content-id="promo2-with-Image"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+   
+</slot-configurations>

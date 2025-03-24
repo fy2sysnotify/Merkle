@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+  <content content-id="signup-policy-terms">
+    <display-name xml:lang="x-default">Sign Up Policy Terms</display-name>
+    <description xml:lang="x-default">Sign Up Policy Terms</description>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <custom-attributes>
+      <custom-attribute attribute-id="body" xml:lang="x-default">By Clicking Sign Up you are agreeing to the &lt;a href=&quot;$httpsUrl('Page-Show', 'cid', 'privacy-policy')$&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt; and &lt;a href=&quot;$httpsUrl('Page-Show', 'cid', 'terms')$&quot; target=&quot;_blank&quot;&gt;terms of use&lt;/a&gt;</custom-attribute>
+    </custom-attributes>
+  </content>
+</library>

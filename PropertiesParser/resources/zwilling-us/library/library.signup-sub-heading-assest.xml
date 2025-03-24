@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="ZwillingSharedLibrary">
+    <content content-id="signup-sub-heading">
+        <display-name xml:lang="x-default">Signup Sub Heading</display-name>
+        <description xml:lang="x-default">signup sub heading</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;your account lets you save items to your wishlist, track your orders and even get access  to exclusive offers&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+</library>
